@@ -1,0 +1,1019 @@
+studentNaturalKey,studentKey,AUID,firstName,lastName,school,major,email,phoneNumber,isBlocked,role,maxHours,active
+5d73c0bddfa03a17ecfb0b22,1,6000,Mhammed,Chraibi,SSE,BSCSC,mhammedchraibi@gmail.com,+212 6 77 88 99 44,false,manager,160,true
+5d73c0c0dfa03a17ecfb0b23,2,6001,Zakaria,El Asri,,,zakariae@cle.com,+212 6 77 88 99 55,false,manager,160,true
+5d764af9a1825c112065f6b3,3,70461,Chaimae,Kachchour El Ghanami,SBA,BBA,70461@aui.ma,0693001059,false,serviceprovider,160,true
+5d764c42a1825c112065f6b9,4,77539,Amine,Erriade,SBA,BBA,77539@aui.ma,0604941748,false,serviceprovider,160,true
+5d764cd5a1825c112065f6bd,5,68378,Hafsa,Gharradi,SBA,BBA,68378@aui.ma,0679900188,false,serviceprovider,160,true
+5d764d95a1825c112065f6bf,6,75983,Zineb,Attaoui,SSE,BSCSC,75983@aui.ma,0611752108,false,serviceprovider,160,true
+5d764db4a1825c112065f6c1,7,74283,Nouhaila,Benyahya,SSE,BSCSC,n.benyahya@aui.ma,0649713757,false,serviceprovider,160,true
+5d764e23a1825c112065f6c3,8,75450,Oumaima,El Azzouzi,SBA,MBA,o.elazzouzi@aui.ma,0662168607,false,serviceprovider,160,true
+5d764e41a1825c112065f6c5,9,76319,El Arbi,Belfarsi,SSE,BSCSC,e.belfarsi@aui.ma,0691692309,false,serviceprovider,160,true
+5d764e97a1825c112065f6c7,10,74077,Hiba,ELBASSITI,SSE,BSGE,74077@aui.ma,0639541720,false,serviceprovider,160,true
+5d764f38a1825c112065f6c9,11,63200,Elias,Ghechi,SBA,MBA,63200@aui.ma,0629638878,false,manager,160,true
+5d764f58a1825c112065f6cb,12,77206,Oussama,Tlaghi,SHSS,BAIS,o.tlaghi@aui.ma,+212670023565,false,serviceprovider,160,true
+5d76519da1825c112065f6ce,13,77627,Rihab,Oudda,SBA,BBA,r.oudda@aui.ma,0666760260,false,serviceprovider,160,true
+5d76558fa1825c112065f6d2,14,73619,Kenza,Abdelhaq,SBA,BBA,73619@aui.ma,0662653375,false,serviceprovider,160,true
+5d765879a1825c112065f6da,15,69710,Omar,Lahmidi,SBA,BBA,o.lahmidi@aui.ma,0691590092,false,serviceprovider,160,true
+5d765993a1825c112065f6dc,16,77325,Yasmine,El Mzabi,SBA,BBA,y.elmzabi@aui.ma,0655503060,false,serviceprovider,160,true
+5d7659c9a1825c112065f6de,17,69654,Meriem,Kasby,SBA,BBA,69654@aui.ma,0651381614,false,serviceprovider,160,true
+5d765b88a1825c112065f6e0,18,70149,Lamiaa,Zrara,SSE,BSEMS,l.zrara@aui.ma,0617205470,false,serviceprovider,160,true
+5d765c86a1825c112065f6e2,19,78253,Mouâd,Bousalama,SSE,BSCSC,m.bousalama@aui.ma,+212676268144,false,serviceprovider,160,true
+5d7660b0a1825c112065f6e5,20,75245,Jaafar,Hana,SBA,BBA,j.hana@aui.ma,0658428997,false,serviceprovider,160,true
+5d76628ba1825c112065f6e7,21,73968,Salma,El Ouazzani Touhami,SHSS,BACS,73968@aui.ma,0670495274,false,serviceprovider,160,true
+5d7665b2a1825c112065f6e9,22,61109,Fatima,Drar,SHSS,HRD,f.drar@aui.ma,0664840003,false,manager,160,true
+5d76665ea1825c112065f6ed,23,69621,Soukaïna,Aijou,SHSS,MAISD,69621@aui.ma,0622088944,false,manager,160,true
+5d7666a3a1825c112065f6f2,24,67228,Maftaha,Benchlikha,SHSS,BAIS,m.benchlikha@aui.ma,0641258905,false,serviceprovider,160,true
+5d76688ea1825c112065f6f4,25,76465,Malak,Saadallah,SBA,BBA,76465@aui.ma,0663621139,false,serviceprovider,160,true
+5d766966a1825c112065f6f6,26,68715,Imane,Chkoukout,SSE,BSCSC,i.chkoukout@aui.ma,0669079196,false,serviceprovider,160,true
+5d766db1a1825c112065f6ff,27,70500,Sara,Bouriaba,SSE,BSEMS,s.bouriaba@aui.ma,0638631989,false,serviceprovider,160,true
+5d7679c4a1825c112065f701,28,78566,Abir,Ben Seddik,SBA,BBA,abir.benseddik@aui.ma,0658877397,false,serviceprovider,160,true
+5d767a3fa1825c112065f703,29,70423,Camila,Messari,SHSS,BACS,c.messari@aui.ma,+212653859396,false,learner,160,true
+5d767a8ba1825c112065f705,30,78381,Mohamed Amine,Serghini,SSE,BSCSC,78381@aui.ma,0658678592,false,learner,160,true
+5d76813ba1825c112065f707,31,71402,Yousra,El Alaoui,SSE,BSEMS,71402@aui.ma,0662128388,false,serviceprovider,160,true
+5d7690d70a073c107830fdef,32,80504,Amina,EL KARIMI,SHSS,BAIS,a.elkarimi@aui.ma,0611713498,false,learner,160,true
+5d7695d30a073c107830fdf1,33,72597,Salah,Azekour,SSE,BSCSC,s.azekour@aui.ma,0650026364,false,learner,160,true
+5d7697eb0a073c107830fdf3,34,74163,Basma,Daoumer,SBA,BBA,b.daoumer@aui.ma,0608987880,false,serviceprovider,160,true
+5d76a2d40a073c107830fdf5,35,75664,Wiam,Alami Chehboune,SBA,BBA,w.alamichehboune@aui.ma,0674406246,false,serviceprovider,160,true
+5d76a3de0a073c107830fdf7,36,73581,Imad,Archid,SBA,BBA,i.archid@aui.ma,+212622251061,false,learner,160,true
+5d76b6ff0a073c107830fdf9,37,76055,Yousra,Bensouda,SSE,BSGE,y.bensouda@aui.ma,0642185802,false,serviceprovider,160,true
+5d76b85e9b7e5e1228283c6e,38,76650,Ziyad,Mourabiti,SSE,BSCSC,z.mourabiti@aui.ma,0634326681,false,learner,160,true
+5d76c3d09b7e5e1228283c9a,39,74723,Kenza,Nassiri,SHSS,BACS,74723@aui.ma,0659810096,false,serviceprovider,160,true
+5d76cc539b7e5e1228283ca2,40,81286,Youness,Khayour,SSE,BSCSC,y.khayour@aui.ma,0620275517,false,learner,160,true
+5d76e0c39b7e5e1228283caf,41,74222,Aspen,Barker,SHSS,BACS,74222@aui.ma,0623866779,false,serviceprovider,160,true
+5d76e0e19b7e5e1228283cb1,42,73110,Inass,Sabbahi,SSE,BSEMS,i.sabbahi@aui.ma,0611454200,false,serviceprovider,160,true
+5d776ab6376baf11ace2715a,43,67073,Ghada,Dellali,SBA,BBA,g.dellali@aui.ma,0637732092,false,learner,160,true
+5d776ace376baf11ace2715c,44,80279,AYA,BAKIR,SSE,BSCSC,a.bakir@aui.ma,0613798566,false,learner,160,true
+5d776beb376baf11ace27163,45,69769,MAAINE,AITOUNEJJAR,SBA,BBA,69769@aui.ma,0627575805,false,learner,160,true
+5d776dd7376baf11ace27165,46,64066,Abdelghafour,Mourchid,SSE,MSSE,a.mourchid@aui.ma,+212662133229,false,learner,160,true
+5d776e3f376baf11ace27167,47,77337,Saad,FAkri,SBA,BBA,77337@aui.ma,0632864982,false,learner,160,true
+5d776ea2376baf11ace27169,48,80339,Yassmine,Bentaibi,SBA,BBA,y.bentaibi@aui.ma,0601084968,false,learner,160,true
+5d776f2d376baf11ace2716b,49,66927,Fatima Ezzahra,Riakhi,SSE,BSEMS,f.riakhi@aui.ma,0610776917,false,serviceprovider,160,true
+5d776fda376baf11ace2716d,50,77862,Marouane,Moujahid,SBA,BBA,77862@aui.ma,0662802932,false,learner,160,true
+5d777083376baf11ace2716f,51,81656,Bilal,Elbouardi,SSE,BSCSC,b.elbouardi@aui.ma,0648265648,false,learner,160,true
+5d7770d9376baf11ace27171,52,77162,Aymen,Rachis,SBA,BBA,a.rachid@aui.ma,0675631548,false,learner,160,true
+5d777117376baf11ace27173,53,82986,Chaimae,Bouibes,SHSS,BAIS,c.bouibes@aui.ma,645332087,false,learner,160,true
+5d777170376baf11ace27175,54,76492,Zineb,Berghachi,SSE,BSEMS,76492@aui.ma,0664681463,false,learner,160,true
+5d7771be376baf11ace27177,55,82440,Hiba,Hafad,SBA,BBA,h.hafad@aui.ma,0693814526,false,learner,160,true
+5d77723e376baf11ace27179,56,76405,Oumaima,Aouche,SBA,BBA,o.aouche@aui.ma,0682322200,false,learner,160,true
+5d7772a3376baf11ace2717b,57,70206,Souad,Rahhal,SHSS,BACS,s.rahhal@aui.ma,+212678205757,false,serviceprovider,160,true
+5d7772cb376baf11ace2717d,58,80680,Aya,Mahboub,SSE,BSGE,aya.mahboub@aui.ma,0651657520,false,learner,160,true
+5d77743a376baf11ace2717f,59,80578,Khalil,Benattahellah,SSE,BSEMS,k.benattahellah@aui.ma,0671399179,false,learner,160,true
+5d77743e376baf11ace27181,60,75885,Ismael,Aakouk,SSE,BSGE,is.aakouk@aui.ma,0687828309,false,learner,160,true
+5d777457376baf11ace27183,61,79678,Anass,MEDDAH,SSE,BSCSC,a.meddah@aui.ma,0616447273,false,learner,160,true
+5d7774b5376baf11ace27186,62,75303,Mehdi,Barramou,SHSS,BACS,m.barramou@aui.ma,0700107215,false,learner,160,true
+5d777522376baf11ace27188,63,73268,Hamza,Slaoui Habib,SSE,BSCSC,73268@aui.ma,0674994242,false,learner,160,true
+5d77753b376baf11ace2718a,64,83243,Sahar,Echadli,SHSS,MAISD,s.echadli@aui.ma,+212617034270,false,learner,160,true
+5d777586376baf11ace2718c,65,76513,Imane,Iraoui,SSE,BSCSC,i.iraoui@aui.ma,0653826872,false,learner,160,true
+5d7775bf376baf11ace2718e,66,80494,Asmae,Miloudi,SSE,BSEMS,a.miloudi@aui.ma,0662513575,false,learner,160,true
+5d7775d6376baf11ace27190,67,77453,Imad,Bouayad,SBA,BBA,im.bouayad@aui.ma,0679825823,false,learner,160,true
+5d777727376baf11ace27192,68,76865,Yassir,BENABDALLAH,SSE,BSCSC,y.benabdallah@aui.ma,0697881241,false,learner,160,true
+5d77774f376baf11ace27194,69,69916,Diae,Lamiri,SBA,BBA,d.lamiri@aui.ma,0639506226,false,serviceprovider,160,true
+5d7777c9376baf11ace27196,70,81503,OUSSAMA,MOUH,SSE,BSCSC,o.mouh@aui.ma,0669436041,false,learner,160,true
+5d7777d9376baf11ace27198,71,76304,Zineb Salma,Bahri,SSE,BSGE,z.bahri@aui.ma,0634382122,false,serviceprovider,160,true
+5d7777ea376baf11ace2719a,72,76453,Soukaina,Gadir,SSE,BSCSC,s.gadir@aui.ma,0680889852,false,learner,160,true
+5d77793d376baf11ace2719c,73,76420,Younes,Messari,SSE,BSCSC,y.messari@aui.ma,0624306690,false,serviceprovider,160,true
+5d777944376baf11ace2719e,74,79983,Nouha,DOHRI,SBA,BBA,n.dohri@aui.ma,0762528808,false,learner,160,true
+5d777958376baf11ace271a0,75,76269,Laila,Haidour,SHSS,BSHRD,76269@aui.ma,0667974234,false,serviceprovider,160,true
+5d7779fd376baf11ace271a2,76,78835,Ayah,Isbayene,SHSS,BAIS,a.isbayene@aui.ma,0633059916,false,serviceprovider,160,true
+5d777a0e376baf11ace271a4,77,75226,Chaimae,Farhane,SBA,BBA,c.farhane@aui.ma,0643909313,false,serviceprovider,160,true
+5d777a3f376baf11ace271a6,78,76576,Othmane,Atanane,SSE,BACS,o.atanane@aui.ma,+212650957222,false,learner,160,true
+5d777a47376baf11ace271a8,79,76803,Mohamed Amine,Harrabida,SSE,BSCSC,m.harrabida@aui.ma,0628888551,false,serviceprovider,160,true
+5d777b35376baf11ace271aa,80,76998,Rim,Habbouch,SBA,BA/MA,r.habbouch@aui.ma,0636508616,false,learner,160,true
+5d777c5e376baf11ace271ad,81,73539,Walid,Lamrini,SSE,BSCSC,w.lamrini@aui.ma,0613576956,false,learner,160,true
+5d777e3a376baf11ace271b2,82,81676,Imane,Chiker,SBA,BBA,i.chiker@aui.ma,0608673916,false,learner,160,true
+5d777e78376baf11ace271b4,83,59048,Oussama,El Khairi,SHSS,BACS,59048@aui.ma,0668225000,false,learner,160,true
+5d77800a376baf11ace271b6,84,73613,Hanaa,ELALAMI,SSE,BSEMS,hanaa.elalami@aui.ma,0629752835,false,learner,160,true
+5d778034376baf11ace271b8,85,76528,Asmae,Alaoui Mhammedi,SBA,BBA,76528@aui.ma,0658734499,false,serviceprovider,160,true
+5d7780c8376baf11ace271bd,86,82969,Imad,Khallouki,SBA,BBA,i.khallouki@aui.ma,0613485577,false,learner,160,true
+5d778243376baf11ace271c1,87,75562,Zineb,Aynan,SBA,BBA,75562@aui.ma,0655336240,false,learner,160,true
+5d778391376baf11ace271c3,88,75063,Kenza,Faraj Allah,SHSS,BAIS,k.farajallah@aui.ma,0661133506,false,learner,160,true
+5d778438376baf11ace271c5,89,71114,Maha,Bouamar,SBA,BBA,71114@aui.ma,+212682021068,false,learner,160,true
+5d7788ba376baf11ace271c7,90,73847,Nizar,Sabbar,SSE,BSCSC,73847@aui.ma,+212610862940,false,learner,160,true
+5d77896e376baf11ace271c9,91,74424,Anass,Ibrahimi,SSE,BSCSC,74424@aui.ma,0608055833,false,learner,160,true
+5d778977376baf11ace271cb,92,79155,Khaoula,Ait Soussi,SSE,BSCSC,k.aitsoussi@aui.ma,0637885435,false,learner,160,true
+5d778a2e376baf11ace271cd,93,75883,Oumaima,Lazaar,SBA,BBA,o.lazaar@aui.ma,0643706929,false,learner,160,true
+5d778c0d376baf11ace271cf,94,81550,Yasmine,Belaaiza,SBA,BBA,y.belaaiza@aui.ma,0603469755,false,learner,160,true
+5d778d35376baf11ace271d1,95,79874,Ghalya,Ennahir,SBA,BA/MA,g.ennahir@aui.ma,0632202670,false,learner,160,true
+5d778f12376baf11ace271d3,96,70134,Slimane,El Ouafi,SSE,BSCSC,70134@aui.ma,0651999010,false,serviceprovider,160,true
+5d779067376baf11ace271d5,97,73469,Safae,Aourach,SBA,BBA,s.aourach@aui.ma,0604323619,false,learner,160,true
+5d7791e5376baf11ace271da,98,71416,imane,Alami Harchali,SBA,BBA,71416@aui.ma,0698197359,false,learner,160,true
+5d77922d376baf11ace271dc,99,77808,Nissrine,Hachimi,SBA,BBA,n.hachimi@aui.ma,0661183778,false,learner,160,true
+5d7793de376baf11ace271de,100,75601,Wiam,Stitou,SBA,BBA,w.stitou@aui.ma,0675347937,false,serviceprovider,160,true
+5d779832376baf11ace271e2,101,76167,Radouane,Elbardai,SBA,BBA,r.elbardai@aui.ma,+212652478220,false,learner,160,true
+5d779a37376baf11ace271e4,102,75084,Younes,Louryagli amine,SSE,BSGE,y.louryagliamine@aui.ma,0652091914,false,learner,160,true
+5d779abd376baf11ace271e6,103,79513,Reda,Kaidi,SBA,BBA,79513@aui.ma,0696130826,false,learner,160,true
+5d779c0f376baf11ace271e9,104,82114,Alyae,Alaoui,SHSS,MAISD,al.alaoui@aui.ma,0649095824,false,learner,160,true
+5d779c1c376baf11ace271eb,105,67058,Hamza,El Hafdaoui,SSE,MSSEM,h.elhafdaoui@aui.ma,06.05.20.55.94,false,serviceprovider,320,true
+5d779fbbc8e3f3173cada82c,106,78476,Otman,El idrissi,SBA,BBA,o.elidrissi@aui.ma,067672290&,false,learner,160,true
+5d77a178c8e3f3173cada82f,107,79201,Khalil,Mata,SBA,BBA,k.mata@aui.ma,0644780527,false,learner,160,true
+5d77a29fc8e3f3173cada831,108,75934,Nissrine,Ben Hida,SBA,BBA,n.benhida@aui.ma,0690968088,false,serviceprovider,160,true
+5d77a46dc8e3f3173cada834,109,78530,Manal,El Kamali,SBA,BBA,m.elkamali@aui.ma,0636126125,false,serviceprovider,160,true
+5d77a48ac8e3f3173cada836,110,82700,Ibtissam,Essenhaji,SSE,BSGE,i.essenhaji@aui.ma,0654492058,false,learner,160,true
+5d77a48dc8e3f3173cada838,111,82283,Nour El Houda,Recham,SHSS,MAISD,n.recham@aui.ma,0688632628,false,learner,160,true
+5d77a515c8e3f3173cada83b,112,75674,Chaima,Dalil,SSE,MSSE,75674@aui.ma,0643311600,false,learner,160,true
+5d77a54fc8e3f3173cada83e,113,73695,Mohammed,BenAmar,SSE,BSEMS,mo.benamar@aui.ma,0673772578,false,learner,160,true
+5d77a7c9c8e3f3173cada842,114,76439,Salma,Benrouyne,SBA,BBA,sa.benrouyne@aui.ma,0636527182,false,learner,160,true
+5d77abe2c8e3f3173cada84c,115,75308,Ali,Atiallah,SBA,BBA,75308@aui.ma,0615188209,false,learner,160,true
+5d77abfbc8e3f3173cada84f,116,74120,Hajar,Marhfour,SSE,BSEMS,h.marhfour@aui.ma,0639139314,false,learner,160,true
+5d77ae09c8e3f3173cada861,117,1678,Mhammed,Chraibi,SSE,MSSE,m.chraibi@aui.ma,00212663518095,false,learner,160,true
+5d77b0bbc8e3f3173cada86d,118,55784,Fatima Zahra,Bendriouch,SBA,MBA,55784@aui.ma,+212661814434,false,manager,160,true
+5d77b55ac8e3f3173cada888,119,76761,Nour,Berrada,SBA,BBA,nour.berrada@aui.ma,0622232909,false,serviceprovider,160,true
+5d77b5a5c8e3f3173cada88a,120,80247,Salma,HANINE,SSE,BSCSC,s.hanine@aui.ma,0777520370,false,learner,160,true
+5d77b755c8e3f3173cada899,121,81256,Assya,Zaki,SBA,BBA,as.zaki@aui.ma,+212621933561,false,learner,160,true
+5d77b8b7c8e3f3173cada8a7,122,70068,Ghita,Salouane,SBA,BBA,g.salouane@aui.ma,0625876419,false,learner,160,true
+5d77b8dfc8e3f3173cada8a9,123,70181,Meryem,Kassab,SSE,BSCSC,m.kassab@aui.ma,0676812334,false,learner,160,true
+5d77b91dc8e3f3173cada8ad,124,76467,Fadwa,BEN LAAMA,SSE,BSEMS,f.benlaama@aui.ma,0643566311,false,learner,160,true
+5d77b9d7c8e3f3173cada8b2,125,73645,Meriem,Hadime,SBA,BBA,m.hadime@aui.ma,0651296626,false,learner,160,true
+5d77ba7dc8e3f3173cada8b9,126,80972,Jad,Benabbou,SBA,BBA,j.benabbou@aui.ma,0663543564,false,learner,160,true
+5d77ba92c8e3f3173cada8bb,127,81371,Anas,Rotbi,SSE,BSCSC,a.rotbi@aui.ma,0670027524,false,learner,160,true
+5d77bb1fc8e3f3173cada8c1,128,74136,Reda,El Makroum,SSE,BSGE,74136@aui.ma,0669914120,false,learner,160,true
+5d77bba0c8e3f3173cada8c8,129,78828,Hammadi-Taha,Belayachi,SBA,BBA,h.belayachi@aui.ma,0633380908,false,learner,160,true
+5d77bf2cc8e3f3173cada8de,130,76421,Bakr,Ouzif,SSE,BSCSC,b.ouzif@aui.ma,0668935594,false,learner,160,true
+5d77c01cc8e3f3173cada8e8,131,82345,Imane,Ettabaa,SSE,BSCSC,i.ettabaa@aui.ma,0619243841,false,learner,160,true
+5d77c293c8e3f3173cada8f8,132,77107,Soukaina,Jaafari,SSE,BSEMS,s.jaafari@aui.ma,0684219238,false,learner,160,true
+5d77c73ac8e3f3173cada901,133,78259,Imane,Jalal,SSE,MSSE,78259@aui.ma,0624651522,false,learner,160,true
+5d77c905c8e3f3173cada903,134,70773,Ghita,Rochdi,SSE,BSEMS,g.rochdi@aui.ma,0649900686,false,serviceprovider,160,true
+5d77c994c8e3f3173cada905,135,75383,Meryem,El Mouhib,SHSS,BAIS,m.elmouhib@aui.ma,0663818685,false,serviceprovider,160,true
+5d77cb09c8e3f3173cada908,136,79712,nouhaila,merzouk,SBA,BBA,n.merzouk@aui.ma,0658853639,false,learner,160,true
+5d77cba8c8e3f3173cada90a,137,69779,Oumaima,Bendraoui,SBA,BBA,o.bendraoui@aui.ma,0662324946,false,serviceprovider,160,true
+5d77cc95c8e3f3173cada915,138,78356,Mohammed,ES-SAFI,SSE,BSCSC,m.es-safi@aui.ma,0687198437,false,serviceprovider,160,true
+5d77ccb4c8e3f3173cada918,139,52029,Chaimae,Mesbah,SSE,BSEMS,c.mesbah@aui.ma,0666861798,false,learner,160,true
+5d77d150c8e3f3173cada956,140,77780,Sami,Maizi,SSE,BSCSC,s.maizi@aui.ma,0656790131,false,learner,160,true
+5d77d36cc8e3f3173cada960,141,81271,Othmane,Sifi,SSE,BSCSC,o.sifi@aui.ma,0625702990,false,learner,160,true
+5d77d3e4c8e3f3173cada966,142,75661,Raghda,Jaja,SHSS,BBA,75661@aui.ma,0610853860,false,learner,160,true
+5d77d3f0c8e3f3173cada968,143,80011,Hiba,Chemzari,SBA,BBA,h.chemzari@aui.ma,0681872486,false,learner,160,true
+5d77d6adc8e3f3173cada970,144,77615,Ahmed,Bazzi,SSE,BSGE,77615@aui.ma,212658725137,false,learner,160,true
+5d77de5fc8e3f3173cada972,145,75940,Sahl,El Khamkhami,SBA,BBA,s.elkhamkhami@aui.ma,0604904996,false,serviceprovider,160,true
+5d77ded7c8e3f3173cada975,146,77101,Salma,Aurhai,SSE,BSGE,77101@aui.ma,0696226711,false,learner,160,true
+5d77e184c8e3f3173cada97a,147,77073,Ouissal,Moumou,SSE,BSCSC,o.moumou@aui.ma,212706892202,false,serviceprovider,160,true
+5d77e20cc8e3f3173cada97c,148,77974,Mouna,Sidi Aly,SSE,BSGE,m.sidialy@aui.ma,0641934130,false,learner,160,true
+5d77e3d8c8e3f3173cada97e,149,71301,Fatima zahra,Belhamri,SBA,BBA,f.belhamri@aui.ma,0624515113,false,learner,160,true
+5d77eecac8e3f3173cada986,150,72167,Ayoub,BOUKIR,SBA,BBA,72167@aui.ma,0661373677,false,learner,160,true
+5d77f60bc8e3f3173cada98a,151,78314,Abir,Ouahabi,SSE,BSCSC,a.ouahabi@aui.ma,0606300153,false,learner,160,true
+5d77f7b0c8e3f3173cada98c,152,75793,Nada,Benallouch,SBA,BBA,75793@aui.ma,0659095061,false,serviceprovider,160,true
+5d77fa8ac8e3f3173cada994,153,76148,Nouhaila,Larhlida,SSE,BSGE,n.larhlida@aui.ma,0627881663,false,learner,160,true
+5d77fe74c8e3f3173cada9ae,154,80077,Nada,Laabid,SSE,BSCSC,na.laabid@aui.ma,0643826221,false,learner,160,true
+5d77fe84c8e3f3173cada9b1,155,76557,Omar,senhaji,SBA,BA/MA,76557@aui.ma,0693354337,false,serviceprovider,160,true
+5d7805a1c8e3f3173cada9d6,156,80449,Marwa,Quassimi,SBA,BBA,m.quassimi@aui.ma,0604261575,false,learner,160,true
+5d78065dc8e3f3173cada9df,157,77664,Aniss,EL WISSI,SSE,BSGE,a.elwissi@aui.ma,0629664603,false,learner,160,true
+5d780693376baf11ace270fe,158,77739,Aya,Hanouni,SBA,BBA,a.hanouni@aui.ma,+212626911609,false,serviceprovider,160,true
+5d7806b3376baf11ace27100,159,78977,Fatima ezzahra,Tarib,SSE,BSGE,f.tarib@aui.ma,0661358032,false,learner,160,true
+5d7806b7376baf11ace27102,160,83513,Ranya,RHAZI,SSE,BSCSC,r.rhazi@aui.ma,0699154690,false,learner,160,true
+5d7806b9376baf11ace27104,161,72883,Btissam,Hajjaoui,SSE,BSEMS,b.hajjaoui@aui.ma,0682672266,false,serviceprovider,160,true
+5d7806dd376baf11ace27106,162,83044,Anass,Baättite,SSE,BSCSC,a.baattite@aui.ma,0611630352,false,learner,160,true
+5d7806ea376baf11ace27108,163,79631,Nezar,ELOUALI,SSE,BSCSC,n.elouali@aui.ma,0624386467,false,learner,160,true
+5d7806ec376baf11ace2710a,164,77740,Salma,Harrak,SBA,BBA,s.harrak@aui.ma,0649335369,false,learner,160,true
+5d78070c376baf11ace2710c,165,82200,Hiba,Bahi,SSE,BSEMS,h.bahi@aui.ma,0605486188,false,learner,160,true
+5d78072f376baf11ace2710e,166,72743,Yassine,Aourid,SSE,BSCSC,72743@aui.ma,0661614177,false,learner,160,true
+5d780743376baf11ace27110,167,78187,Noureddine,Chayrrou,SBA,BBA,n.chayrrou@aui.ma,0661324657,false,learner,160,true
+5d780764376baf11ace27112,168,80224,Ayoub,El baraka,SSE,BSCSC,ay.elbaraka@aui.ma,0601058955,false,learner,160,true
+5d7807b2c8e3f3173cada9e5,169,80068,Oumayma,El Ghamrasni,SSE,BSCSC,o.elghamrasni@aui.ma,0622314630,false,learner,160,true
+5d7807d3376baf11ace27114,170,81437,Soufiane,Tounsi,SSE,BSCSC,so.tounsi@aui.ma,0635738894,false,learner,160,true
+5d780817376baf11ace27116,171,66949,Oumaima,Cherkaoui deqaqi,SBA,BBA,66949@aui.ma,0662575146,false,learner,160,true
+5d780827376baf11ace27118,172,81643,Mohamed,Sefyani Lakrizi,SSE,BSCSC,m.sefyanilakrizi@aui.ma,0762914290,false,learner,160,true
+5d780837376baf11ace2711a,173,80447,Yasmine,Senhadji,SSE,BSEMS,y.senhadji@aui.ma,0604536237,false,learner,160,true
+5d78083a376baf11ace2711c,174,70085,Lara,Zayani,SHSS,BSHRD,l.zayani@aui.ma,0659089169,false,learner,160,true
+5d78083f376baf11ace2711e,175,80156,Hiba,Jabrane,SBA,BBA,hi.jabrane@aui.ma,0649498964,false,learner,160,true
+5d780890376baf11ace27120,176,73641,karim,kessab,SBA,BBA,73641@aui.ma,0670036777,false,learner,160,true
+5d7808e9376baf11ace27122,177,76287,Leila Farah,Moussa,SSE,BSCSC,l.moussa@aui.ma,0613348619,false,learner,160,true
+5d7809d9376baf11ace27124,178,80034,Ghali,Ouazzani,SBA,BBA,e.ouazzanitouhami@aui.ma,0620564301,false,learner,160,true
+5d7809f0376baf11ace27126,179,82628,Hamza,Lahlali,SSE,BSEMS,h.lahlali@aui.ma,0613886738,false,learner,160,true
+5d780a27376baf11ace27128,180,82482,Bilal,Lorhlam,SSE,BSCSC,b.lorhlam@aui.ma,+212675593225,false,learner,160,true
+5d780aa9376baf11ace2712a,181,80305,souhail,Hamdy,SSE,MSSEM,s.hamdy@aui.ma,0619399914,false,learner,160,true
+5d780aac376baf11ace2712c,182,82768,Ziad,Lahlou,SSE,BSCSC,ziad.lahlou@aui.ma,0662091309,false,learner,160,true
+5d780abb376baf11ace2712e,183,79805,Mohamed Amine,Hassani,SSE,BSCSC,mo.hassani@aui.ma,0650683148,false,learner,160,true
+5d780b05376baf11ace27130,184,81212,Hiba,Ghilassi,SBA,MBA,h.ghilassi@aui.ma,0707703872,false,learner,160,true
+5d780d0b376baf11ace27133,185,79945,Iliass,Jabali,SSE,BSCSC,i.jabali@aui.ma,0618965447,false,learner,160,true
+5d780d2f376baf11ace27135,186,80998,Mariem,Aalabou,SSE,BSCSC,m.aalabou@aui.ma,0653166623,false,learner,160,true
+5d780db1376baf11ace27137,187,81356,RYADI,Amine,SSE,BSGE,a.ryadi@aui.ma,0604677108,false,learner,160,true
+5d780db4376baf11ace27139,188,77640,abla,khoubbane,SBA,BBA,a.khoubbane@aui.ma,0659791086,false,learner,160,true
+5d780e54376baf11ace2713b,189,77351,Abdellah,Moungid,SSE,BSCSC,a.moungid@aui.ma,0662647378,false,learner,160,true
+5d780e79376baf11ace2713d,190,80926,Asmae,Elghbali,SBA,BBA,a.elghbali@aui.ma,0671917202,false,learner,160,true
+5d780ecc376baf11ace27140,191,77369,Aisha,Sabet,SSE,BSEMS,77369@aui.ma,0624578423,false,learner,160,true
+5d780ef4376baf11ace27142,192,81017,Hamza,EL ALAOUI,SSE,BSCSC,h.elalaoui@aui.ma,0661512619,false,learner,160,true
+5d780efe376baf11ace27144,193,81702,Mohammed,Benabdeslam,SSE,BSCSC,m.benabdeslam@aui.ma,0658032276,false,learner,160,true
+5d780f11c8e3f3173cadaa28,194,82089,Mohammed,Anagaa,SBA,BBA,m.anagaa@aui.ma,0624379002,false,learner,160,true
+5d780f13c8e3f3173cadaa2a,195,76927,Abdellah,BERNI,SSE,BSCSC,76927@aui.ma,0632564590,false,learner,160,true
+5d780f5e376baf11ace27146,196,79370,Zakaria,Moudakir,SBA,BBA,z.moudakir@aui.ma,0708074131,false,learner,160,true
+5d780f8a376baf11ace27148,197,81120,Ahmed,Jaafari,SSE,BSCSC,a.jaafari@aui.ma,0658537105,false,learner,160,true
+5d780fda376baf11ace2714a,198,74231,Hajar,Hermas,SBA,BBA,h.hermas@aui.ma,0637138333,false,learner,160,true
+5d780fe8376baf11ace2714c,199,76190,Aya,Boutajrit,SHSS,BACS,76190@aui.ma,0617098646,false,learner,160,true
+5d7810de376baf11ace2714f,200,81925,Sahar,Khamoosh,SHSS,BAIS,s.khamoosh@aui.ma,0666906322,false,learner,160,true
+5d781118376baf11ace27151,201,73793,Mohamed,Aghzal,SSE,BSCSC,m.aghzal@aui.ma,0651704658,false,serviceprovider,160,true
+5d78118e376baf11ace27153,202,81966,Yassine,Elakhdar,SHSS,MAISD,y.elakhdar@aui.ma,0620831951,false,learner,160,true
+5d781203376baf11ace27155,203,81187,Mahmoud,Erradi,SSE,BSCSC,m.erradi@aui.ma,0678192196,false,learner,160,true
+5d78134f376baf11ace27157,204,82516,Saba,Loubiri,SBA,BA/MA,s.loubiri@aui.ma,0629679612,false,learner,160,true
+5d7814e4c8e3f3173cadaa3a,205,76664,Fatima Ezzahra,Boughazroun,SSE,BSEMS,76664@aui.ma,0604311639,false,learner,160,true
+5d78174dc8e3f3173cadaa47,206,80066,Ali,Lmalki,SSE,BSCSC,a.lmalki@aui.ma,0682587988,false,learner,160,true
+5d781abdc8e3f3173cadaa49,207,81617,Soukaina,Khribech,SSE,BSGE,s.khribech@aui.ma,0671075430,false,learner,160,true
+5d781e2ac8e3f3173cadaa4f,208,82945,Maimouna,Traore,SSE,BSCSC,m.traore@aui.ma,0694197457,false,learner,160,true
+5d781eeac8e3f3173cadaa53,209,73666,Aymane,Salhi,SBA,BBA,ay.salhi@aui.ma,0670-440347,false,learner,160,true
+5d782390c8e3f3173cadaa84,210,83091,Younes,Boubbou,SSE,BSCSC,y.boubbou@aui.ma,0652925439,false,learner,160,true
+5d7824b6c8e3f3173cadaa8e,211,77448,Hiba,El Harrak,SSE,BSEMS,hi.elharrak@aui.ma,0690620212,false,serviceprovider,160,true
+5d78296fc8e3f3173cadaa9f,212,81051,Nour Eddine,Amraoui,SSE,BSCSC,n.amraoui@aui.ma,0627668628,false,learner,160,true
+5d782c12c8e3f3173cadaaa9,213,83112,Asmae,Guemrani,SSE,BSGE,a.guemrani@aui.ma,0609472202,false,learner,160,true
+5d7830c3c8e3f3173cadaaad,214,74738,Abdrahman,Andaloussi,SBA,BBA,a.andaloussi@aui.ma,0637116973,false,learner,160,true
+5d785eb1c8e3f3173cadaab6,215,73535,Ibrahim,JAIDI,SBA,BBA,73535@aui.ma,0667050024,false,learner,160,true
+5d789c8ac8e3f3173cadaab8,216,78023,Hajar,Zaiz,SSE,BSCSC,78023@aui.ma,+212689299090,false,learner,160,true
+5d78a709c8e3f3173cadaaba,217,81000,Adam,Bargach,SSE,BSGE,ad.bargach@aui.ma,0662156296,false,learner,160,true
+5d78c4aac8e3f3173cadaae7,218,67973,Nachoua,Azizi,SSE,BSEMS,n.azizi@aui.ma,0656778135,false,learner,160,true
+5d78cfb5c8e3f3173cadab1e,219,1160,Adel,Elbouzagaoui,SBA,BBA,a.elbouzagaoui@aui.ma,0626029423,false,learner,160,true
+5d78d0bcc8e3f3173cadab29,220,81382,M’hamed,Taik,SBA,BBA,m.taik@aui.ma,0696447872,false,learner,160,true
+5d78d168c8e3f3173cadab2d,221,73429,Zainab,Berriane,SBA,BBA,z.berriane@aui.ma,0643195848,false,serviceprovider,160,true
+5d78e81cc8e3f3173cadab31,222,67225,Ayda,Benjelloun,SBA,MBA,67225@aui.ma,0672396212,false,learner,160,true
+5d78e888c8e3f3173cadab33,223,73283,Firdaouss,Hadri,SSE,BSEMS,f.hadri@aui.ma,0636927826,false,serviceprovider,160,true
+5d78e88bc8e3f3173cadab35,224,64810,Abdelhamid,Charif,SBA,BBA,64810@aui.ma,0650012488,false,serviceprovider,160,true
+5d78e8fac8e3f3173cadab37,225,80116,Mohamed Bouya,Malainin,SSE,BSGE,m.malainin@aui.ma,+212658788784,false,learner,160,true
+5d78ebd6c8e3f3173cadab45,226,77890,Imane,Raddaoui,SSE,BSEMS,i.raddaoui@aui.ma,0623721653,false,learner,160,true
+5d78f1e7c8e3f3173cadab4c,227,80000,Ibtissame,Bourhnane,SHSS,BAIS,i.bourhnane@aui.ma,00212610788276,false,learner,160,true
+5d78fdd8c8e3f3173cadab74,228,76884,leila,zouid,SSE,BSEMS,l.zouid@aui.ma,0653779523,false,learner,160,true
+5d78fe0ac8e3f3173cadab76,229,72784,Oumaima,Zaaiti,SBA,BBA,o.zaaiti@aui.ma,0661857940,true,learner,160,true
+5d78ff1ec8e3f3173cadab78,230,74290,Mehdi,Karmouche,SSE,BSCSC,74290@aui.ma,0611697455,false,learner,160,true
+5d7900dec8e3f3173cadab7c,231,76327,mohamed,azzouz,SSE,BSEMS,m.azzouz@aui.ma,0644276081,false,learner,160,true
+5d7900e1c8e3f3173cadab7e,232,80434,Aymane,El Motaouakkiel,SSE,BSCSC,a.elmotaouakkiel@aui.ma,0628400436,false,learner,160,true
+5d79085fc8e3f3173cadab8d,233,82956,Salim,Lahlou,SSE,BSGE,sa.lahlou@aui.ma,0700751266,false,learner,160,true
+5d790902c8e3f3173cadab91,234,79471,Chadi,Rachad,SSE,BSGE,c.rachad@aui.ma,656630839,false,learner,160,true
+5d7909e1c8e3f3173cadab98,235,81246,Zineb,Boukouiss,SSE,BSEMS,z.boukouiss@aui.ma,0637705222,false,learner,160,true
+5d790dd2c8e3f3173cadaba6,236,76312,Anass,Erroummati,SSE,BSCSC,a.erroummati@aui.ma,0664924250,false,learner,160,true
+5d79101dc8e3f3173cadabb3,237,80915,Sabrine,Sannaky,SSE,MSCSC,s.sannaky@aui.ma,0625689786,false,learner,160,true
+5d79147fc8e3f3173cadabbb,238,80302,Nour,Salami,SBA,BBA,n.salami@aui.ma,0609012355,false,learner,160,true
+5d791b0bc8e3f3173cadabcf,239,77950,Rania,Ouled Hassan,SBA,BBA,r.ouledhassan@aui.ma,212643888934,false,learner,160,true
+5d791ce6c8e3f3173cadabe2,240,73430,Salma,Zekri,SHSS,BAIS,salma.zekri@aui.ma,0611839986,false,serviceprovider,160,true
+5d792209c8e3f3173cadabf7,241,81040,Hajar,Boutaleb,SSE,BSEMS,h.boutaleb@aui.ma,0676873773,false,learner,160,true
+5d7928d1c8e3f3173cadac16,242,78203,Khadija,Lakrachi,SBA,BBA,k.lakrachi@aui.ma,0644577354,false,learner,160,true
+5d792a8dc8e3f3173cadac19,243,81377,Sofia,Hadime,SSE,BSCSC,s.hadime@aui.ma,0642592330,false,learner,160,true
+5d792c80c8e3f3173cadac22,244,69276,Samya,Kasimi,SBA,BA/MA,69276@aui.ma,0631713670,false,learner,160,true
+5d792ff9c8e3f3173cadac2a,245,75253,sanae,ouhmad,SBA,BBA,sa.ouhmad@aui.ma,0643493308,false,learner,160,true
+5d7932a9c8e3f3173cadac3c,246,81428,Basma,Khatiri,SSE,BSCSC,b.khatiri@aui.ma,0628362411,false,learner,160,true
+5d793340c8e3f3173cadac3e,247,81232,Khawla,Dada,SSE,BSEMS,k.dada@aui.ma,0619321557,false,learner,160,true
+5d793a4ac8e3f3173cadac48,248,77379,Jaafar,Amahrit,SBA,BBA,j.amahrit@aui.ma,0662080421,false,serviceprovider,160,true
+5d793af1c8e3f3173cadac4c,249,79284,Narjis,Bendourou,SBA,BBA,79284@aui.ma,0650305039,false,learner,160,true
+5d793ce6c8e3f3173cadac51,250,77638,Hasnaa,Mzil,SBA,BBA,77638@aui.ma,0634009029,false,learner,160,true
+5d794b7cc8e3f3173cadac75,251,69334,Chaimae,El-bakkouri,SBA,MBA,c.el-bakkouri@aui.ma,0661143732,false,learner,160,true
+5d7956b5de1d4c0f50e542e1,252,79776,Nour ElHouda,Chaibi,SBA,BA/MA,n.chaibi@aui.ma,0694683672,false,learner,160,true
+5d7956ffde1d4c0f50e542e3,253,77900,Malak,EL MOUEDDEN,SSE,BSEMS,77900@aui.ma,0624649948,false,learner,160,true
+5d795785de1d4c0f50e542e5,254,70271,Ghita,Satiaa,SBA,BBA,g.satiaa@aui.ma,0625085109,false,serviceprovider,160,true
+5d79579fde1d4c0f50e542e7,255,77355,Asmae,Azzi,SSE,BSCSC,77355@aui.ma,0767252139,false,learner,160,true
+5d7958bede1d4c0f50e542eb,256,83130,Aya,Chouki,SBA,BBA,a.chouki@aui.ma,0657243308,false,learner,160,true
+5d79654ade1d4c0f50e542ee,257,76026,Chaimae,Sbia,SBA,BBA,76026@aui.ma,0650554052,false,learner,160,true
+5d7965f4de1d4c0f50e542f3,258,73494,Mohamed,Aboulrhit,SSE,BSCSC,m.aboulrhit@aui.ma,06.77.32.51.82,false,learner,160,true
+5d79715bde1d4c0f50e54301,259,80265,Mohammed ali,Amakhmakh,SBA,BA/MA,m.amakhmakh@aui.ma,0639529149,false,learner,160,true
+5d797572de1d4c0f50e54305,260,76592,Youssef,Gaimes,SSE,BSCSC,76592@aui.ma,0694916559,false,learner,160,true
+5d79a1d3de1d4c0f50e5430e,261,77700,Nada,El Madani,SBA,BBA,77700@aui.ma,0682049012,false,learner,160,true
+5d7a035ade1d4c0f50e54318,262,76836,Houssam,Quanbouli,SBA,BBA,h.quanbouli@aui.ma,0639523942,false,learner,160,true
+5d7a1a90de1d4c0f50e5433c,263,79993,Omar,Al Fezghari,SSE,BSGE,o.alfezghari@aui.ma,0664963891,false,learner,160,true
+5d7a1aebde1d4c0f50e5433e,264,81555,Oumaima hiba,Rahmaoui,SSE,BSCSC,o.rahmaoui@aui.ma,0682218128,false,learner,160,true
+5d7a1b5ede1d4c0f50e54340,265,80572,Fatima ezzahra,El khounchafi,SBA,BA/MA,f.elkhounchafi@aui.ma,00212624362698,false,learner,160,true
+5d7a1d68de1d4c0f50e5434a,266,75269,Aiman,Mrizig,SBA,BBA,a.mrizig@aui.ma,0687942375,false,learner,160,true
+5d7a1e2ade1d4c0f50e5434f,267,76614,Imane,Guessous,SSE,BSCSC,76614@aui.ma,0679013000,false,learner,160,true
+5d7a1f01de1d4c0f50e54358,268,76671,Asmaa,Noufiaa,SSE,BSEMS,a.noufiaa@aui.ma,0654920257,false,learner,160,true
+5d7a1f9fde1d4c0f50e5435a,269,80904,Chada,El Fihri,SSE,BSCSC,c.elfihri@aui.ma,0637802584,false,learner,160,true
+5d7a20fdde1d4c0f50e5435d,270,77620,Kenza,Serghini,SSE,BSGE,ke.serghini@aui.ma,0662747875,false,learner,160,true
+5d7a2302de1d4c0f50e54362,271,80040,Hassan,Glah,SBA,BBA,h.yohan@aui.ma,+212697489913,false,learner,160,true
+5d7a23b8de1d4c0f50e54366,272,83749,Rania,Skalli cherif,SSE,BSGE,r.skallicherif@aui.ma,212662115677,false,learner,160,true
+5d7a2593de1d4c0f50e5436c,273,79829,Sarah,Hasnaoui Amri,SBA,BA/MA,s.hasnaouiamri@aui.ma,0662793739,false,learner,160,true
+5d7a259ade1d4c0f50e5436e,274,83406,Yasmine,Layachi,SBA,BBA,y.layachi@aui.ma,0642159505,false,learner,160,true
+5d7a2915de1d4c0f50e54372,275,82654,Aicha,BELGHITI,SSE,BSCSC,a.belghiti@aui.ma,0631804030,false,learner,160,true
+5d7a2a0bde1d4c0f50e54375,276,76497,Aymane,Moktary,SSE,BSCSC,a.moktary@aui.ma,0700162548,false,learner,160,true
+5d7a3748de1d4c0f50e54381,277,82607,Fatima zahra,Maizi,SBA,BBA,f.maizi@aui.ma,0771965952,false,learner,160,true
+5d7a41a2de1d4c0f50e543ad,278,80877,Ghita,Yunsi,SSE,BSEMS,g.yunsi@aui.ma,0633108128,false,learner,160,true
+5d7a421fde1d4c0f50e543af,279,71649,Mouna,Massaoudi,SHSS,MAIS,m.massaoudi@aui.ma,0622843439,false,serviceprovider,160,true
+5d7a4318de1d4c0f50e543b1,280,77673,Farouk,Aboualam,SSE,BSCSC,f.aboualam@aui.ma,0675413280,false,learner,160,true
+5d7a5200de1d4c0f50e543b7,281,80975,Rima,Arrach,SHSS,BAIS,r.arrach@aui.ma,0612191688,false,learner,160,true
+5d7a53a2de1d4c0f50e543b9,282,79302,Ruqayyah,Yusuf,SHSS,BSHRD,r.yusuf@aui.ma,0600000000,false,learner,160,true
+5d7a5783de1d4c0f50e543bb,283,79970,Oumnia,Touss,SHSS,MAISD,o.touss@aui.ma,+212674387015,false,learner,160,true
+5d7a5bf0de1d4c0f50e543c9,284,81628,Imane,Zhar,SSE,BSGE,i.zhar@aui.ma,0696919048,false,learner,160,true
+5d7a5ecbde1d4c0f50e543d9,285,81254,Meryem,Azenkouk,SSE,BSEMS,m.azenkouk@aui.ma,0770697320,false,learner,160,true
+5d7a5f9cde1d4c0f50e543de,286,73492,Aicha,Harrak Fettan,SHSS,BSHRD,a.harrakfettan@aui.ma,06 68 05 85 48,false,learner,160,true
+5d7a6175de1d4c0f50e543e4,287,80113,Nouha,Barray,SSE,BSEMS,n.barray@aui.ma,0689198000,false,learner,160,true
+5d7a62ccde1d4c0f50e543e6,288,68156,Othmane,Mahfoud,SSE,BSCSC,o.mahfoud@aui.ma,0652864399,false,learner,160,true
+5d7a6559de1d4c0f50e543f2,289,79110,Balbacha,El Mehdi,SBA,BBA,79110@aui.ma,0693679386,false,learner,160,true
+5d7a6cd0de1d4c0f50e54406,290,83185,MOHAMMED,LACH-HAB,SSE,BSCSC,m.lachhab@aui.ma,0660639050,false,learner,160,true
+5d7a6e35de1d4c0f50e54409,291,80621,Hajar,El affas,SSE,BSCSC,h.elaffas@aui.ma,0611229393,false,learner,160,true
+5d7a6eeade1d4c0f50e5440c,292,81141,Malika,Harbaz,SSE,BSGE,m.harbaz@aui.ma,0777735826,false,learner,160,true
+5d7a71abde1d4c0f50e5440e,293,76566,KAOUTAR,AIT BENALI,SSE,BSEMS,k.aitbenali@aui.ma,+212605535437,false,learner,160,true
+5d7a71c7de1d4c0f50e54410,294,57442,Omar,Sabil,SHSS,MAISD,o.sabil@aui.ma,57442,false,serviceprovider,160,true
+5d7a7490de1d4c0f50e54418,295,82212,El Oufir,Abderrahmane,SSE,BSCSC,ab.eloufir@aui.ma,0669296481,false,learner,160,true
+5d7a74b4de1d4c0f50e5441c,296,81178,Ziad,El Ismaili,SSE,BSCSC,z.elismaili@aui.ma,0672099505,false,learner,160,true
+5d7a76e2de1d4c0f50e54423,297,80742,Youssef,Chaoui,SBA,BBA,y.chaoui@aui.ma,0672730137,false,learner,160,true
+5d7a792dde1d4c0f50e54426,298,81045,Mohamed,Akdi,SSE,BSGE,m.akdi@aui.ma,0694424097,false,learner,160,true
+5d7a79d9de1d4c0f50e54428,299,81087,Saifeddine,Babakki,SSE,BSGE,s.babakki@aui.ma,0674242574,false,learner,160,true
+5d7a873bde1d4c0f50e54435,300,82248,Salma,Echatir,SSE,BSCSC,s.echatir@aui.ma,0708150107,false,learner,160,true
+5d7a8975de1d4c0f50e54449,301,76813,Imane,Bichar,SBA,BBA,76813@aui.ma,0762431281,false,learner,160,true
+5d7a8c1bde1d4c0f50e54457,302,77691,Amine,El Hassouni,SBA,BBA,77691@aui.ma,0649415458,false,learner,160,true
+5d7a929fde1d4c0f50e5445c,303,75792,Chaimae,Barodi,SHSS,BAIS,c.barodi@aui.ma,0644405815,false,learner,160,true
+5d7a92a2de1d4c0f50e5445e,304,74022,Meriem,Mohtarif,SHSS,BSHRD,m.mohtarif@aui.ma,0673611036,false,learner,160,true
+5d7a957ede1d4c0f50e54460,305,82941,Ikram,El Mortaji,SSE,BSEMS,i.elmortaji@aui.ma,0630632522,false,learner,160,true
+5d7a9a51de1d4c0f50e5446c,306,79477,imane,alsakka,SBA,BBA,i.al-sakka@aui.ma,0619726085,false,learner,160,true
+5d7a9bb6de1d4c0f50e5446e,307,82072,Ali,Belmsad,SSE,BSEMS,a.belmsad@aui.ma,0613341292,false,learner,160,true
+5d7a9f9cde1d4c0f50e54472,308,83416,Houda,Afoui,SSE,BACS,h.afoui@aui.ma,0641366829,false,learner,160,true
+5d7aa95dde1d4c0f50e54478,309,79281,hiba,laaidi,SBA,BBA,h.laaidi@aui.ma,0657414780,false,learner,160,true
+5d7aa9d1de1d4c0f50e5447a,310,79872,Akram,Ouarour,SSE,BSEMS,ak.ouarour@aui.ma,0642306806,false,learner,160,true
+5d7aba7cde1d4c0f50e5448f,311,80580,imane,fath allah,SSE,BSGE,im.fathallah@aui.ma,0676719310,false,learner,160,true
+5d7aba96de1d4c0f50e54491,312,81163,Mohamed,Arous,SBA,BBA,mo.arous@aui.ma,0666385717,false,learner,160,true
+5d7abaa6de1d4c0f50e54494,313,83377,Soufiane,Mahmoudi,SSE,BSCSC,s.mahmoudi@aui.ma,0627110918,false,learner,160,true
+5d7abd1bde1d4c0f50e5449d,314,71559,Rhita,El Ktaoui,SBA,BBA,71559@aui.ma,0624324819,false,learner,160,true
+5d7ac8bfde1d4c0f50e544a1,315,81877,Salma,Zizzi,SBA,BBA,s.zizzi@aui.ma,0664214586,false,learner,160,true
+5d7ac952de1d4c0f50e544a3,316,82990,Fatima Ezzahra,Tajmouati,SBA,BBA,f.tajmouati@aui.ma,0671713609,false,learner,160,true
+5d7acb62de1d4c0f50e544a5,317,82032,Rokhaya,Diouf,SBA,BBA,r.diouf@aui.ma,0687911832,false,learner,160,true
+5d7acd1bde1d4c0f50e544aa,318,80028,Amal,LAALEJ,SHSS,BAIS,a.laalej@aui.ma,0654656894,false,learner,160,true
+5d7ad62dde1d4c0f50e544ad,319,80071,Nimat Allah,Darhmaoui,SBA,BBA,n.darhmaoui@aui.ma,0662346809,false,learner,160,true
+5d7add51de1d4c0f50e544b4,320,82097,Bushra,Yousufi,SBA,BBA,b.yousufi@aui.ma,212666906198,false,learner,160,true
+5d7b476dde1d4c0f50e544b8,321,79694,Charaf Eddine,Moujahid,SSE,BSCSC,ch.moujahid@aui.ma,0657493231,false,learner,160,true
+5d7b5971de1d4c0f50e544bb,322,78572,Ghali,Benjelloun,SBA,BBA,g.benjelloun@aui.ma,0661436766,false,learner,160,true
+5d7b6829de1d4c0f50e544c4,323,76434,Hamza,Alaoui Mortaji,SBA,BBA,76434@aui.ma,0762496059,false,learner,160,true
+5d7b6833de1d4c0f50e544c6,324,80473,chaimae,chouiekh,SBA,BBA,c.chouiekh@aui.ma,0611501777,false,learner,160,true
+5d7b6a11de1d4c0f50e544cb,325,83383,LATIFA,SOFI,SBA,BBA,l.sofi@aui.ma,0613279932,false,learner,160,true
+5d7b6a16de1d4c0f50e544cd,326,83448,Othmane,Elkettani Elhamidi,SSE,BSGE,o.elkettanielhamidi@aui.ma,0659212179,false,learner,160,true
+5d7b6acfde1d4c0f50e544d3,327,82238,Fatima Zahra,LAABOU,SBA,BBA,f.laabou@aui.ma,0678168315,false,learner,160,true
+5d7b6b96de1d4c0f50e544d6,328,81488,Nassima,Aït benichou,SBA,BBA,n.aitbenichou@aui.ma,0641093207,false,learner,160,true
+5d7b6bf5de1d4c0f50e544d8,329,80486,Aya,Ghazali,SHSS,BACS,a.ghazali@aui.ma,0606017620,false,learner,160,true
+5d7b6e67de1d4c0f50e544de,330,67832,Boutaina,Markazi,SHSS,BSHRD,b.markazi@aui.ma,0666267988,false,serviceprovider,160,true
+5d7b6eaade1d4c0f50e544e2,331,81291,imane,ferram,SBA,BBA,i.ferram@aui.ma,0694148411,false,learner,160,true
+5d7b75a0de1d4c0f50e544f3,332,82560,Hssein,Mohamed,SBA,BBA,m.hssein@aui.ma,0693451080,false,learner,160,true
+5d7b7761de1d4c0f50e544f6,333,79051,Samya,Tahiri,SBA,BBA,samya.tahiri@aui.ma,0637788877,false,learner,160,true
+5d7b793bde1d4c0f50e544f8,334,79828,driss,hasnaoui,SBA,BBA,d.hasnaouiamri@aui.ma,0662799292,false,learner,160,true
+5d7b797bde1d4c0f50e544fa,335,83126,Dawoud,Mazin,SSE,BSGE,d.mazin@aui.ma,0777459268,false,learner,160,true
+5d7b79d1de1d4c0f50e544fd,336,81835,Badreddine,Raitab,SSE,BSGE,b.raitab@aui.ma,0653484382,false,learner,160,true
+5d7b7a50de1d4c0f50e54500,337,80646,Amine,El Bakkal,SBA,BBA,m.elbakkal@aui.ma,0682099788,false,learner,160,true
+5d7b7ae2de1d4c0f50e54503,338,81980,Badreddine,Diwany,SBA,BBA,b.diwany@aui.ma,0654548702,false,learner,160,true
+5d7b7bdfde1d4c0f50e54506,339,81599,Narjisse,El khairani,SHSS,BACS,n.elkhairani@aui.ma,0617769725,false,learner,160,true
+5d7b7f86de1d4c0f50e54509,340,82202,Najma,Ibrahimi,SHSS,BAIS,n.ibrahimi@aui.ma,0666905546,false,learner,160,true
+5d7b7ffede1d4c0f50e5450b,341,73576,Ikram,Dardar,SBA,BBA,i.dardar@aui.ma,0625984171,false,learner,160,true
+5d7b806cde1d4c0f50e5450d,342,80960,Abderrahmane,Yaddass,SSE,BSGE,a.yaddass@aui.ma,0613885896,false,learner,160,true
+5d7b8182de1d4c0f50e5450f,343,79902,Myriem,El Ibrahimi,SHSS,BSHRD,m.elibrahimi@aui.ma,212661151525,false,learner,160,true
+5d7b839ede1d4c0f50e54512,344,80035,Hanane Nour,Moussa,SSE,BSCSC,h.moussa@aui.ma,0630006299,false,learner,160,true
+5d7b85c1de1d4c0f50e54515,345,82264,ikram,AIT ALI,SSE,MSSE,i.aitali@aui.ma,0619349936,false,learner,160,true
+5d7b8645de1d4c0f50e54518,346,82723,Chifaa,Bouzid,SSE,BSCSC,c.bouzid@aui.ma,0612916485,false,learner,160,true
+5d7b8722de1d4c0f50e5451a,347,82703,Oussama,Fertaq,SSE,MSSE,o.fertaq@aui.ma,0655756893,false,learner,160,true
+5d7b8740de1d4c0f50e5451c,348,79887,Wissal,Barday,SSE,BSGE,w.barday@aui.ma,0622814083,false,learner,160,true
+5d7b889bde1d4c0f50e5451f,349,81398,Houssam,SABER,SSE,BSEMS,h.saber@aui.ma,0620665938,false,learner,160,true
+5d7b88a9de1d4c0f50e54521,350,81381,Rania,El malkouni,SSE,BSGE,r.elmalkouni@aui.ma,0659090393,false,learner,160,true
+5d7b8c01de1d4c0f50e54529,351,77443,Anouar,hamdani,SBA,BBA,an.hamdani@aui.ma,0694939575,false,learner,160,true
+5d7b8ff8de1d4c0f50e5452b,352,80108,Yman,Hamzaoui,SHSS,BAIS,y.hamzaoui@aui.ma,0621238162,false,learner,160,true
+5d7b92f0de1d4c0f50e5452d,353,83216,Taha,Barkhoukh,SSE,BSGE,t.barkhoukh@aui.ma,0655308343,false,learner,160,true
+5d7b9367de1d4c0f50e54530,354,81571,CHOUKRI,anass,SSE,BSCSC,a.choukri@aui.ma,0639419565,false,learner,160,true
+5d7b9368de1d4c0f50e54532,355,80389,Hajar,El boutahiri,SSE,BSEMS,h.elboutahiri@aui.ma,0611149816,false,learner,160,true
+5d7b93cfde1d4c0f50e54534,356,80141,Soundous,Chamrah,SSE,BSCSC,s.chamrah@aui.ma,0624843415,false,learner,160,true
+5d7b9408de1d4c0f50e54536,357,83124,Samir,Elbarny,SSE,BSGE,s.elbarny@aui.ma,+212631057549,false,learner,160,true
+5d7b940cde1d4c0f50e54538,358,80946,Houssam,Abdouelali,SSE,BSEMS,h.abdou-el-ali@aui.ma,0643482292,false,learner,160,true
+5d7b9536de1d4c0f50e5453d,359,80131,Rahma,El Bouazzaoui,SSE,BSCSC,r.elbouazzaoui@aui.ma,0666862541,false,learner,160,true
+5d7b9544de1d4c0f50e5453f,360,83694,Ghita,Essalouh,SSE,BSCSC,g.essalouh@aui.ma,+34631649686,false,learner,160,true
+5d7b95b8de1d4c0f50e54544,361,79865,Jannah,Hanane,SSE,BSEMS,h.jannah@aui.ma,0610451776,false,learner,160,true
+5d7b9634de1d4c0f50e54547,362,81053,Hicham,Ouahbi,SSE,BSEMS,h.ouahbi@aui.ma,0694986280,false,learner,160,true
+5d7b9713de1d4c0f50e5454e,363,80181,yasmine,chraibi,SSE,BSCSC,y.chraibi@aui.ma,0648782620,false,learner,160,true
+5d7b9876de1d4c0f50e54551,364,80919,Salek,Kmache,SSE,MSSE,s.kmache@aui.ma,0639423826,false,learner,160,true
+5d7b997bde1d4c0f50e54554,365,75884,Ahd,Kendoussi,SHSS,BACS,ah.kendoussi@aui.ma,0658321911,false,learner,160,true
+5d7b9b96de1d4c0f50e54557,366,81289,Chrifa,Ilyas,SBA,BBA,i.chrifa@aui.ma,0638362198,false,learner,160,true
+5d7b9ce8de1d4c0f50e5455e,367,81266,Salah Eddine,Bouyacoubi,SBA,BBA,s.bouyacoubi@aui.ma,0636-499679,false,learner,160,true
+5d7b9e13de1d4c0f50e54566,368,76825,Diae,Tayeb,SBA,BBA,d.tayeb@aui.ma,0662523867,false,learner,160,true
+5d7b9fb6de1d4c0f50e5456b,369,83485,Hiba,DAMI,SBA,BBA,h.dami@aui.ma,0622396593,false,learner,160,true
+5d7ba113de1d4c0f50e5456e,370,83024,Sarah,Sraidi,SBA,BBA,s.sraidi@aui.ma,0661484289,false,learner,160,true
+5d7ba3c1de1d4c0f50e54574,371,80442,ILYASS,AITBEDDA,SBA,BBA,i.aitbedda@aui.ma,0650481636,false,learner,160,true
+5d7ba51cde1d4c0f50e54576,372,80266,Hiba,Essoualeh,SSE,BSCSC,h.essoualeh@aui.ma,0771360727,false,learner,160,true
+5d7ba56ede1d4c0f50e54579,373,80106,Nour,Felloul,SSE,BSEMS,n.felloul@aui.ma,+212664723204,false,learner,160,true
+5d7ba7dbde1d4c0f50e5457c,374,81366,IMANE,BEN ZERRAOUIA,SSE,BSCSC,i.benzerraouia@aui.ma,0624741525,false,learner,160,true
+5d7bac77de1d4c0f50e5458c,375,79831,Yazid,EL Berdai,SBA,BBA,y.elberdai@aui.ma,0606131414,false,learner,160,true
+5d7bae56de1d4c0f50e5458e,376,81454,Hachem,Bouhamidi,SSE,BSCSC,ha.bouhamidi@aui.ma,0671939906,false,learner,160,true
+5d7bb0bcde1d4c0f50e5459a,377,81199,Saad,Mourafik,SSE,BSCSC,s.mourafik@aui.ma,0633222178,false,learner,160,true
+5d7bb12dde1d4c0f50e5459e,378,80206,Hamza,Bousfiha,SBA,BBA,ham.bousfiha@aui.ma,0662035640,false,learner,160,true
+5d7bb1a4de1d4c0f50e545a0,379,79261,imane,elhammoumi,SBA,BBA,i.elhammoumi@aui.ma,0666817673,false,learner,160,true
+5d7bb1abde1d4c0f50e545a2,380,80548,siham,benzidi,SHSS,BACS,si.benzidi@aui.ma,0652221929,false,learner,160,true
+5d7bb23ede1d4c0f50e545a4,381,80749,Rim,Alem,SHSS,BAIS,r.alem@aui.ma,0650020303,false,learner,160,true
+5d7bb329de1d4c0f50e545a7,382,78945,Mohamed,Laazizi,SSE,BSGE,mo.laazizi@aui.ma,0623526088,false,learner,160,true
+5d7bb33ede1d4c0f50e545a9,383,83691,Aya,Idzroud,SBA,BBA,a.idzroud@aui.ma,0661912715,false,learner,160,true
+5d7bb38cde1d4c0f50e545ab,384,80383,Souleiman,Mhammedi,SBA,BBA,s.mhammedi@aui.ma,0670396987,false,learner,160,true
+5d7bb6ccde1d4c0f50e545af,385,80857,Maryem,ABOULFOUJJA,SSE,BACS,m.aboulfoujja@aui.ma,0690032437,false,learner,160,true
+5d7bb9b4de1d4c0f50e545b4,386,81250,Walid,Bayoud,SSE,BSEMS,w.bayoud@aui.ma,0636179655,false,learner,160,true
+5d7bba84de1d4c0f50e545b8,387,81678,Hassan,Chabbakh,SBA,BBA,h.chabbakh@aui.ma,0672697900,false,learner,160,true
+5d7bbc3dde1d4c0f50e545ba,388,81324,Chaymae,Maghdaoui,SBA,BBA,c.maghdaoui@aui.ma,0770893817,false,learner,160,true
+5d7bbcdede1d4c0f50e545bc,389,79873,Taha,Zaamoun,SSE,BSEMS,t.zaamoun@aui.ma,0662181996,false,learner,160,true
+5d7bc38bde1d4c0f50e545c2,390,78133,Badreddine,Hajjioui,SBA,BA/MA,b.hajjioui@aui.ma,0651160803,false,learner,160,true
+5d7bc456de1d4c0f50e545c4,391,80536,Omar,El omari alaoui,SSE,BSCSC,o.elomarialaoui@aui.ma,0668191498,false,learner,160,true
+5d7bc4e1de1d4c0f50e545c7,392,80561,Adnane,Harachi,SSE,BSCSC,a.harachi@aui.ma,0707938344,false,learner,160,true
+5d7bc924de1d4c0f50e545d2,393,81496,khalid achraf,mrani,SHSS,BAIS,k.mrani@aui.ma,0661242969,false,learner,160,true
+5d7bd202de1d4c0f50e545ec,394,00000,No,Show Up,SSE,BSCSC,cle@aui.ma,000000000,false,learner,160,true
+5d7bd3a5de1d4c0f50e545ee,395,79751,Salma,Louhaichy,SSE,BSCSC,s.louhaichy@aui.ma,0679-286469,false,learner,160,true
+5d7bd5bcde1d4c0f50e545f0,396,80234,Ali,Bakkali,SBA,BBA,ali.bakkali@aui.ma,212677990034,false,learner,160,true
+5d7bd654de1d4c0f50e545f2,397,82550,Aâwatif,Mounkid,SSE,BSEMS,a.mounkid@aui.ma,0660472124,false,learner,160,true
+5d7bdc55de1d4c0f50e545f7,398,83090,Chaimae,Kichcha,SHSS,BACS,c.kichcha@aui.ma,0615337068,false,learner,160,true
+5d7be607de1d4c0f50e54601,399,80288,Oumaima,Nali,SSE,BSCSC,o.nali@aui.ma,0633813131,false,learner,160,true
+5d7be617de1d4c0f50e54603,400,81231,Zakaria,Taleb,SSE,BSCSC,z.taleb@aui.ma,+212616383132,false,learner,160,true
+5d7be85ade1d4c0f50e54609,401,79886,Salma,Ibenyahia,SSE,BSGE,s.ibenyahia@aui.ma,0613249439,false,learner,160,true
+5d7bf339de1d4c0f50e5461c,402,81665,Mohammed Abdessamad,Bououden,SBA,BBA,m.bououden@aui.ma,0651253877,false,learner,160,true
+5d7bf9a6de1d4c0f50e54620,403,72682,Ghita,Benboubker,SSE,BSEMS,g.benboubker@aui.ma,0672124763,false,learner,160,true
+5d7c0211de1d4c0f50e54624,404,83452,El Mediani,Nouhaila,SBA,BA/MA,n.elmediani@aui.ma,0613570808,false,learner,160,true
+5d7c0615de1d4c0f50e5462c,405,81699,Nour,Baladi,SBA,BBA,n.baladi@aui.ma,0615318208,false,learner,160,true
+5d7c0f4ede1d4c0f50e5462e,406,83743,abderrahman,ouled haddou,SBA,BBA,a.ouledhaddou@aui.ma,+212 649-924590,false,learner,160,true
+5d7c120bde1d4c0f50e54631,407,81701,Houda,Baladi,SBA,BBA,h.baladi@aui.ma,0661907555,false,learner,160,true
+5d7c32d4de1d4c0f50e5463d,408,76663,Reda,Chaibi,SSE,BSCSC,r.chaibi@aui.ma,212612731931,false,learner,160,true
+5d7ca6cbde1d4c0f50e5464c,409,80021,Adnane,Gaouzi,SSE,BSEMS,ad.gaouzi@aui.ma,0637213669,false,learner,160,true
+5d7caf5dde1d4c0f50e5464e,410,80381,Salma,Kaichouh,SSE,BSEMS,s.kaichouh@aui.ma,0641686505,false,learner,160,true
+5d7cc2f5de1d4c0f50e54657,411,80422,Salma,Benkhayi,SBA,BBA,s.benkhayi@aui.ma,00212648329225,false,learner,160,true
+5d7cc81fde1d4c0f50e54665,412,82357,Kenza,El fatihi,SSE,BACS,k.elfatihi@aui.ma,212661851573,false,learner,160,true
+5d7cca2bde1d4c0f50e54669,413,81803,Leema,Temor,SSE,BSCSC,t.leema@aui.ma,+212 6 66 90 37 96,false,learner,160,true
+5d7cca8ade1d4c0f50e5466b,414,79625,Ghayda,Shanbur,SHSS,BAIS,g.shanbur@aui.ma,0621344084,false,learner,160,true
+5d7cccadde1d4c0f50e5466e,415,816993,saida,ouya,SHSS,BAIS,s.ouya@aui.ma,0624311540,false,learner,160,true
+5d7cce38de1d4c0f50e54670,416,81073,Hiba,AKHADDAR,SSE,BSCSC,h.akhaddar@aui.ma,0762455847,false,learner,160,true
+5d7cd343de1d4c0f50e54673,417,81063,Ikram,Azdad,SSE,BSEMS,i.azdad@aui.ma,0616937735,false,learner,160,true
+5d7cd550de1d4c0f50e54675,418,66769,lamiaa,ghazouani,SBA,BBA,l.ghazouani@aui.ma,0658469523,false,learner,160,true
+5d7ce703de1d4c0f50e54687,419,79244,El Mehdi,El Jaouadi,SBA,BBA,79244@aui.ma,0656351381,false,learner,160,true
+5d7ce81bde1d4c0f50e54689,420,77581,wiam,oubaik,SSE,BSEMS,77581@aui.ma,0654145708,false,learner,160,true
+5d7ced74de1d4c0f50e54697,421,82569,Chaimae,Kasraoui,SBA,MBA,c.kasraoui@aui.ma,0615105239,false,learner,160,true
+5d7cef19de1d4c0f50e5469e,422,76547,taha abderrahmane,semmahi,SSE,BSCSC,76547@aui.ma,0616727473,false,learner,160,true
+5d7cfea7de1d4c0f50e546b0,423,78145,Youssef,Lambarki,SSE,BSGE,y.lambarki@aui.ma,0697835606,false,learner,160,true
+5d7d0955de1d4c0f50e546be,424,81294,Ayoub,Mabkhout,SSE,BSCSC,a.mabkhout@aui.ma,0665372062,false,learner,160,true
+5d7d095dde1d4c0f50e546c0,425,80012,Nouhaila,EL KASMI,SSE,BSGE,no.elkasmi@aui.ma,0766110746,false,learner,160,true
+5d7d0a19de1d4c0f50e546c3,426,82601,Malak,Bennouna,SSE,BSEMS,malak.bennouna@aui.ma,0676565788,false,learner,160,true
+5d7d0e33de1d4c0f50e546c8,427,77322,Aya,Majioud,SBA,BBA,77322@aui.ma,0652534004,false,learner,160,true
+5d7d1339de1d4c0f50e546cd,428,81690,Ahlam,Lhaouari,SHSS,BACS,a.lhaouari@aui.ma,0636627825,false,learner,160,true
+5d7d1930de1d4c0f50e546cf,429,80025,Manar,Sadkou,SSE,BSCSC,m.sadkou@aui.ma,0676736326,false,learner,160,true
+5d7d26cfde1d4c0f50e546df,430,82594,Imad,Akabli,SSE,BSCSC,i.akabli@aui.ma,0767672788,false,learner,160,true
+5d7d2f90de1d4c0f50e546e3,431,81342,Yasmine,Khajjou,SSE,BSEMS,y.khajjou@aui.ma,0762770816,false,learner,160,true
+5d7d3a84de1d4c0f50e546e6,432,79120,Kamal,Benbouaida,SSE,BSEMS,k.benbouaida@aui.ma,0665423328,false,learner,160,true
+5d7d3b18de1d4c0f50e546e8,433,72697,Brahim,Ben Lamkadem,SHSS,BACS,b.benlamkadem@aui.ma,0603861956,false,learner,160,true
+5d7d4022de1d4c0f50e546ee,434,75492,Oumaima,El bakkouri,SHSS,BAIS,75492@aui.ma,0606099421,false,learner,160,true
+5d7e0e584959ef12b03fa8d8,435,83072,Hajar,AASSOSSE,SSE,BSEMS,h.aassosse@aui.ma,0688699542,false,learner,160,true
+5d7e29974959ef12b03fa913,436,77807,Nada,Bounajma,SSE,BSCSC,77807@aui.ma,0651344912,false,learner,160,true
+5d7e2d6e4959ef12b03fa916,437,83440,Nadia,El amiri,SSE,BSEMS,n.elamiri@aui.ma,0662140989,false,learner,160,true
+5d7e2f8b4959ef12b03fa918,438,80568,Meryem,Jabrane,SSE,BSCSC,m.jabrane@aui.ma,0636593977,false,learner,160,true
+5d7e36834959ef12b03fa94d,439,83046,Hind,Qara,SSE,BSEMS,hi.qara@aui.ma,+212 6 41 08 52 63,false,learner,160,true
+5d7e377e4959ef12b03fa95c,440,71726,Zakaria,El Asri,SSE,BSCSC,71726@aui.ma,0662887667,false,serviceprovider,160,true
+5d7e39cd4959ef12b03fa969,441,73454,Safaa,Zaki,SSE,BSEMS,s.zaki@aui.ma,0632897803,false,learner,160,true
+5d7e3c8429ae021b2497c95c,442,80063,Asmae,Abbou,SBA,BBA,asmae.abbou@aui.ma,00212632292356,false,learner,160,true
+5d7e3dad29ae021b2497c96d,443,82706,Salaheddine,OUADIA,SSE,BSEMS,s.ouadia@aui.ma,0648540598,false,learner,160,true
+5d7e3e664959ef12b03fa97f,444,79899,Salma,RACHIDI,SSE,BSGE,s.rachidi@aui.ma,+212622429790,false,learner,160,true
+5d7e413e4959ef12b03fa99f,445,80275,Salma,Fakhkhari,SBA,BBA,s.fakhkhari@aui.ma,0661534542,false,learner,160,true
+5d7e43c829ae021b2497c986,446,83156,Fatime ezzahra,iBourk,SBA,BBA,f.ibourk@aui.ma,0610443200,false,learner,160,true
+5d7e49ee29ae021b2497c956,447,83221,Taoufik,Jati,SSE,BSCSC,t.jati@aui.ma,0624432691,false,learner,160,true
+5d7e59f429ae021b2497ca67,448,82929,Marwane,chabab,SBA,BBA,m.chabab@aui.ma,0645003494,false,learner,160,true
+5d7e5dee29ae021b2497ca6e,449,77532,imane,el abiad,SSE,BSEMS,77532@aui.ma,0656267871,false,learner,160,true
+5d7e639b29ae021b2497ca75,450,81748,Latifa,Jbark,SSE,BSCSC,l.jbark@aui.ma,0762630583,false,learner,160,true
+5d7e65a429ae021b2497ca7a,451,75067,Kawtar,El Azouki,SBA,BBA,k.elazouki@aui.ma,0661362314,false,learner,160,true
+5d7e69d729ae021b2497ca81,452,80022,Ayoub,Ghamas,SSE,BSEMS,a.ghamas@aui.ma,0648184229,false,learner,160,true
+5d7e6d3c29ae021b2497ca84,453,81534,Rania,Rital,SBA,BBA,r.rital@aui.ma,0694933930,false,learner,160,true
+5d7e6d6329ae021b2497ca86,454,81613,Maroua,Hanine,SBA,BBA,ma.hanine@aui.ma,+212667010992,false,learner,160,true
+5d7e6e9829ae021b2497ca8d,455,80124,Soufiyane,Belyamani,SBA,BBA,s.belyamani@aui.ma,0623266214,false,learner,160,true
+5d7e710c29ae021b2497ca94,456,80865,wissal,Errachidi,SBA,BA/MA,w.errachidi@aui.ma,0639122851,false,learner,160,true
+5d7e71e529ae021b2497ca96,457,68699,Nisrine,Fathi,SBA,BBA,n.fathi@aui.ma,+212664642691,false,learner,160,true
+5d7e75b929ae021b2497ca99,458,77553,Mouad,Fard,SSE,BSCSC,m.fard@aui.ma,0608801137,false,learner,160,true
+5d7e75c329ae021b2497ca9b,459,81749,Bethany,Bloom,SBA,BBA,b.bloom@aui.ma,212642412779,false,learner,160,true
+5d7e7a6129ae021b2497ca9e,460,76064,Camelia,Benariba,SBA,BBA,c.benariba@aui.ma,0697890753,false,learner,160,true
+5d7e7d8a29ae021b2497caa1,461,80155,Salma,Boufoullous,SBA,BBA,s.boufoullous@aui.ma,0650115654,false,learner,160,true
+5d7e934029ae021b2497cace,462,77221,fatema ezzahra,chadly,SBA,BBA,f.chadly@aui.ma,0674757968,false,learner,160,true
+5d7eb71a29ae021b2497cb67,463,80585,Kenza,Bouhchouch,SBA,BA/MA,k.bouhchouch@aui.ma,0687254572,false,learner,160,true
+5d7ebc2229ae021b2497cb7e,464,77713,Nada,Bouafia,SBA,BBA,n.bouafia@aui.ma,0661436720,false,learner,160,true
+5d7ebca229ae021b2497cb84,465,76382,Youssef,Azaou,SBA,MSCN,y.azaou@aui.ma,0696706949,false,learner,160,true
+5d7ec95129ae021b2497cba0,466,80678,Oualid,Salmi,SBA,BBA,o.salmi@aui.ma,0671086695,false,learner,160,true
+5d7f31dc20a85e0e3436d157,467,82172,Mohamed Zakaria,Benjelloun Tuimy,SSE,MSCSC,m.benjellountuimy@aui.ma,0681076037,false,learner,160,true
+5d7f3b3620a85e0e3436d159,468,83230,Wiam,Baticha,SBA,BBA,w.baticha@aui.ma,0767393978,false,learner,160,true
+5d7f3e4c20a85e0e3436d15b,469,83573,Zaid,Senhaji,SSE,BSCSC,z.lakehalsenhaji@aui.ma,0642521141,false,learner,160,true
+5d7f457520a85e0e3436d160,470,76781,Ahmed,Bennani,SBA,BBA,ahmed.bennani@aui.ma,0615228533,false,learner,160,true
+5d7f4fa820a85e0e3436d198,471,81539,Salma,Abid,SSE,BSGE,sa.abid@aui.ma,0687442245,false,learner,160,true
+5d7f542420a85e0e3436d19f,472,81433,Salma,El Moustafid,SBA,BBA,s.elmoustafid@aui.ma,0637034726,false,learner,160,true
+5d7f558320a85e0e3436d1a1,473,11111,FName,LName,SBA,BBA,11111@aui.ma,0610111213,false,learner,160,true
+5d7f59eb20a85e0e3436d1a3,474,81724,Houda,Touchen,SHSS,BACS,h.touchen@aui.ma,0762229639,false,learner,160,true
+5d7f5aa820a85e0e3436d1a8,475,82196,Fatima Zahra,El aloua,SBA,MBA,f.elaloua@aui.ma,+212626313628,false,learner,160,true
+5d7f5b0620a85e0e3436d1aa,476,72208,alia,bouhlal,SBA,BBA,a.bouhlal@aui.ma,0678888248,false,learner,160,true
+5d7f64c220a85e0e3436d1d0,477,79704,Hamza,Rehioui,SSE,BSCSC,ha.rehioui@aui.ma,0666299714,false,learner,160,true
+5d7f65cf20a85e0e3436d1dc,478,70817,Hafsa,Ben Kharafa,SHSS,BACS,h.benkharafa@aui.ma,0681717638,false,learner,160,true
+5d7f669a20a85e0e3436d1e0,479,73470,Hamza,Sossey Alaoui,SBA,BBA,h.sosseyalaoui@aui.ma,0659554291,false,learner,160,true
+5d7f6ed120a85e0e3436d1e9,480,73299,Hanaa,Mounsif,SBA,BBA,h.mounsif@aui.ma,0617057627,false,learner,160,true
+5d7f71fe20a85e0e3436d1ee,481,76080,safaa,herradi,SBA,BBA,s.herradi@aui.ma,0706378910,false,learner,160,true
+5d7f781320a85e0e3436d1f1,482,79882,Rihab,Farahy,SBA,BBA,r.farahy@aui.ma,0659811491,false,learner,160,true
+5d7f7acedd381d17009f7ddf,483,73553,Ayoub,Mellouki,SBA,BBA,a.mellouki@aui.ma,0667283820,false,learner,160,true
+5d7f7d1bdd381d17009f7df3,484,75518,Fatima Zahrae,Lamiri,SSE,BSCSC,f.lamiri@aui.ma,0653830938,false,learner,160,true
+5d7f89b6dd381d17009f7e0e,485,83187,aya,bourbah,SBA,BBA,a.bourbah@aui.ma,0639929386,false,learner,160,true
+5d7f8f6420a85e0e3436d1fa,486,69117,Achraf,B,SSE,BSCSC,69117@aui.ma,0690979619,false,learner,160,true
+5d7f905420a85e0e3436d1fd,487,80977,Hafsa,Kacemy,SBA,BBA,h.kacemy@aui.ma,0605785459,false,learner,160,true
+5d7f93e1dd381d17009f7e12,488,63201,Elias,Ghechi,SBA,MBA,e.ghechi@aui.ma,+212629638878,false,serviceprovider,160,true
+5d7f97f0dd381d17009f7e15,489,83583,Yassine,Bennani,SBA,BBA,y.benanni@aui.ma,0636734364,false,learner,160,true
+5d7f997ddd381d17009f7e41,490,76740,Mohamed Amine,CHOKRY,SBA,BBA,a.chokry@aui.ma,0660545033,false,learner,160,true
+5d7f9bf420a85e0e3436d205,491,81477,Mohamed,Mazgoure,SBA,BBA,m.mazgoure@aui.ma,0688426333,false,learner,160,true
+5d7fa4b1dd381d17009f7e4b,492,83506,Bachiri,Loubaba,SHSS,BAIS,l.bachiri@aui.ma,+212661308062,false,learner,160,true
+5d7fa4bfdd381d17009f7e4d,493,80114,iness,ghourrabou,SSE,BSGE,i.ghourrabou@aui.ma,0650774821,false,learner,160,true
+5d7fa4cddd381d17009f7e4f,494,70232,Mehdi,Amansour,SBA,BBA,70232@aui.ma,0652803771,false,learner,160,true
+5d7fad42dd381d17009f7e55,495,81723,fatima ezzahrae,ouaka,SHSS,MAISD,f.ouaka@aui.ma,0707402396,false,learner,160,true
+5d7fc1469dd8470d18e9cb48,496,83471,Hiba,Qabaqous,SBA,BBA,H.Qabaqous@aui.ma,+212613913822,false,learner,160,true
+5d7fc1589dd8470d18e9cb4a,497,80152,abdelhamid,bnitto,SBA,BBA,a.bnitto@aui.ma,0631706869,false,learner,160,true
+5d7fc3a1adeabc097ca0cca4,498,80767,Hinda,Habou,SBA,BBA,h.habou@aui.ma,0681339804,false,learner,160,true
+5d7fc75a91263c1a2cf87c26,499,70042,Amira,Anwari,SBA,BA/MA,70042@aui.ma,0707758695,false,learner,160,true
+5d7fc91a91263c1a2cf87c29,500,81923,Narges,Sultani,SBA,BBA,n.sultani@aui.ma,212666905346,false,learner,160,true
+5d7fdc4b91263c1a2cf87c40,501,73808,Hala,Fertat,SBA,BBA,73808@aui.ma,0664177547,false,learner,160,true
+5d7fdd9491263c1a2cf87c4b,502,75987,houda,el idrissi,SBA,BBA,ho.elidrissi@aui.ma,0659440220,false,learner,160,true
+5d7fe22b9dd8470d18e9cb86,503,77707,Rihab,Farhaoui,SSE,BSCSC,77707@aui.ma,0694992267,false,learner,160,true
+5d7fe97891263c1a2cf87c59,504,70981,fatima zahra,bassim,SHSS,BACS,f.bassim@aui.ma,0603151992,false,learner,160,true
+5d7feab191263c1a2cf87c5b,505,77303,Maryam,Takti,SSE,BSGE,m.takti@aui.ma,0664281624,false,learner,160,true
+5d7fef0591263c1a2cf87c5d,506,75606,zaid,charani,SHSS,BAIS,z.charani@aui.ma,0661226765,false,learner,160,true
+5d8000309dd8470d18e9cb92,507,77114,salma,idhammou,SBA,BBA,77114@aui.ma,0697248301,false,learner,160,true
+5d80037b9dd8470d18e9cb9b,508,83609,Inasse,El Mesbahy,SBA,MBA,i.elmesbahy@aui.ma,0687861651,false,learner,160,true
+5d8015cf2478061384b612c4,509,79786,Wiam,HAMMOUCHENE,SHSS,BAIS,w.hammouchene@aui.ma,0624300241,false,learner,160,true
+5d8021214fb3a40700385b76,510,76871,mohamed ali,elaatabi,SSE,BSCSC,76871@aui.ma,0687476367,false,learner,160,true
+5d8027214fb3a40700385b7b,511,81801,Mohammed,Akiour,SSE,BSCSC,m.akiour@aui.ma,0628757267,false,learner,160,true
+5d80a69b4fb3a40700385b89,512,82057,Mohamed Adnane,AL KHIATI,SSE,BSCSC,m.alkhiati@aui.ma,0659361452,false,learner,160,true
+5d80ad6e2478061384b612ce,513,11133,Jawad,Lotfi,SSE,MSSE,j.lotfi@aui.ma,0662087141,false,learner,160,true
+5d80ade42478061384b612d0,514,82307,Marouane,Noman,SSE,BSCSC,m.noman@aui.ma,+212636765344,false,learner,160,true
+5d80b0492478061384b612db,515,67974,hiba,boualoul,SBA,BBA,67974@aui.ma,0636484977,false,learner,160,true
+5d80b07c2478061384b612dd,516,79293,Ashraf,Eljoundi,SHSS,BSHRD,a.eljoundi@aui.ma,0766097776,false,learner,160,true
+5d80b84af5ae68132cbcd467,517,67553,Hafssa,Fakher El abiari,SHSS,BAIS,h.fakherelabiari@aui.ma,0636207461,false,learner,160,true
+5d80baebf2fe180d2c4f89bd,518,82289,Adnane,Sounni,SHSS,MAISD,a.sounni@aui.ma,0662858227,false,learner,160,true
+5d80c219f2fe180d2c4f89c2,519,68280,Badr,Skalli,SSE,BSCSC,68280@aui.ma,+212666612667,false,learner,160,true
+5d80c43bf2fe180d2c4f89c4,520,81223,Mounaim,Errahmouni,SSE,BSCSC,m.errahmouni@aui.ma,0630139797,false,learner,160,true
+5d80c457f2fe180d2c4f89c6,521,83253,Yasmina,Dakka,SBA,BBA,y.dakka@aui.ma,0673236723,false,learner,160,true
+5d80c48ff2fe180d2c4f89c8,522,80632,Rim,Ziani,SSE,BSCSC,r.ziani@aui.ma,0651158281,false,learner,160,true
+5d80c4cff2fe180d2c4f89dd,523,58718,nour,belaallam,SBA,BA/MA,n.belaallam@aui.ma,0661156679,false,learner,160,true
+5d80c517f2fe180d2c4f89df,524,81052,Rita,Lafkir,SSE,BSCSC,r.lafkir@aui.ma,0653888731,false,learner,160,true
+5d80cadbf2fe180d2c4f89e5,525,77020,Abdelouahab,Oulmaati,SBA,BBA,77020@aui.ma,0622021888,false,learner,160,true
+5d80d070f2fe180d2c4f89e7,526,75828,Yassmina,Tahri Joutei Hassani,SSE,BSGE,y.tahrijouteihassani@aui.ma,0643731151,false,learner,160,true
+5d80da781eb54b037cc0efda,527,78726,Houda,Douhi,SHSS,BAIS,h.douhi@aui.ma,0624033178,false,learner,160,true
+5d80dbe61eb54b037cc0efdc,528,71720,Elmoubarik,Hamza,SHSS,BSHRD,h.elmoubarik@aui.ma,00000000000000,false,learner,160,true
+5d80dc541eb54b037cc0efde,529,74171,Salma,Oukacha,SBA,BBA,s.oukacha@aui.ma,0650230730,false,learner,160,true
+5d80de7a1eb54b037cc0efeb,530,75614,Wafae,Abouzine,SBA,BBA,w.abouzine@aui.ma,0672507972,false,learner,160,true
+5d80dead1eb54b037cc0efed,531,75770,Meryem,Akki,SSE,BSEMS,m.akki@aui.ma,0674153148,false,learner,160,true
+5d80e3641eb54b037cc0efff,532,76243,Omar,Faris,SBA,BBA,o.faris@aui.ma,0656898512,false,learner,160,true
+5d80e41a1eb54b037cc0f003,533,72612,Ghita,El Harti,SBA,BBA,g.elharti@aui.ma,0678605953,false,learner,160,true
+5d80e4281eb54b037cc0f005,534,82078,Omolbanin,Amiri,SSE,BSCSC,o.amiri@aui.ma,+212666906832,false,learner,160,true
+5d80e67ff21c2d0290f890e8,535,71804,Achraf,Ayyachi,SBA,BBA,a.ayyachi@aui.ma,0674805448,false,learner,160,true
+5d80e963f21c2d0290f890eb,536,81094,youssef,oumnia,SBA,BBA,y.oumnia@aui.ma,0661481467,false,learner,160,true
+5d80f2041eb54b037cc0f02c,537,83198,Taha,Charif Khalifi,SBA,BBA,t.charifkhalifi@aui.ma,0707074943,false,learner,160,true
+5d80f55e1eb54b037cc0f032,538,74164,Nour,QAMOUTA,SBA,BBA,n.qamouta@aui.ma,0610884196,false,learner,160,true
+5d80fa38f21c2d0290f890f4,539,80147,Elyasmine,Benkabbou,SBA,BBA,e.benkabbou@aui.ma,0656327924,false,learner,160,true
+5d80fa3bf21c2d0290f890f6,540,80871,Chaymaa,Chbouk,SBA,BA/MA,c.chbouk@aui.ma,212621008586,false,learner,160,true
+5d80fb16f21c2d0290f890f9,541,79889,nada,arfik,SBA,BBA,n.arfik@aui.ma,0616830336,false,learner,160,true
+5d810040f21c2d0290f89109,542,80539,hamza,belachgar,SBA,BBA,h.belachgar@aui.ma,0642018389,false,learner,160,true
+5d81066bf21c2d0290f8910c,543,81680,Rkiya,Ouya,SHSS,BACS,r.ouya@aui.ma,0628525358,false,learner,160,true
+5d8106aef21c2d0290f8910e,544,80795,kawtar,el khayali,SBA,BBA,k.elkhayali@aui.ma,0622197829,false,learner,160,true
+5d8112b1f21c2d0290f89116,545,80697,Chaima,NASROALLAH,SBA,BBA,c.nasroallah@aui.ma,0669770499,false,learner,160,true
+5d8116301eb54b037cc0f037,546,79145,Mariam,Ouchen,SBA,BBA,m.ouchen@aui.ma,0766101012,false,learner,160,true
+5d811d931eb54b037cc0f040,547,79142,Latifa,Mahfoudi,SBA,BBA,l.mahfoudi@aui.ma,0767387688,false,learner,160,true
+5d811e03f21c2d0290f8911d,548,80268,rim,houjji,SBA,BBA,r.houjji@aui.ma,0628196252,false,learner,160,true
+5d811f4ff21c2d0290f8911f,549,82808,Leyla,Mahmoudi,SBA,BBA,l.mahmoudi@aui.ma,0766400725,false,learner,160,true
+5d812038f21c2d0290f89121,550,81681,hanae,wazzifi,SSE,BSGE,h.wazzifi@aui.ma,0623387612,false,learner,160,true
+5d8121e61eb54b037cc0f04e,551,83222,Ikram,Nait Ajjou,SBA,BBA,i.naitajjou@aui.ma,0636351086,false,learner,160,true
+5d812358f21c2d0290f89123,552,81848,Zineb,Kissani,SBA,BBA,z.kissani@aui.ma,0636015872,false,learner,160,true
+5d81236df21c2d0290f89125,553,81813,soghra,mozafari,SBA,BBA,s.mozafari@aui.ma,0666896427,false,learner,160,true
+5d81285ef21c2d0290f8912b,554,81353,Manal,El Hamdi,SBA,BBA,m.elhamdi@aui.ma,0642615072,false,learner,160,true
+5d812b351eb54b037cc0f059,555,80083,Imane,Chtaini,SSE,BSCSC,i.chtaini@aui.ma,0649724306,false,learner,160,true
+5d812e671eb54b037cc0f05d,556,77662,Soufiane,El Outati,SSE,BSCSC,77662@aui.ma,0606065274,false,learner,160,true
+5d813967f21c2d0290f89131,557,79982,Rahma,Oussama,SHSS,MSCSC,r.oussama@aui.ma,0662192240,false,learner,160,true
+5d813ffdf21c2d0290f89136,558,71020,oumaima,el hazzat,SSE,BSEMS,o.elhazzat@aui.ma,06699553950,false,learner,160,true
+5d814666f21c2d0290f8913a,559,83515,Ilyas,Adnane,SBA,BBA,i.adnane@aui.ma,0654443376,false,learner,160,true
+5d815563f21c2d0290f89159,560,82508,Majda,Halim,SHSS,BA/MA,ma.halim@aui.ma,212631137627,false,learner,160,true
+5d81652c17ff400d40349a49,561,81237,Abdelhamid,El hand,SSE,BACS,a.elhand@aui.ma,0613523954,false,learner,160,true
+5d81eefe17ff400d40349a7a,562,77621,wissam,bouhess,SSE,BSEMS,w.bouhess@aui.ma,0611350223,false,learner,160,true
+5d82048a17ff400d40349a85,563,79916,El Mehdi,Kouhail,SBA,BBA,e.kouhail@aui.ma,0661724163,false,learner,160,true
+5d820d5817ff400d40349abb,564,75143,Ikram,Tassi,SBA,BBA,i.tassi@aui.ma,0662175181,false,learner,160,true
+5d820d8d17ff400d40349abd,565,76769,solaimane,lafdaoui,SBA,BBA,76769@aui.ma,0613854930,false,learner,160,true
+5d821654f21c2d0290f891ac,566,83192,El Aoud,Yassine,SBA,BBA,y.elaoud@aui.ma,0648890174,false,learner,160,true
+5d821c7b17ff400d40349ae3,567,71465,Hamza,El gramze,SBA,BBA,h.elgramze@aui.ma,0644879762,false,learner,160,true
+5d821d40f21c2d0290f891b1,568,82943,Abahrouz,Karim,SSE,BSCSC,k.abahrouz@aui.ma,0614983662,false,learner,160,true
+5d8223e8f21c2d0290f891b5,569,81108,Intissar,Eddajraoui,SHSS,MAIS,i.eddajraoui@aui.ma,06 90 52 03 00,false,learner,160,true
+5d822ba0f21c2d0290f891ba,570,80076,Kenza,Bahraoui,SBA,BBA,k.bahraoui@aui.ma,0661307609,false,learner,160,true
+5d822bd0f21c2d0290f891bc,571,79714,Hamza,Zaher,SSE,BSCSC,h.zaher@aui.ma,0655259836,false,learner,160,true
+5d822ce0f21c2d0290f891be,572,81580,chadi,lotfi,SSE,BSEMS,c.lotfi@aui.ma,0622334902,false,learner,160,true
+5d822e4bf21c2d0290f891c0,573,79791,Leila,Hanafi,SBA,BBA,l.hanafi@aui.ma,0655296084,false,learner,160,true
+5d8232fa17ff400d40349aee,574,83695,kenza,hamdi,SSE,BSGE,k.hamdi@aui.ma,0614145215,false,learner,160,true
+5d82388c17ff400d40349af1,575,81941,narjis,sabar,SSE,BSEMS,n.sabar@aui.ma,0656274156,false,learner,160,true
+5d823b3017ff400d40349af7,576,80743,Anis,Gharib,SBA,BBA,a.gharib@aui.ma,0610862040,false,learner,160,true
+5d823c5117ff400d40349af9,577,77137,Abdelaziz,Sahel,SSE,BSGE,77137@aui.ma,0672084860,false,learner,160,true
+5d824b96f21c2d0290f891d0,578,82855,alaa eddine,boukherys,SBA,BBA,a.boukherys@aui.ma,0762951595,false,learner,160,true
+5d8254d317ff400d40349b0b,579,82487,Aya,Hachimi,SBA,BBA,a.hachimi@aui.ma,0657027027,false,learner,160,true
+5d8255df17ff400d40349b0e,580,80446,sara,hajji,SBA,BBA,sara.hajji@aui.ma,0682986796,false,learner,160,true
+5d8259cc17ff400d40349b13,581,78873,Brahim,Elabdaimi,SBA,MSSE,78873@aui.ma,0665712012,false,learner,160,true
+5d825c5117ff400d40349b16,582,79452,Imane,Achibane,SBA,BA/MA,i.achibane@aui.ma,0771792554,false,learner,160,true
+5d8261b617ff400d40349b1c,583,76577,Anouar,Belmiloudi,SBA,MBA,a.belmiloudi@aui.ma,0675003535,false,learner,160,true
+5d8261f6f21c2d0290f891e3,584,76119,wissal,hajjaj,SBA,BBA,76119@aui.ma,0639367733,false,learner,160,true
+5d82679ef21c2d0290f891e8,585,83120,Adnan,El Gasmi,SBA,BBA,a.elgasmi@aui.ma,0668878383,false,learner,160,true
+5d826b35f21c2d0290f891ef,586,83735,manal,Zeryouh,SBA,BBA,m.zeryouh@aui.ma,0671291647,false,learner,160,true
+5d826d64f21c2d0290f891f1,587,83758,Youssef,Bagui,SBA,BBA,y.bagui@aui.ma,0682084093,false,learner,160,true
+5d8279a9f21c2d0290f891f9,588,77762,Hamza,Mourhrib,SSE,BSEMS,h.mourhrib@aui.ma,0618014298,false,learner,160,true
+5d82826af21c2d0290f89206,589,58815,Oussama,Er-rady,SBA,MBA,o.er-rady@aui.ma,0660401486,false,manager,160,true
+5d82857b17ff400d40349b22,590,81978,El moujahid,Imad,SBA,BBA,i.elmoujahid@aui.ma,0614466558,false,learner,160,true
+5d82863e17ff400d40349b24,591,82004,Siamoy,Ehsany,SBA,BBA,s.ehsany@aui.ma,0666908514,false,learner,160,true
+5d829065eef4e10fd4edff1a,592,82105,Forogh,Bina,SBA,BBA,f.bina@aui.ma,0666905870,false,learner,160,true
+5d8290afeef4e10fd4edff1c,593,81124,Nouhaila,Ejjoula,SBA,BBA,n.ejjoula@aui.ma,0662197273,false,learner,160,true
+5d829145eef4e10fd4edff1e,594,81157,El Yazid,Mihamou,SBA,BBA,e.mihamou@aui.ma,0610027519,false,learner,160,true
+5d82930deef4e10fd4edff20,595,83561,Abderrahman,Oumasse,SSE,BSCSC,a.oumasse@aui.ma,0629280667,false,learner,160,true
+5d829f407a7ef0126c0af944,596,74080,Yasmina,Yabari,SBA,BBA,y.yabari@aui.ma,0634116040,false,learner,160,true
+5d82a2087a7ef0126c0af946,597,73164,Mohammed,Bouhaba,SBA,BBA,m.bouhaba@aui.ma,0643209559,false,learner,160,true
+5d82a3c57a7ef0126c0af948,598,77302,Othmane,Moumeni,SBA,BBA,77302@aui.ma,0666019660,false,learner,160,true
+5d82a3cf7a7ef0126c0af94a,599,70722,yassine,marrabou,SBA,BBA,y.marrabou@aui.ma,0655997998,false,learner,160,true
+5d82a41d7a7ef0126c0af94c,600,75818,Bader,Fdail,SBA,BA/MA,b.fdail@aui.ma,0628270010,false,learner,160,true
+5d82b6097a7ef0126c0af951,601,77723,hajar,lmouaddene,SSE,BSEMS,h.lmouaddene@aui.ma,+212678919062,false,learner,160,true
+5d82b7b17a7ef0126c0af953,602,80202,Marwa,ATMANE,SBA,BBA,m.atmane@aui.ma,0639816556,false,learner,160,true
+5d834178eef4e10fd4edff24,603,80292,nouhaila,elkadiri,SBA,BBA,n.elkadiri@aui.ma,0610438405,false,learner,160,true
+5d834d227a7ef0126c0af974,604,77248,Imane,Elhanine,SBA,BBA,i.elhanine@aui.ma,0637867759,false,learner,160,true
+5d8350a67a7ef0126c0af97c,605,83745,Asmae,Chraibi,SBA,BBA,asmae.chraibi@aui.ma,0613966555,false,learner,160,true
+5d836e59eef4e10fd4edff32,606,78911,Nisrine,Arraki,SBA,BBA,n.arraki@aui.ma,0625430542,false,learner,160,true
+5d8380311504c51514b1a475,607,82479,Haytham,Karouata,SSE,BSGE,h.karouata@aui.ma,0661563692,false,learner,160,true
+5d8380b11504c51514b1a477,608,82923,Chaimaa,EL BAIDORI,SSE,MSSE,c.elbaidori@aui.ma,0623735631,false,learner,160,true
+5d8384ae1504c51514b1a47f,609,80463,Rita,Essoulaimani,SBA,BBA,r.essoulaimani@aui.ma,0637818656,false,learner,160,true
+5d8385481504c51514b1a484,610,77851,Narjis,Aamran,SBA,BBA,77851@aui.ma,0673117174,false,learner,160,true
+5d838f961504c51514b1a489,611,82553,Rim,Elharti,SBA,BBA,r.elharti@aui.ma,0645796363,false,learner,160,true
+5d8390ec1504c51514b1a48b,612,67169,Yousra,Benlahcen,SSE,BSEMS,67169@aui.ma,0657063738,false,learner,160,true
+5d8390f11504c51514b1a48d,613,78697,Aya,Rachdi,SBA,BBA,78697@aui.ma,0695339969,false,learner,160,true
+5d83926e3eca5918c4f2cf67,614,83686,Anis,Senhaji,SSE,BSCSC,a.senhajirhazi@aui.ma,0654613826,false,learner,160,true
+5d839ac13eca5918c4f2cf6a,615,81770,Reda,Messaoudi,SBA,BBA,r.messaoudi@aui.ma,0607656645,false,learner,160,true
+5d83a7371504c51514b1a49b,616,76950,Kaouthar,Dian,SSE,BSEMS,k.dian@aui.ma,0627504925,false,learner,160,true
+5d83b2f23eca5918c4f2cf72,617,81181,Rabii,Alaoui,SSE,BSCSC,r.lamharzialaoui@aui.ma,0655782487,false,learner,160,true
+5d83b5be1504c51514b1a4aa,618,76057,Othman,Layachi,SSE,BSCSC,o.layachi@aui.ma,+212641546648,false,learner,160,true
+5d83ba283eca5918c4f2cf75,619,71550,Anis,Barnoussi,SBA,BBA,a.barnoussi98@aui.ma,0662068968,false,learner,160,true
+5d83bcd13eca5918c4f2cf79,620,81732,Amine,Bennani,SBA,BBA,amine.bennani@aui.ma,0612903884,false,learner,160,true
+5d83c2363eca5918c4f2cf7c,621,80902,Oussama,Ouaouicha,SBA,BBA,o.ouaouicha@aui.ma,0661381780,false,learner,160,true
+5d83ece61504c51514b1a4cf,622,81149,Samy,Hatmi,SBA,BBA,s.hatmi@aui.ma,0651827780,false,learner,160,true
+5d83eea11504c51514b1a4d1,623,77560,kenza,Souini,SSE,MSSE,k.souini@aui.ma,0649459724,false,learner,160,true
+5d83efda1504c51514b1a4d3,624,83557,Wissal,Mossamia,SSE,BSGE,w.mossamia@aui.ma,0602322771,false,learner,160,true
+5d83f738eef4e10fd4edff48,625,70979,Imane,Ounzar,SBA,BBA,70979@aui.ma,066319477,false,learner,160,true
+5d8412c2eef4e10fd4edff4d,626,78382,Mouataz,Marzouk,SBA,BBA,m.marzouk@aui.ma,0658724418,false,learner,160,true
+5d84a582eef4e10fd4edff58,627,80642,Ghita,Skalante,SBA,BBA,g.skalante@aui.ma,0697431635,false,learner,160,true
+5d84a950eef4e10fd4edff5d,628,76706,nada,baassi,SSE,BSEMS,n.baassi@aui.ma,0622021757,false,learner,160,true
+5d84aff41504c51514b1a4ed,629,74945,Yousra,M'hamdi,SBA,BA/MA,y.m'hamdi@aui.ma,0696144299,false,learner,160,true
+5d84c4fa1504c51514b1a4f4,630,73340,Dina,Mamou,SSE,BSEMS,72340@aui.ma,0631618305,false,learner,160,true
+5d84cf9f1504c51514b1a4fa,631,83220,abdelkarim,gouni,SSE,BSGE,a.gouni@aui.ma,0617856841,false,learner,160,true
+5d84d81d1504c51514b1a500,632,77266,Oumaima,Chakiri,SBA,BBA,o.chakiri@aui.ma,0684033500,false,learner,160,true
+5d84de9a1504c51514b1a504,633,82152,Tahera,Shayagan,SHSS,BAIS,t.shayagan@aui.ma,0666905489,false,learner,160,true
+5d84eac21504c51514b1a50b,634,80615,Loubna,El Hafidi,SHSS,BACS,l.elhafidi@aui.ma,0620148392,false,learner,160,true
+5d84f2b0c5547012f4de0f9e,635,80393,Aicha,Zahraoui,SHSS,BACS,ai.zahraoui@aui.ma,0615607760,false,learner,160,true
+5d84f317c5547012f4de0fa0,636,75494,fatine,bensadik,SHSS,BACS,f.bensadik@aui.ma,0604243185,false,learner,160,true
+5d84f7edc5547012f4de0fa6,637,81683,AHMED HATIM,RHABBOUR,SHSS,BAIS,a.rhabbour@aui.ma,0660316286,false,learner,160,true
+5d84fb94c5547012f4de0faa,638,83321,Mehdi,Benhaddou,SSE,BSCSC,me.benhaddou@aui.ma,0607871544,false,learner,160,true
+5d860dc9c5547012f4de1011,639,76754,Anass,Zouine,SSE,BSCSC,a.zouine@aui.ma,0639989398,false,learner,160,true
+5d862505c5547012f4de101c,640,76257,rania,ziouani,SBA,BBA,76257@aui.ma,0671998517,false,learner,160,true
+5d8656eec5547012f4de102d,641,76674,mohammed,jamai,SSE,BSEMS,mohammed.jamai@aui.ma,0666908100,false,learner,160,true
+5d8667d9e87a9f0fdc511349,642,80457,Hiba,Lehjef,SSE,BSGE,h.lehjef@aui.ma,0601375885,false,learner,160,true
+5d86686ce87a9f0fdc51134b,643,76523,hamza,bourjila,SBA,BBA,h.bourjila@aui.ma,0707612201,false,learner,160,true
+5d8676f1c5547012f4de1070,644,81522,Yassine,Bensaoud,SBA,BBA,y.bensaoud@aui.ma,0661662920,false,learner,160,true
+5d867cbdc5547012f4de1074,645,83516,Ali,Guessous,SBA,BBA,83516@aui.ma,0626355750,false,learner,160,true
+5d86bd70c5547012f4de1077,646,70196,Ghizlane,Rehioui,SSE,BSEMS,70196@aui.ma,0666953312,false,learner,160,true
+5d86bf88c5547012f4de1079,647,79440,Houda,Amaly,SHSS,BACS,h.amaly@aui.ma,0777671828,false,learner,160,true
+5d86d826e87a9f0fdc511393,648,70317,Meriem,El Amine,SBA,BA/MA,m.elamine@aui.ma,0641629276,false,learner,160,true
+5d875215e87a9f0fdc5113a8,649,74473,Youssef,Rodi,SBA,BBA,y.rodi@aui.ma,0676088831,false,learner,160,true
+5d87830a76be691438ab2ddc,650,70586,mohamed,benkirane,SBA,BBA,mohamed.benkirane@aui.ma,0665873931,false,learner,160,true
+5d87ac9be87a9f0fdc5113b0,651,79641,Hamza,IDRISSI,SBA,BBA,hamza.idrissi@aui.ma,0766693018,false,learner,160,true
+5d87b659e87a9f0fdc5113b5,652,80009,Fatima zahra,Belhadj,SSE,BSEMS,f.belhadj@aui.ma,0694138730,false,learner,160,true
+5d87d490e87a9f0fdc5113cd,653,72650,Khaoula,Douirek,SHSS,NAMES,72650@aui.ma,0660804486,false,learner,160,true
+5d87dbcde87a9f0fdc5113cf,654,77008,Mohamed,El Kadiri El Hassani,SSE,BSCSC,m.elkadirielhassani@aui.ma,0655541076,false,learner,160,true
+5d87dc0ae87a9f0fdc5113d1,655,69783,Mohamed Amine,Elbouni,SSE,BSCSC,m.elbouni@aui.ma,212653198420,false,learner,160,true
+5d87e27ff8a1b30e0045c164,656,67022,youness,abaamrane,SBA,BBA,y.abaamrane@aui.ma,0619144916,false,learner,160,true
+5d886c6eb332c10edc8e39b6,657,76498,Meryem,Soltane,SSE,BSGE,76498@aui.ma,0663356186,false,learner,160,true
+5d887b8bb332c10edc8e39b8,658,77608,Sofya,Sellak,SSE,BSGE,s.sellak@aui.ma,0689642189,false,learner,160,true
+5d88977eb332c10edc8e39bd,659,79219,Mohcine,Wahib,SSE,BSCSC,79219@aui.ma,0651734536,false,learner,160,true
+5d88a6b8b332c10edc8e39c9,660,80477,amine,miadi,SSE,BSCSC,a.miadi@aui.ma,0641836510,false,learner,160,true
+5d88b089de2e9c0020b91b37,661,80291,Zineb,Essibari,SSE,BSCSC,z.essibari@aui.ma,0662066431,false,learner,160,true
+5d88b1b6b332c10edc8e39d2,662,80364,Kenza,Ait Ahmed,SHSS,BSHRD,k.aitahmed@aui.ma,0664910230,false,learner,160,true
+5d88b4d3b332c10edc8e39d6,663,81278,Souleiman,Oulmaati,SSE,BSCSC,so.oulmaati@aui.ma,0656999892,false,learner,160,true
+5d88b952de2e9c0020b91b43,664,63312,sara,azzouz,SSE,MSSEM,s.azzouz@aui.ma,0644276081,false,learner,160,true
+5d88bafdb332c10edc8e39dd,665,77418,Oussama,Eddeqiaouq,SSE,BSGE,o.eddeqiouaq@aui.ma,0604919435,false,learner,160,true
+5d88c73fde2e9c0020b91b4a,666,67111,Bilal,El Ahrach,SSE,BSEMS,b.elahrach@aui.ma,0662019600,false,learner,160,true
+5d88e8e1b332c10edc8e3a1c,667,82908,ayoub,belkadi,SBA,BBA,ay.belkadi@aui.ma,+212653514155,false,learner,160,true
+5d88ed86b332c10edc8e3a23,668,80032,Hiba,ElFarissi,SSE,BSGE,h.elfarissi@aui.ma,0639678148,false,learner,160,true
+5d8902ceb332c10edc8e3a28,669,70350,Khaoula,Qassibi,SSE,BSCSC,k.qassibi@aui.ma,0661530044,false,learner,160,true
+5d892074de2e9c0020b91bba,670,83685,all fousseni,Djire,SSE,BSGE,a.djire@aui.ma,0684813259,false,learner,160,true
+5d8943aede2e9c0020b91bd2,671,76245,m'hamed oussama,lamaakel,SSE,BSGE,m.lamaakel@aui.ma,0676736712,false,learner,160,true
+5d894a8e6f9252169c4803c4,672,68856,Jinane,Es-sadki,SBA,BBA,j.essadki@aui.ma,0661980438,false,learner,160,true
+5d894b6c6f9252169c4803c6,673,74141,yousra,yajioui,SSE,BSGE,y.yajioui@aui.ma,0621574504,false,learner,160,true
+5d895c04de2e9c0020b91bd7,674,69516,safae,dalil,SBA,BBA,69516@aui.ma,0 609-182996,false,learner,160,true
+5d89d1d46f9252169c4803cc,675,78022,Salma,Taissa,SBA,BA/MA,sa.taissa@aui.ma,0655150587,false,learner,160,true
+5d89f89b15e7e70ca8fc8b8a,676,82674,Samy,Yemmas,SBA,BBA,s.yemmas@aui.ma,0762707062,false,learner,160,true
+5d8a0ddf15e7e70ca8fc8b93,677,69450,Walid,Aguizoul,SSE,BSEMS,w.aguizoul@aui.ma,0661725440,false,learner,160,true
+5d8a155815e7e70ca8fc8b96,678,80029,Rabbia,Couassi-ble,SHSS,BAIS,b.couassiblerabb@aui.ma,0697489915,false,learner,160,true
+5d8a1bf315e7e70ca8fc8b9a,679,76982,Imane,Belayach,SHSS,MSHRD,76982@aui.ma,0623223253,false,learner,160,true
+5d8a390ade2e9c0020b91c16,680,70968,Nouhaila,Demni,SHSS,BACS,70968@aui.ma,0653886127,false,learner,160,true
+5d8a3b42de2e9c0020b91c18,681,74823,Hamza,Zekri,SBA,BBA,h.zekri@aui.ma,+212663530020,false,learner,160,true
+5d8a4433de2e9c0020b91c2b,682,83505,Hassan,Bahaji,SBA,BBA,h.bahaji@aui.ma,0653156311,false,learner,160,true
+5d8a483a347e94146470cde3,683,73949,Nisrine,Jamai,SSE,BSEMS,73949@aui.ma,0624266488,false,learner,160,true
+5d8a5005cf8101017493b7f4,684,80286,Mohamed,El Manssouri,SBA,BBA,m.elmanssouri@aui.ma,0643242533,false,learner,160,true
+5d8a5206033bf00e6455be2f,685,79965,Aya,Benabdellah,SBA,BBA,a.benabdellah@aui.ma,0666885413,false,learner,160,true
+5d8a5917033bf00e6455be31,686,68448,salma,zahidi,SBA,BBA,68448@aui.ma,0659903380,false,learner,160,true
+5d8a60e7033bf00e6455be39,687,81588,Ibrahim,Lafram,SBA,BBA,i.lafram@aui.ma,0766462083,false,learner,160,true
+5d8a64a3cf8101017493b806,688,7400,Othmane,Ayay,SBA,BBA,o.ayay@aui.ma,04891148,false,learner,160,true
+5d8a656bcf8101017493b808,689,75531,Adam,Mchaouar,SHSS,MAISD,a.mchaouar@aui.ma,+212 6.42.46.24.39,false,serviceprovider,160,true
+5d8a66f4033bf00e6455be3e,690,00001,Adam,Mchaouar,SHSS,MAISD,75531@aui.ma,+212 6 42 46 24 39,false,manager,160,true
+5d8a67e1033bf00e6455be40,691,79290,Oussama,El joundi,SBA,BBA,o.eljoundi@aui.ma,0624450841,false,learner,160,true
+5d8a6a7e033bf00e6455be48,692,78026,Ghita,Achir,SBA,BA/MA,g.achir@aui.ma,0697931935,false,learner,160,true
+5d8a6cc7cf8101017493b812,693,79962,othmane,blidry,SHSS,BACS,o.blidry@aui.ma,0662241243,false,learner,160,true
+5d8b293a8048a80e28dad3be,694,81610,Hajar,Aderdour,SBA,BBA,h.aderdour@aui.ma,0637520961,false,learner,160,true
+5d8b3aa48048a80e28dad3cd,695,72488,Aroune,Ghadbane,SSE,BSGE,a.ghadbane@aui.ma,0661797554,false,learner,160,true
+5d8b4c29ed18841148498e86,696,71052,Imane,Afrine,SSE,BSEMS,i.afrine@aui.ma,0603460117,false,learner,160,true
+5d8b4c84ed18841148498e88,697,78360,Anas,Bouchtita,SBA,BBA,a.bouchtita@aui.ma,0670918643,false,learner,160,true
+5d8b54cbcf8101017493b85d,698,80115,Salma,Louafi,SHSS,BSHRD,s.louafi@aui.ma,0656552627,false,learner,160,true
+5d8b6294cf8101017493b86e,699,75978,Khalil,Antari,SBA,BBA,k.antari@aui.ma,0624620657,false,learner,160,true
+5d8b6670cf8101017493b873,700,82221,Achraf,Aallali,SBA,BBA,a.aallali@aui.ma,0615263600,false,learner,160,true
+5d8b88098048a80e28dad3e5,701,83764,Aya,El Bourakkadi,SBA,BA/MA,a.elbourakkadi@aui.ma,0691404763,false,learner,160,true
+5d8b89e88048a80e28dad3e7,702,73572,hiba,Abou Abdallah,SHSS,BAIS,h.abouabdallah@aui.ma,0631982108,false,learner,160,true
+5d8bac51033bf00e6455be7f,703,83121,Kawtar,Benzaouia,SHSS,BSHRD,k.benzaouia@aui.ma,0610564415,false,learner,160,true
+5d8bae67033bf00e6455be81,704,79925,nouha,abdelhak,SHSS,BACS,n.abdelhak@aui.ma,0622492444,false,learner,160,true
+5d8bb40b033bf00e6455be9c,705,78930,Douae,Rioui,SSE,BSEMS,d.rioui@aui.ma,212694319148,false,learner,160,true
+5d8bb708033bf00e6455bea3,706,83254,Ahmed,El Fezazi,SBA,BBA,a.elfezazi@aui.ma,0643026831,false,learner,160,true
+5d8bb946033bf00e6455bea7,707,80057,Nahid,Amrani,SBA,BBA,n.amrani@aui.ma,0650531558,false,learner,160,true
+5d8bbd2d033bf00e6455beaa,708,79868,Oumaima,Khattab,SBA,BBA,o.khattab@aui.ma,0677072485,false,learner,160,true
+5d8bc94d8048a80e28dad40c,709,71024,Ghita,Zkhiri,SBA,BBA,g.zkhiri@aui.ma,0661568959,false,learner,160,true
+5d8c7827033bf00e6455becb,710,73301,Hadil,Benzina,SBA,BBA,h.benzina@aui.ma,0649900686,false,learner,160,true
+5d8c92038048a80e28dad43c,711,67085,Soha,Essbai,SSE,BSEMS,s.essbai@aui.ma,0613452122,false,learner,160,true
+5d8caa678048a80e28dad447,712,70000,acc,acc,SSE,BSCSC,f.lname@aui.ma,066666666,false,learner,160,false
+5d8cbdf3cf8101017493b880,713,83763,Salma,Rachidi,SBA,BA/MA,sa.rachidi@aui.ma,0613963767,false,learner,160,true
+5d8cce8ccf8101017493b88f,714,74475,Zineb,Alami,SBA,BA/MA,zi.alami@aui.ma,0656001108,false,learner,160,true
+5d8ce059cf8101017493b895,715,73141,Bassma,El Alaoui,SBA,BBA,b.elalaoui@aui.ma,0676461576,false,learner,160,true
+5d8ce399cf8101017493b899,716,81228,Nabil,Hamidi,SHSS,BAIS,n.hamidi@aui.ma,0671473773,false,learner,160,true
+5d8ce90171775f0dd4849a53,717,73097,maryam,elamiri,SSE,BSEMS,m.elamiri@aui.ma,0697815209,false,learner,160,true
+5d8cec9a71775f0dd4849a58,718,83760,El Mahdi,Aderbaz,SBA,BBA,e.aderbaz@aui.ma,0613519528,false,learner,160,true
+5d8cf1e161c1dd17ecf3c5b9,719,82789,Firdaous,El Ouali,SHSS,BAIS,f.elouali@aui.ma,0644094198,false,learner,160,true
+5d8cfc9e71775f0dd4849a5f,720,73885,Chaimae,Bouha,SBA,BBA,c.bouha@aui.ma,0642129057,false,learner,160,true
+5d8cff1b71775f0dd4849a62,721,81413,Mohamed Alae,El Mounssefe,SSE,BSCSC,m.elmounssefe@aui.ma,0617064664,false,learner,160,true
+5d8d0f2b71775f0dd4849a73,722,66633,Ikrame,Sadik,SBA,BBA,i.sadik@aui.ma,0633317090,false,learner,160,true
+5d8d107471775f0dd4849a76,723,80062,Mohammed,Bouayad,SBA,BA/MA,mo.bouayad@aui.ma,0655263327,false,learner,160,true
+5d8d3a7661c1dd17ecf3c5ef,724,66972,Nada,El Maliki,SBA,BBA,n.elmaliki@alumni.aui.ma,+1(309) 212 - 5568,false,learner,160,true
+5d8d4fb571775f0dd4849aa0,725,77426,Salwa,Barbach,SBA,BBA,77426@aui.ma,0654186785,false,learner,160,true
+5d8dd13661c1dd17ecf3c615,726,81347,Hassan,Lahroudy,SBA,BA/MA,h.lahroudy@aui.ma,0707191005,false,learner,160,true
+5d8ddb9061c1dd17ecf3c61a,727,80598,Gaia,Mirulla,SSE,BAIS,80598@aui.ma,212696900723,false,learner,160,true
+5d8de3d871775f0dd4849aaa,728,74432,Khalid,El khaouli,SSE,BSEMS,k.elkhaouli@aui.ma,0637023476,false,learner,160,true
+5d8de42d71775f0dd4849aac,729,73449,Yassine,Chtaini,SSE,BSCSC,y.chtaini@aui.ma,0688575525,false,learner,160,true
+5d8de4b371775f0dd4849aae,730,61729,Youssef,Boulaouane,SSE,BSCSC,61729@aui.ma,0600680673,false,learner,160,true
+5d8deca171775f0dd4849ab8,731,80531,Nizar,El Malali,SBA,BBA,n.elmalali@aui.ma,0661042341,false,learner,160,true
+5d8e0f0a71775f0dd4849ad2,732,65952,Nariman,Agharbi,SSE,BSCSC,n.agharbi@aui.ma,0670273986,false,learner,160,true
+5d8e2a80df32e4113894d859,733,79500,Manal,Chaouki,SBA,BBA,ma.chaouki@aui.ma,0618382617,false,learner,160,true
+5d8e2fb7df32e4113894d85f,734,81159,Mohamed,El Kasimi,SSE,BSCSC,m.elkasimi@aui.ma,0614330373,false,learner,160,true
+5d8e3ef04be5840dd444dc60,735,83738,Aya,Mahdaoui,SSE,BSEMS,a.mahdaoui@aui.ma,0623898988,false,learner,160,true
+5d8e4cf64be5840dd444dc7e,736,76666,aya,malih,SSE,BSEMS,76666@aui.ma,0620427669,false,learner,160,true
+5d8e7bbb17d58914c8dd1881,737,81943,hamza,hamza,SBA,BSEMS,a.choukri+aaaa@aui.ma,0666666666,false,learner,160,false
+5d8f44d2726dcc11382f5c07,738,81659,Bilal,Elbouardi,SSE,BSCSC,81656@aui.ma,0648265648,false,learner,160,true
+5d8f549f726dcc11382f5c0f,739,80630,BORAM,KIM,SBA,BBA,b.kim@aui.ma,82 1058551087,false,learner,160,true
+5d8f757258a6710af8859764,740,76410,raida,bihi,SBA,BBA,r.bihi@aui.ma,0624709547,false,learner,160,true
+5d8f82284be5840dd444dc8f,741,78731,yasmine,bicha,SBA,BBA,y.bicha@aui.ma,0662030540,false,learner,160,true
+5d8f833d4be5840dd444dc91,742,75251,hamza,waled,SSE,BSCSC,h.waled@aui.ma,0643085998,false,learner,160,true
+5d8f9fd558a6710af8859778,743,77034,Ghita,Houssaini,SBA,BBA,g.elhoussaini@aui.ma,+212661073710,false,learner,160,true
+5d8fa76b4be5840dd444dca7,744,79424,Hamza,Sakout,SSE,BACS,79424@aui.ma,0629470006,false,learner,160,true
+5d8fb6da4be5840dd444dcaa,745,67370,Maria,Aba,SSE,BSEMS,67370@aui.ma,0659817755,false,learner,160,true
+5d8fd1354be5840dd444dcb2,746,73171,Khalil,Layachi,SBA,BBA,kh.layachi@aui.ma,0700492888,false,learner,160,true
+5d907d8a4be5840dd444dcb7,747,80613,Fatima zahra,Elhaddek,SSE,BSEMS,f.elhaddek@aui.ma,0767523108,false,learner,160,true
+5d9083ac4be5840dd444dcba,748,72756,Ali,Elfanidi,SBA,BBA,a.elfanidi@aui.ma,0656595071,false,serviceprovider,160,true
+5d908a454be5840dd444dcc2,749,76612,Sami,EZ-ZABRI,SSE,BSGE,76612@aui.ma,0693957344,false,learner,160,true
+5d90b4304be5840dd444dcd2,750,80107,Ghita,Amrani,SBA,BA/MA,g.amrani@aui.ma,0614043819,false,learner,160,true
+5d90e5db4be5840dd444dceb,751,76653,lina,chiairi andalusi,SBA,BBA,76653@aui.ma,0610397775,false,learner,160,true
+5d91048358a6710af88597ec,752,78520,Idir,Moukhlis,SBA,MBA,i.moukhlis@aui.ma,0621068714,false,learner,160,true
+5d910e9758a6710af88597fc,753,78218,Fatima-zohra,Aboulfoujja,SBA,BA/MA,78218@aui.ma,+2120620852340,false,learner,160,true
+5d91496858a6710af885980d,754,75469,Hicham,Ait hadouch,SSE,BSCSC,75469@aui.ma,0628215474,false,learner,160,true
+5d914ad64be5840dd444dcfe,755,77763,Rania,El Meknassi,SSE,BSEMS,77763@aui.ma,0668797959,false,learner,160,true
+5d91d59457a7a914bc291470,756,78269,ettabaa,dounia,SSE,BSEMS,78269@aui.ma,0661554313,false,learner,160,true
+5d91d7c457a7a914bc291477,757,81191,Shelby,Fenn,SHSS,BA/MA,s.fenn@aui.ma,+14158454359,false,serviceprovider,160,true
+5d91d7ed57a7a914bc291479,758,81746,Sofia,Jensen,SHSS,BA/MA,s.jensen@aui.ma,+15052744857,false,serviceprovider,160,true
+5d91e8aa57a7a914bc29148e,759,67413,Wail,Ouarour,SSE,BSEMS,w.ouarour@aui.ma,0648269447,false,learner,160,true
+5d91fcc8b401a913dc4c9292,760,76172,zineb,tazi,SBA,BBA,76172@aui.ma,0661203307,false,learner,160,true
+5d9200cf57a7a914bc2914a9,761,78400,Hanine,Toudghi,SBA,BBA,h.toudghi@aui.ma,0767819213,false,learner,160,true
+5d920925726dcc11382f5c18,762,69490,Senouane,Mahdad,SHSS,BSHRD,69490@aui.ma,0655325821,false,learner,160,true
+5d92099a726dcc11382f5c1a,763,79144,Hamza,AMMAD,SSE,BSCSC,79144@aui.ma,689380822,false,learner,160,true
+5d921391726dcc11382f5c25,764,75277,Khadija,Rhazour,SSE,BSEMS,k.rhazour@aui.ma,0661826769,false,learner,160,true
+5d9213df726dcc11382f5c27,765,80079,Aliyu saifullah,IDRIS,SSE,BSGE,a.idris@aui.ma,0602171440,false,learner,160,true
+5d921480726dcc11382f5c29,766,59839,Maria,Ala ( group tutoring only),SBA,BBA,m.ala@aui.ma,0644079050,false,serviceprovider,160,true
+5d9214ed726dcc11382f5c2c,767,78906,yahya,yaakoubi khbiza,SSE,BACS,y.yaakoubikhbiza@aui.ma,0679390185,false,learner,160,true
+5d9217ec10c5d100f0ee72c8,768,75736,hajar,dehhak,SSE,BSEMS,75736@aui.ma,0679230053,false,learner,160,true
+5d9217fa10c5d100f0ee72ca,769,66787,Ibtissam,EL Maate,SBA,BBA,i.elmaate@aui.ma,0628810970,false,learner,160,true
+5d9218d5726dcc11382f5c30,770,79279,AYA,IBN ALKHALIL,SBA,BBA,79279@aui.ma,0661176511,false,learner,160,true
+5d9229cc33a55b07c859222b,771,67446,Salma,Setihe,SSE,BSEMS,s.setihe@aui.ma,0662102750,false,learner,160,true
+5d922fa19ee22a0ad83228dc,772,76402,Hamza,Bouziane,SBA,BBA,h.bouziane@aui.ma,0636610222,false,learner,160,true
+5d9231d79ee22a0ad83228de,773,67195,Omar,Hardouf,SBA,BBA,o.hardouf@aui.ma,0661531019,false,learner,160,true
+5d923c5daf0b620240bcbd61,774,76776,Ilham,El hassani alaoui,SHSS,BSHRD,i.elhassanialaoui@aui.ma,0661537870,false,learner,160,true
+5d924bd8af0b620240bcbd6c,775,73878,Hala,Essabik,SBA,BBA,h.essabik@aui.ma,0622332577,false,learner,160,true
+5d9254e49ee22a0ad83228fc,776,76703,oumaima,madi,SHSS,BAIS,ou.madi@aui.ma,0607771656,false,learner,160,true
+5d925710af0b620240bcbd71,777,74799,ROUKIA,boujouala,SBA,BBA,r.boujouala@aui.ma,0777237781,false,learner,160,true
+5d92702f9ee22a0ad832290e,778,78567,Hamza,El Qaissoumi,SSE,MSSEM,h.elqaissoumi@aui.ma,0600035194,false,learner,160,true
+5d9272d09ee22a0ad8322911,779,77840,Yousra,Kadiri,SBA,BBA,y.kadiri@aui.ma,0622192035,false,learner,160,true
+5d930139af0b620240bcbd84,780,83186,Chaymae,Aboudalal,SSE,BSCSC,c.aboudalal@aui.ma,0670911182,false,learner,160,true
+5d931b859ee22a0ad832292c,781,78306,Ikram,RACHAK,SSE,BSGE,i.rachak@aui.ma,0628169540,false,learner,160,true
+5d9337889ee22a0ad8322942,782,75408,Akram,Boukhris,SBA,BBA,a.boukhris@aui.ma,0697877677,false,learner,160,true
+5d933854737fb511e0b3b7a5,783,73632,Hiba,ahardane,SBA,BBA,h.ahardane@aui.ma,0697636807,false,learner,160,true
+5d933ee5eec89d1198d85e48,784,79189,Othmane,Souissi,SBA,BBA,o.souissi@aui.ma,0677365770,false,learner,160,true
+5d9349d9eec89d1198d85e54,785,63712,RITAH,HEBBASSI,SHSS,BSHRD,r.hebbassi@aui.ma,0666090800,false,learner,160,true
+5d9352c6eec89d1198d85e5c,786,81523,Asmae,Chakir Alaoui,SHSS,BACS,as.chakiralaoui@aui.ma,0668882738,false,learner,160,true
+5d935453eec89d1198d85e5e,787,74816,Yassine,Charouif,SSE,BSEMS,y.charouif@aui.ma,0602925051,false,learner,160,true
+5d9359fceec89d1198d85e63,788,72757,Amine,Benslimane,SBA,BBA,am.benslimane@aui.ma,0661439987,false,learner,160,true
+5d935b3beec89d1198d85e66,789,74725,Mohamed,Ababou,SBA,BBA,m.ababou@aui.ma,0613927457,false,learner,160,true
+5d935d5a737fb511e0b3b7b6,790,72072,Sara,Katona,SHSS,NAMES,s.katona@aui.ma,+17172754585,false,serviceprovider,160,true
+5d9379e2b91c9c1960247445,791,81357,Martina,Burzio,SSE,BBA,m.burzio@aui.ma,212614137662,false,learner,160,true
+5d937d8e7dc66a17b4ec8bf9,792,78795,Majda,Tibhiri,SBA,MBA,m.tibhiri@aui.ma,0649333571,false,learner,160,true
+5d938d2e7dc66a17b4ec8bfe,793,75549,Maha,Oukil,SBA,BBA,75549@aui.ma,75549,false,learner,160,true
+5d938d7e7dc66a17b4ec8c00,794,75420,Laila,Saili,SBA,BBA,75420@aui.ma,0652807396,false,learner,160,true
+5d9398477dc66a17b4ec8c03,795,79369,Zouhair,Guerirech,SBA,BA/MA,79369@aui.ma,0662682181,false,learner,160,true
+5d939bef7dc66a17b4ec8c05,796,78735,Youssef,El Khattabi,SBA,BBA,78735@aui.ma,0660093635,false,learner,160,true
+5d93a2bb7dc66a17b4ec8c07,797,73672,Soukaina,El Maysour,SSE,BSCSC,73672@aui.ma,0761066227,false,learner,160,true
+5d93a3bc7dc66a17b4ec8c0a,798,61395,Ismael,Alamine,SBA,BBA,i.maouloud@aui.ma,00212629439697,false,learner,160,true
+5d93ab5ab91c9c1960247457,799,77652,Yahya,Jamal,SSE,BSCSC,y.jamal@aui.ma,0620482456,false,learner,160,true
+5d93b1237dc66a17b4ec8c12,800,78379,Ikram,Souly,SBA,BBA,i.souly@aui.ma,0642506495,false,learner,160,true
+5d93b9142a820c1af0c89b06,801,78797,khawla,mchichou,SBA,BBA,78797@aui.ma,0662399990,false,learner,160,true
+5d93c72a7dc66a17b4ec8c18,802,70626,Aïda,Sadiki,SHSS,BAIS,a.sadiki@aui.ma,0666461147,false,learner,160,true
+5d94611c2a820c1af0c89b7a,803,78780,safae,azeroil,SSE,BSEMS,s.azeroil@aui.ma,0676752175,false,learner,160,true
+5d9469fc7dc66a17b4ec8c34,804,72864,abdelali-es-seddiq,atmani,SBA,BBA,a.atmani-es-seddiq@aui.ma,0618202325,false,learner,160,true
+5d9487422a820c1af0c89b84,805,73800,Saad,Souaidi,SBA,BBA,s.souaidi@aui.ma,0661289162,false,learner,160,true
+5d948cd62a820c1af0c89b8c,806,77134,Wissal,Chafik,SHSS,BAIS,w.chafik@aui.ma,0651234936,false,learner,160,true
+5d949c197dc66a17b4ec8c61,807,80067,Ihssane,Alami Afilal,SSE,BSGE,i.alamiafilal@aui.ma,0668899735,false,learner,160,true
+5d94a0674814c91af8ec3238,808,74292,ikram,irchad,SSE,BSEMS,i.irchad@aui.ma,0637128561,false,learner,160,true
+5d94b09b4814c91af8ec323e,809,64620,Naoufal,Benchekroun,SBA,BBA,n.benchekroun@aui.ma,0670795013,false,learner,160,true
+5d94c5b1e22f7f05a88e074f,810,79260,Oumaima,Adelli,SBA,BBA,o.adelli@aui.ma,0612023253,false,learner,160,true
+5d94c917bc29a40dc86ad070,811,20000,Taher,Annasse,ASI,ASI,taherannasse2002@gmail.com,0623357488,false,learner,160,true
+5d94c917bc29a40dc86ad071,812,20001,Salma,Dakhchi,ASI,ASI,salma.dak@live.it,0661389309,false,learner,160,true
+5d94c917bc29a40dc86ad072,813,20002,Basma,Jaafar,ASI,ASI,basmajaafar@gmail.com,0636719272,false,learner,160,true
+5d94c917bc29a40dc86ad073,814,20003,Salma,Rachidi,ASI,ASI,rachidi.salma@gmail.com,0613963767,false,learner,160,true
+5d94c917bc29a40dc86ad074,815,20004,Aya,El Bourakkadi,ASI,ASI,aya.bou2003@gmail.com,0691404763,false,learner,160,true
+5d94cb59e22f7f05a88e0752,816,73395,Alae eddine,Berradi,SBA,BBA,a.berradi@aui.ma,0694228336,false,learner,160,true
+5d94d4ff29c4321ad04d34f8,817,62102,Sonya,Bahlawi,SHSS,BSHRD,s.bahlawi@aui.ma,0661875391,false,learner,160,true
+5d951bd54814c91af8ec324b,818,70971,Ghita,El Bakkouri,SSE,BSGE,g.elbakkouri@aui.ma,0677857643,false,learner,160,true
+5d95a8cf71ecbd0de4468b94,819,70636,Rihab,Hadhoudi,SHSS,BSHRD,r.hadhoudi@aui.ma,0623119212,false,learner,160,true
+5d96017e71ecbd0de4468b9f,820,70640,Amine,Laâyouni El oudghiri,SBA,BBA,70640@aui.ma,0652879632,false,learner,160,true
+5d9616b14bc9f718589d5b9e,821,77522,meryem,toum bencvhekroun,SBA,MBA,m.toumbenchekroun@aui.ma,0637753067,false,learner,160,true
+5d96179d4bc9f718589d5ba1,822,79469,arij,al fatini,SBA,BBA,a.alfatini@aui.ma,0707730121,false,learner,160,true
+5d961be0675f811ba8752bb8,823,82190,abdelmajid,mabrouk,SSE,BSCSC,a.mabrouk@aui.ma,0636603420,false,learner,160,true
+5d962265de5ad30dc077f96f,824,76466,Ismail,Ben seddik,SSE,BSCSC,i.benseddik@aui.ma,0615079824,false,learner,160,true
+5d9622acde5ad30dc077f971,825,76984,salma,hammouche,SSE,BACS,76984@aui.ma,0642833040,false,learner,160,true
+5d96231cde5ad30dc077f973,826,75675,Asma,Dalil,SSE,BACS,75675@aui.ma,0689642154,false,learner,160,true
+5d963fc593fb261b8caed12d,827,80705,Meenina,Ahl ezzine,SBA,BBA,m.ahlezzine@aui.ma,0689066850,false,learner,160,true
+5d965d02de5ad30dc077f987,828,73629,hasnae,srayi,SBA,BBA,h.srayi@aui.ma,0659200565,false,learner,160,true
+5d96f16693fb261b8caed157,829,75909,Souad,Essemyhi,SSE,BSEMS,s.essemyhi@aui.ma,0767179120,false,learner,160,true
+5d9745957207c403489d4beb,830,82459,IMANE,JAMAI,SBA,BBA,i.jamai@aui.ma,0696479785,false,learner,160,true
+5d974c0495cbfd12d447d1a9,831,75788,mouad,fakri,SBA,BBA,75788@aui.ma,0653380725,false,learner,160,true
+5d976a8048d52a1ae852caff,832,77721,Ajmi,Marouane,SBA,BBA,m.ajmi@aui.ma,0666661678,false,learner,160,true
+5d98673bd0513d1fc405ffd1,833,67172,Hind,Abouredouane,SBA,BBA,h.abouredouane@aui.ma,212644‑908639,false,learner,160,true
+5d98911474c2ae08d8a4b6f5,834,79423,iman,ait lhou,SHSS,BACS,79423@aui.ma,0669664294,false,learner,160,true
+5d98e18274c2ae08d8a4b713,835,74625,Hamza,Bellali,SSE,BSCSC,h.bellali@aui.ma,0600208888,false,learner,160,true
+5d98fa3a74c2ae08d8a4b740,836,77804,Saad,Driouech,SSE,BSCSC,s.driouech@aui.ma,0662097271,false,learner,160,true
+5d9a25f43ffc5123cca233ab,837,77236,ghita,mounsef,SSE,BSEMS,g.mounsef@aui.ma,0654434629,false,learner,160,true
+5d9a29463ffc5123cca233d8,838,74752,Reda,Benaddou idrissi,SBA,BBA,74752@aui.ma,0637978976,false,learner,160,true
+5d9a3cff653b141f803859a5,839,75442,Fatima Zohra,Kohen,SHSS,BACS,f.kohen@aui.ma,0671040593,false,learner,160,true
+5d9a5cc43ffc5123cca233ee,840,71030,Omar,Berra,SSE,BSEMS,71030@aui.ma,0690017854,false,learner,160,true
+5d9a661e653b141f803859b3,841,76267,Imane,Sagou,SBA,BBA,76267@aui.ma,0651955049,false,learner,160,true
+5d9a72833ffc5123cca2340d,842,68942,Fayçal,Fikri,SBA,BBA,f.fikri@aui.ma,0626481377,false,learner,160,true
+5d9b01b23ffc5123cca23422,843,1720,Ahmed,Khallaayoun,SSE,MSSE,a.khallaayoun@aui.ma,0670522228,false,manager,160,true
+5d9b0e6534a24323d8834d52,844,73507,Imane,Elmattichi,SSE,BSEMS,i.elmattichi@aui.ma,0630393357,false,learner,160,true
+5d9b11d03ffc5123cca23435,845,78926,Inâam,Atmani,SSE,BSEMS,i.atmani@aui.ma,0696558417,false,learner,160,true
+5d9b1bc634a24323d8834d5e,846,79304,Shima,Nadrah,SHSS,BACS,s.nadrah@aui.ma,06,false,learner,160,true
+5d9b1d7734a24323d8834d60,847,76581,Yazid,El Aouad,SSE,BSGE,a.elaouad@aui.ma,0682460851,false,learner,160,true
+5d9b23a03ffc5123cca23440,848,80190,Anouar,Karba,SHSS,BSHRD,a.karba@aui.ma,0762971774,false,learner,160,true
+5d9b393e92b581209489784a,849,60585,salma,elbaraka,SBA,BBA,60585@aui.ma,60585,false,learner,160,true
+5d9b4b9892b5812094897854,850,75752,Ayman,Karam,SBA,BBA,a.karam@aui.ma,0660004500,false,learner,160,true
+5d9b5510e510cb0ffc501a16,851,77029,Oumaima,Bachlalou,SBA,BBA,o.bachlalou@aui.ma,0650818394,false,learner,160,true
+5d9b5a73e510cb0ffc501a19,852,75811,Othmane,Yousfi,SBA,BBA,o.yousfi@aui.ma,0649695126,false,learner,160,true
+5d9b647120832203240bc6e1,853,69907,Ibrahim,El achhab,SSE,BSEMS,i.elachhab@aui.ma,0616179861,false,learner,160,true
+5d9b6761440a9509f4e2ce28,854,73027,Youssef,Salbi,SBA,BBA,73027@aui.ma,0661839464,false,learner,160,true
+5d9b8302440a9509f4e2ce38,855,76838,Nissrine,Souri,SSE,BSCSC,n.souri@aui.ma,0637065543,false,learner,160,true
+5d9b832020832203240bc6e6,856,76368,Mohammed khalil,Ghali,SSE,BSCSC,m.ghali@aui.ma,0659125088,false,learner,160,true
+5d9b858220832203240bc6e9,857,73389,Ghita,Ejjradi,SBA,BBA,g.ej-jradi@aui.ma,0661641212,false,learner,160,true
+5d9ba41c20832203240bc6ed,858,77613,Omar,Cheddadi,SBA,BBA,o.cheddadi@aui.ma,0707793570,false,learner,160,true
+5d9ba46a20832203240bc6ef,859,77964,Aymane,Fechtali,SBA,BBA,a.fechtali@aui.ma,0625573797,false,learner,160,true
+5d9ba4db20832203240bc6f2,860,78511,Meryem,Benjaa,SBA,BA/MA,78511@aui.ma,0662172250,false,learner,160,true
+5d9bc38a440a9509f4e2ce47,861,74169,soukaina,Hassane,SBA,BBA,s.hassane@aui.ma,0642235544,false,learner,160,true
+5d9bc42a440a9509f4e2ce49,862,81817,Med Ismail,Mouline,SSE,BSGE,mi.mouline@aui.ma,0676754676,false,learner,160,true
+5d9c4d76440a9509f4e2ce58,863,1655,Abderrahim,Boulakrouch,SSE,BS/MS,a.boulakrouch@aui.ma,0663862257,false,learner,160,true
+5d9c6d64440a9509f4e2ce5f,864,74105,Rim,Lahlou,SBA,BBA,rim.lahlou@aui.ma,0611205101,false,learner,160,true
+5d9c7a29440a9509f4e2ce8b,865,70154,Imane,tawfiq,SHSS,BSHRD,70154@aui.ma,0641109520,false,learner,160,true
+5d9c806920832203240bc735,866,83161,Rajae,Boubou,SBA,BBA,r.boubou@aui.ma,0622400090,false,learner,160,true
+5d9cb73aa3997c0a2c9fa48b,867,83224,saad,mehrous,SBA,BBA,s.mehrous@aui.ma,0604004231,false,learner,160,true
+5d9cd3ee2ee59311349aab7d,868,73898,chatouane,assma,SBA,BBA,73898@aui.ma,0661379020,false,learner,160,true
+5d9cd7dee91e6305d490524e,869,77849,Driss,Jaidi,SSE,BSCSC,77849@aui.ma,0616905463,false,learner,160,true
+5d9d079b0cf1f810408d8248,870,77408,Fatima Zahra,Bahajwi,SBA,BBA,f.bahjawi@aui.ma,0642044441,false,learner,160,true
+5d9d1c280cf1f810408d8250,871,78457,chaimae,khaiti,SBA,BBA,78457@aui.ma,0613965134,false,learner,160,true
+5d9d9dd50cf1f810408d8257,872,79306,El Amine,Naitlho,SSE,BSCSC,e.naitlho@aui.ma,0623140833,false,learner,160,true
+5d9da76d0cf1f810408d825c,873,79499,Yahya,Chadi,SSE,MSSE,y.chadi@aui.ma,0699731617,false,learner,160,true
+5d9dbf140cf1f810408d827e,874,74148,mohamed yassine,EL RHAZI,SBA,BBA,74148@aui.ma,0661583123,false,learner,160,true
+5d9dcc270cf1f810408d8288,875,77738,Ayoub,Haizoun,SSE,BSCSC,a.haizoun@aui.ma,0700799248,false,learner,160,true
+5d9e08520cf1f810408d829c,876,78785,Ikram,Youssi,SHSS,MAISD,i.youssi@aui.ma,0623515559,false,learner,160,true
+5d9e1986a3997c0a2c9fa4db,877,79257,Yasser,Doubbi Kadmiri,SBA,BBA,y.doubbikadmiri@aui.ma,0600537728,false,learner,160,true
+5d9e287aa3997c0a2c9fa4e2,878,79228,Hamza,Ouadghiri Hassani,SSE,BACS,h.ouadghirihassani@aui.ma,0659405771,false,learner,160,true
+5d9e2b5d0cf1f810408d82a7,879,76956,Mohamed,Mortaji,SSE,BSCSC,76956@aui.ma,0628187663,false,learner,160,true
+5d9e4c7c2ee59311349aab88,880,74862,khaoula,senna,SHSS,BSHRD,k.senna@aui.ma,0610106408,false,learner,160,true
+5d9f3d4318a59d0f2cf564c0,881,79254,Zakia,Moufid,SHSS,BAIS,79253@aui.ma,0675132320,false,learner,160,true
+5d9f44e618a59d0f2cf564cc,882,80273,Isserssif,Halim,SBA,BBA,h.isserssif@aui.ma,0606692801,false,learner,160,true
+5d9f456f18a59d0f2cf564cf,883,81395,Adam,HAKIM,SBA,BBA,a.hakim@aui.ma,0628440510,false,learner,160,true
+5d9f45ad18a59d0f2cf564d1,884,83122,Hamza,Marrakchi benjaafar,SBA,BBA,h.marrakchibenjaafar@aui.ma,0631199247,false,learner,160,true
+5d9fa44abe877c07b0acf24c,885,68417,Jamal,Khalil,SSE,BSCSC,j.khalil@aui.ma,+212661733896,false,learner,160,true
+5d9fa6e6be877c07b0acf24f,886,76340,Kenza,En-nassef,SHSS,BACS,k.en-nassef@aui.ma,00631850616,false,learner,160,true
+5da041d7be877c07b0acf265,887,73766,Rhita,Ladel,SHSS,BAIS,r.ladel@aui.ma,0636017523,false,learner,160,true
+5da0889cbe877c07b0acf28a,888,81658,Mansouri,Fahd,SBA,MBA,f.mansouri@aui.ma,0612093291,false,learner,160,true
+5da0f7475037db031c310db4,889,80850,mariem,kamara,SBA,BBA,m.kamara@aui.ma,0645064619,false,learner,160,true
+5da20bafcfe3b50b98591857,890,74869,Ahmed,AL HILAL,SSE,BSCSC,a.alhilal@aui.ma,0648641316,false,learner,160,true
+5da217c7cfe3b50b98591862,891,70833,miryam,el merini,SBA,BBA,m.elmerini@aui.ma,0631354466,false,learner,160,true
+5da21f8fcfe3b50b98591878,892,78518,Mohammed,El Alami Mchachti,SBA,BBA,78518@aui.ma,0762418516,false,learner,160,true
+5da33709cfe3b50b985918be,893,58291,Yasmina,Chouihat,SBA,MBA,y.chouihat@aui.ma,0608997520,false,learner,160,true
+5da338e0cfe3b50b985918c1,894,81064,Imad,Ouahbi,SBA,BBA,i.ouahbi@aui.ma,0664181944,false,learner,160,true
+5da3485cbbf34c0bb02bdab1,895,70529,Hamza,Amor,SSE,BSEMS,70529@aui.ma,0675943576,false,learner,160,true
+5da35174cfe3b50b985918dd,896,76943,Rabab,Soubai,SSE,BSEMS,76943@aui.ma,0650063274,false,learner,160,true
+5da35831cfe3b50b985918e2,897,73163,achraf,soualhia,SSE,BSCSC,73163@aui.ma,0610585344,false,learner,160,true
+5da364b7cfe3b50b985918e6,898,73499,Amine,Baba,SBA,BBA,a.baba@aui.ma,0601200248,false,learner,160,true
+5da393a3cfe3b50b985918ec,899,72475,Oumkoulthoum,Laaraichi Badaoui,SBA,BBA,72475@aui.ma,0678832215,false,learner,160,true
+5da3b0c5cfe3b50b9859191d,900,76029,filali,nouhaila,SHSS,MAISD,n.filali@aui.ma,0662088819,false,learner,160,true
+5da43737bbf34c0bb02bdb21,901,72145,Ayman,Sallak,SSE,BSGE,a.sallak@aui.ma,0674053867,false,learner,160,true
+5da44d0ecfe3b50b98591927,902,70432,Nozha,Machi,SBA,BBA,n.machi@aui.ma,06 52 33 68 09,false,learner,160,true
+5da45369cfe3b50b98591929,903,56752,Safae,Boufker,SSE,BSCSC,s.boufker@aui.ma,0656333293,false,learner,160,true
+5da48c57cfe3b50b9859195b,904,30212,Lamchirah,Mourad,SHSS,NAMES,m.lamchirah@aui.ma,0606680020,false,learner,160,true
+5da49543bbf34c0bb02bdb3d,905,75943,ilyass,bougaa,SSE,BSEMS,75943@aui.ma,0641128505,false,learner,160,true
+5da49761bbf34c0bb02bdb3f,906,75466,Oussama,Aboulouafa,SSE,BSGE,o.aboulouafa@aui.ma,0688622285,false,learner,160,true
+5da4983cbbf34c0bb02bdb41,907,75595,Othmane,Qabbal,SSE,BSCSC,o.qabbal@aui.ma,0698662269,false,learner,160,true
+5da49a79bbf34c0bb02bdb44,908,73985,Nezar,Louali,SHSS,BACS,n.louali@aui.ma,0639950012,false,learner,160,true
+5da49e1bbbf34c0bb02bdb48,909,77755,Issam,Zaim,SSE,BSGE,i.zaim@aui.ma,0700428984,false,learner,160,true
+5da4e6ffbbf34c0bb02bdb7f,910,73681,Wael,Elaafi,SBA,MBA,w.elaafi@aui.ma,0688756906,false,learner,160,true
+5da4ed3a67a8fa040c576fdf,911,70108,Koufail,Salima,SBA,BBA,s.koufail@aui.ma,0628872811,false,learner,160,true
+5da5037267a8fa040c576fe7,912,73160,Maryam,Adwan,SSE,BSEMS,m.adwan@aui.ma,06 31 63 37 57,false,learner,160,true
+5da58336bbf34c0bb02bdb9b,913,67019,Nouhaila,el amine demnati,SSE,BSEMS,n.elaminedemnati@aui.ma,0621844658,false,learner,160,true
+5da58e7fbbf34c0bb02bdba3,914,65067,fatima,bouhali,SHSS,BAIS,f.bouhali@aui.ma,65067,false,learner,160,true
+5da59a56bbf34c0bb02bdbcf,915,72665,Souad,Anouar,SHSS,BAIS,s.anouar@aui.ma,0688564916,false,learner,160,true
+5da5c372bbf34c0bb02bdbfa,916,75827,Mehdi,Knouzi,SBA,BBA,m.knouzi@aui.ma,0767563918,false,learner,160,true
+5da617507aaa6210d4c695d7,917,78596,Karim,Bahoum,SBA,BBA,k.bahoum@aui.ma,0614392355,false,learner,160,true
+5da61dfb7aaa6210d4c695dd,918,78066,younes,bouziane,SSE,MSCSC,y.bouziane@aui.ma,0658329083,false,learner,160,true
+5da620bf7aaa6210d4c695e2,919,63598,Nada,Soufiani,SBA,BBA,n.soufiani@aui.ma,0666012029,false,learner,160,true
+5da62d996dafb705bc3378a3,920,73519,Nourah,Aldehaim,SBA,BBA,n.aldehaim@aui.ma,0653945623,false,learner,160,true
+5da648c7c237f413f8c038d7,921,76713,Kenza,Lebbar,SBA,BBA,k.lebbar@aui.ma,0674457113,false,learner,160,true
+5da6f7e0bd1ee10da8127770,922,67959,Bou-sokri,mohamed,SSE,MSSE,67959@aui.ma,0661178257,false,learner,160,true
+5da72d046dafb705bc3378d0,923,78292,Soulaiman,Motik,SHSS,BACS,s.motik@aui.ma,0639987679,false,learner,160,true
+5da76b266dafb705bc3378db,924,73378,Aymen,El kounsy,SBA,BA/MA,a.elkounsy@aui.ma,0649885365,false,learner,160,true
+5da83af0c237f413f8c038ff,925,69923,Mohamad,Wafa,SHSS,MAISD,m.laudzaiwafa@aui.ma,0609855764,false,learner,160,true
+5da8633f6dafb705bc3378e1,926,76392,Abdelyakine,EL Aouam,SBA,BBA,a.elaouam@aui.ma,0613665693,false,learner,160,true
+5da8a0d26dafb705bc337914,927,64144,Ahmed Yassine,Esmaili,SHSS,BAIS,a.esmaili@aui.ma,0653335567,false,learner,160,true
+5da8aea26dafb705bc337922,928,70543,Youssra,Gouddar,SHSS,BAIS,y.gouddar@aui.ma,0673965802,false,learner,160,true
+5da8b0136dafb705bc337925,929,75385,Hamza,Belhassan,SHSS,BAIS,ha.belhassan@aui.ma,0618010503,false,learner,160,true
+5da8b1c86dafb705bc337928,930,67188,Ali,Mountassir,SBA,BBA,67188@aui.ma,0636891432,false,learner,160,true
+5da8b3916dafb705bc33792a,931,73637,Mihad,Belmir,SHSS,BAIS,73637@aui.ma,0666136990,false,learner,160,true
+5da8f7e86dafb705bc33797c,932,75655,Charaf Eddine,CHAJAI,SHSS,BAIS,c.chajai@aui.ma,0662161894,false,learner,160,true
+5da981516dafb705bc337994,933,73025,Abir,Mouidi,SHSS,BACS,73025@aui.ma,06-57-58-91-08,false,learner,160,true
+5da99a6e7aaa6210d4c6960d,934,64345,Rim,Rafii,SHSS,BAIS,r.rafii@aui.ma,0645390095,false,learner,160,true
+5da9a997c237f413f8c03931,935,69883,Oumaima,Jmili,SBA,BBA,o.jmili@aui.ma,0620604570,false,learner,160,true
+5da9b82fe1b78209acf36da4,936,78620,zouhair,baroudi,SBA,BBA,78620@aui.ma,0767524619,false,learner,160,true
+5daa030b2dbb0814d8c69c55,937,80906,Alexandre,BOUYÉ,SHSS,MSSE,a.bouye@aui.ma,0777950287,false,learner,160,true
+5dab02d3e1b78209acf36ded,938,76016,Anjy,Alssaheli,SBA,BBA,a.alssaheli@aui.ma,0707229685,false,learner,160,true
+5dab34c8e1b78209acf36e31,939,82996,Hamza,Sedki,SBA,BBA,hsedki@aui.ma,0619879084,false,learner,160,true
+5dab8eb30f18c712aca74988,940,74408,kaoutar,mohtich,SBA,BBA,k.mohtich@aui.ma,0654216474,false,learner,160,true
+5dac5d72e1b78209acf36e6d,941,74173,Mehdi,Ait Ouali,SHSS,BAIS,m.aitouali@aui.ma,0677772792,false,learner,160,true
+5dac7d06e1b78209acf36e7e,942,77791,Chada,Nachit,SBA,BBA,c.nachit@aui.ma,0613374684,false,learner,160,true
+5daca03e0f18c712aca749d8,943,77701,Amal,Tadlaoui,SBA,MBA,am.tadlaoui@aui.ma,0662771476,false,learner,160,true
+5dacc4c40f18c712aca749f3,944,68029,Mohamed,El ansari,SBA,BBA,mo.elansari@aui.ma,0655531977,false,learner,160,true
+5dace4bae1b78209acf36ea7,945,79153,Imane,Rahmani,SBA,BBA,I.rahmani@aui.ma,0625113821,false,learner,160,true
+5dace937e1b78209acf36eab,946,76411,Hanane,Nouri,SBA,BBA,h.nouri@aui.ma,0653970924,false,learner,160,true
+5dacf242e1b78209acf36eae,947,69546,Ayoub,Mohammadine,SBA,BBA,ay.mohammadine@aui.ma,0697830186,false,learner,160,true
+5dad83cce1b78209acf36f10,948,78474,Oumnia,Bassam,SBA,BA/MA,o.bassam@aui.ma,00212654760011,false,learner,160,true
+5dad8527e1b78209acf36f12,949,72183,Rim,Laatiki,SHSS,BSHRD,r.laatiki@aui.ma,0691322663,false,learner,160,true
+5dadaa7f0f18c712aca74a21,950,71455,Mehdi,Ouidani,SBA,BBA,m.ouidani@aui.ma,0661824544,false,learner,160,true
+5dadb06f0f18c712aca74a3e,951,77336,Yasmina,Bennani,SBA,BBA,y.bennanikarim@aui.ma,‭‭+212 6 31 57 47 39‬‬,false,learner,160,true
+5daecbacaaf73117ac10f9c3,952,77161,Yasmine,Bouamrani,SHSS,BAIS,y.bouamrani@aui.ma,0623983962,false,learner,160,true
+5daee459aaf73117ac10f9db,953,2616,Gabriella,Moocarme,SHSS,BS/MS,g.moocarme@aui.ma,0628965519,false,serviceprovider,160,true
+5daf4ddcaaf73117ac10f9f7,954,73599,Edriss,Alaoui,SBA,BA/MA,73599@aui.ma,0650011394,false,learner,160,true
+5daf85c2aaf73117ac10fa06,955,70600,Ammar,Sebbar,SBA,BA/MA,a.sebbar@aui.ma,0624135694,false,learner,160,true
+5daf8d44aaf73117ac10fa09,956,77728,Hafsa,Amharech,SHSS,BAIS,77728@aui.ma,0670775715,false,learner,160,true
+5db04ef02dbb0814d8c69cf3,957,73654,Abdelkader,Benabd El Hanine,SBA,BBA,73654@aui.ma,0655882489,false,learner,160,true
+5db051d02dbb0814d8c69d0b,958,69676,asma,elhamel,SBA,BBA,a.elhamel@aui.ma,+212762851718,false,learner,160,true
+5db0864caaf73117ac10fa2a,959,76584,Hiba,El Moudan,SSE,BSEMS,h.elmoudan@aui.ma,0696831740,false,learner,160,true
+5db0ae570f18c712aca74a64,960,75485,Chaimae,Boukricha,SBA,BBA,c.boukricha@aui.ma,0616391015,false,learner,160,true
+5db16bf4aaf73117ac10fa43,961,70462,Maha,Alioua,SHSS,BA/MA,70462@aui.ma,0613909221,false,learner,160,true
+5db198f60f18c712aca74abe,962,76635,mehdi,ryahi,SBA,BBA,m.ryahi@aui.ma,0600549045,false,learner,160,true
+5db1a1b60f18c712aca74acd,963,76881,jihane,ouahib,SBA,BBA,j.ouahib@aui.ma,0610391293,false,learner,160,true
+5db2098faaf73117ac10fa63,964,78723,Ali,Radouani,SHSS,BSHRD,78723@aui.ma,0624589861,false,learner,160,true
+5db246b52dbb0814d8c69d44,965,81741,Aya,Bijjou,SBA,BBA,a.bijjou@aui.ma,0696900703,false,learner,160,true
+5db431766ddddd270c92c255,966,73508,Fatima Zohra,Serghini,SBA,BBA,73508@aui.ma,0661796652,false,learner,160,true
+5db4bc0d36965a206453e6fc,967,73478,Ikram,Hilali,SBA,BBA,i.hilali@aui.ma,0707994428,false,learner,160,true
+5db59aee36965a206453e76c,968,75975,Amine,Belghiti,SSE,BSEMS,75975@aui.ma,212664453533,false,learner,160,true
+5db5bbfe36965a206453e786,969,77523,doha,khalili,SBA,BBA,d.khalili@aui.ma,0636660613,false,learner,160,true
+5db5ea3a36965a206453e7d5,970,71386,rabab,sellami,SSE,BSEMS,r.sellami@aui.ma,0649891669,false,learner,160,true
+5db60e8b1f92710f949d654f,971,71163,aya,senhaji,SBA,BBA,a.senhaji@aui.ma,0651735628,false,learner,160,true
+5db6118c1f92710f949d6553,972,77626,Yahia,Hnid,SSE,MSSE,77626@aui.ma,0651471615,false,learner,160,true
+5db70c4036826b20a4521736,973,66933,Kaouthar,ibnoussina,SBA,BBA,k.ibnoussina@aui.ma,+212628424766,false,learner,160,true
+5db7137336826b20a4521740,974,76887,Ali,Ben hayoune,SBA,BBA,a.benhayoune@aui.ma,0622235445,false,learner,160,true
+5db7294602dec61348e2d32b,975,79152,yassine,Bouhouch,SHSS,BACS,79152@aui.ma,0697519181,false,learner,160,true
+5db739ff36826b20a452176e,976,69596,Ahmed,afi,SHSS,BACS,a.afi@aui.ma,0661292922,false,learner,160,true
+5db73daf36826b20a4521775,977,65033,fatima ezzahra,naja,SHSS,BACS,f.naja@aui.ma,0607398066,false,learner,160,true
+5db73e3036826b20a4521777,978,82773,Nouhaila,Aguergour,SHSS,MAISD,n.aguergour@aui.ma,0681984044,false,learner,160,true
+5db76d1436826b20a45217a5,979,74328,Ferdaous,ZAHIRI,SBA,BBA,f.zahiri@aui.ma,0655882652,false,learner,160,true
+5db81714c46428087c7bc931,980,76876,Khalil,Chakir Alaoui,SBA,BBA,k.chakiralaoui@aui.ma,0697249039,false,learner,160,true
+5db82bb636826b20a45217f2,981,75074,Ghita,BESRI,SBA,BBA,g.besri@aui.ma,0648125952,false,learner,160,true
+5db859b602dec61348e2d364,982,75062,Amine,Ghanem,SBA,BBA,75062@aui.ma,+212696740603,false,learner,160,true
+5db8711d36826b20a45218cc,983,74083,Houssam,Douhal,SBA,BBA,74083@aui.ma,0671029470,false,learner,160,true
+5db87c9d36826b20a45218fb,984,75302,Marwane,El Mattichi,SBA,MBA,m.elmattichi@aui.ma,0654888553,false,learner,160,true
+5db887f402dec61348e2d376,985,73736,rita,alaoui,SHSS,BSCSC,73736@aui.ma,0696989529,false,learner,160,true
+5db8922102dec61348e2d38b,986,72975,Hind,El quarrouti,SBA,BBA,h.elquarrouti@aui.ma,0662839055,false,learner,160,true
+5db892e402dec61348e2d38f,987,76373,Badreddine,Hassini,SBA,BBA,b.hassini@aui.ma,0641688825,false,learner,160,true
+5db8b6c836826b20a452192e,988,79168,Said,Labouihi,SBA,BBA,s.labouihi@aui.ma,0631055763,false,learner,160,true
+5db8f58c36826b20a452194c,989,76661,mariam,tanjaoui,SBA,BBA,m.tanjaoui@aui.ma,0662106274,false,learner,160,true
+5db9bb4ed5017d1c20ca6ac0,990,71545,Mohammed,El Mernissi,SBA,BBA,mo.elmernissi@aui.ma,0661390966,false,learner,160,true
+5db9c81773fc281aecb567e4,991,77895,Niema,Hansali,SHSS,BAIS,n.hansali@aui.ma,0666696030,false,learner,160,true
+5db9f3c149bfd02658688977,992,73482,Nada,Bouzlafa,SBA,BA/MA,n.bouzlafa@aui.ma,0678916194,false,learner,160,true
+5dba027049bfd02658688980,993,76668,Racha,Baï-iche,SBA,BBA,76668@aui.ma,0657039291,false,learner,160,true
+5dba0cc673fc281aecb567ff,994,73877,Aya,Khassoumi,SBA,MBA,73877@aui.ma,0694284158,false,learner,160,true
+5dba18de73fc281aecb5681d,995,78933,Nouhayla,Laghzaoui,SHSS,BSHRD,n.laghzaoui@aui.ma,0676778625,false,learner,160,true
+5dba22f35b4355159077eac5,996,67912,Mohamed,Sebaaoui,SHSS,BAIS,67912@aui.ma,+212695650915,false,learner,160,true
+5dbac49a49bfd026586889bc,997,74165,Ayman,FARSI,SSE,BSEMS,74165@aui.ma,0673812534,false,learner,160,true
+5dbac53e49bfd026586889be,998,75725,Chaymae,Hassani,SBA,BBA,c.hassani@aui.ma,0682336610,false,learner,160,true
+5dbaca3f49bfd026586889eb,999,70223,Omar,Regass,SHSS,BA/MA,70223@aui.ma,0661886379,false,learner,160,true
+5dbace6c49bfd026586889ee,1000,74387,Anas,Mendili,SSE,BSEMS,a.mendili@aui.ma,0610790780,false,learner,160,true
+5dbad0f749bfd026586889f2,1001,73221,Jasmine,Malone,SHSS,MAISD,j.malone@aui.ma,8327241371,false,learner,160,true
+5dbad44649bfd026586889f6,1002,75976,Yassine,Jamali,SSE,BSGE,y.jamali@aui.ma,0612685820,false,learner,160,true
+5dbaebab73fc281aecb5682f,1003,75301,maryem,alalmi ouali,SBA,BBA,75301@aui.ma,0694746002,false,learner,160,true
+5dbb066c49bfd02658688aab,1004,70131,Ayoub,BOUNASSER,SBA,BBA,70131@aui.ma,0678607313,false,learner,160,true
+5dbb2e15d5017d1c20ca6b1f,1005,70309,Najlae,El ghazal,SHSS,BAIS,70309@aui.ma,0697510551,false,learner,160,true
+5dbb2f24d5017d1c20ca6b22,1006,73511,khaoula,malek,SHSS,BAIS,k.malek@aui.ma,0652696946,false,learner,160,false
+5dbb611d5b4355159077eaec,1007,73694,med amine,achbah,SSE,BSCSC,m.achbah@aui.ma,0645152599,false,learner,160,true
+5dbbf9ddac366b0da0f9429f,1008,76527,Rami,El Manar Esslimi,SHSS,BAIS,r.elmanares-slimi@aui.ma,06 42 08 32 34,false,learner,160,true
+5dbc042b2c04290d2ce3f0db,1009,75953,meryem,najim,SBA,BBA,75953@aui.ma,0636981040,false,learner,160,true
+5dbc0cda595cf60da854b54f,1010,74598,Soufiane,Amougai,SSE,BSCSC,s.amougai@aui.ma,0628582633,false,learner,160,true
+5dbc28d0595cf60da854b57a,1011,74365,salma,zarandy,SSE,BSCSC,s.zarandy@aui.ma,0630600959,false,learner,160,true
+5dbc2dd8458c6d0d1c136031,1012,75657,Meryem,Abdallah,SSE,BS/MS,m.abdallah@aui.ma,0659647858,false,learner,160,true
+5dbc391c595cf60da854b587,1013,79291,imane,dargham,SSE,BSEMS,i.dargham@aui.ma,0619582023,false,learner,160,true
+5dbd4a7be7873306bc911a48,1014,74131,mohamed amine,tourabi,SBA,BBA,m.tourabi@aui.ma,0622413692,false,learner,160,true
+5dbd5a3ce7873306bc911a50,1015,70251,Sarra,Dasouli,SBA,BBA,s.dasouli@aui.ma,+212682279525,false,learner,160,true
+5dbd91125a5b5c085cb8b048,1016,69771,Chaimae,Hilali,SBA,BBA,c.hilali@aui.ma,0634178961,false,learner,160,true
+5dbd9ada5a5b5c085cb8b062,1017,71953,Nada,Cheddadi,SBA,BBA,71953@aui.ma,71953,false,learner,160,true
+5dbde7e50fa55513bc04d5e2,1018,67143,Ali,El Boulli Rguibi,SBA,BBA,a.elboullirguibi@aui.ma,0600602393,false,learner,160,true

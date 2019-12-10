@@ -1,0 +1,64 @@
+{
+  "name": "backend_kudos",
+  "version": "1.0.0",
+  "description": "kudos is a LMS that organizes the human and financial resources of learning centers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "Othmane Mahfoud",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "bluebird": "^3.5.4",
+    "body-parser": "^1.18.3",
+    "cloudinary": "^1.14.0",
+    "cors": "^2.8.5",
+    "csv-writer": "^1.5.0",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.15",
+    "multer": "^1.4.2",
+    "multer-storage-cloudinary": "^2.2.1",
+    "nodemailer": "^6.1.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-outlook": "^2.2.0"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "faker": "^4.1.0",
+    "jest": "^24.8.0",
+    "minimist": "^1.2.0",
+    "prettier": "^1.18.2",
+    "supertest": "^4.0.2"
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true,
+      "es6": true,
+      "browser": true,
+      "jest": true
+    },
+    "parserOptions": {
+      "ecmaVersion": "2019"
+    },
+    "extends": [
+      "eslint:recommended",
+      "plugin:prettier/recommended"
+    ],
+    "rules": {
+      "no-console": "off",
+      "no-await-in-loop": "warn"
+    }
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}

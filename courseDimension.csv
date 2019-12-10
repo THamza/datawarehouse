@@ -1,0 +1,529 @@
+courseKey,division,courseCode,courseTitle,capacity,beginTime,endTime,days,faculty
+1,UG,ACC2301,Accounting Principles I,30,10:00 AM,10:50 AM,MWF,
+2,UG,ACC2301,Accounting Principles I,30,11:00 AM,11:50 AM,MWF,"JABBOURI, Imad"
+3,UG,ACC2301,Accounting Principles I,30,11:00 AM,11:50 AM,MWF,
+4,UG,ACC2301,Accounting Principles I,30,2:40 PM,3:30 PM,MWF,
+5,UG,ACC2301,Accounting Principles I,30,11:00 AM,12:20 PM,TR,"HAMMOUD, Rhizlane"
+6,UG,ACC2302,Accounting Principles II,30,12:30 PM,1:50 PM,TR,"TAHRI, Anas"
+7,UG,ACC2302,Accounting Principles II,30,2:00 PM,3:20 PM,TR,"TAHRI, Anas"
+8,UG,ACC2302,Accounting Principles II,30,2:40 PM,3:30 PM,MWF,"SATT, Harit"
+9,UG,ACC3201,Moroccan Accounting and Taxation,25,1:40 PM,3:20 PM,M,"MARGHICH, Abdellatif"
+10,UG,ACC3201,Moroccan Accounting and Taxation,25,3:30 PM,5:10 PM,M,"MARGHICH, Abdellatif"
+11,UG,ACC3201,Moroccan Accounting and Taxation,25,5:20 PM,7:00 PM,M,"MARGHICH, Abdellatif"
+12,UG,ACC4305,International Accounting,25,3:30 PM,4:50 PM,TR,"BROWN, Zaynab"
+13,UG,ALS1001,Academic Listening & Speaking I,18,8:00 AM,9:40 AM,TR,
+14,UG,ALS1001,Academic Listening & Speaking I,18,9:00 AM,9:50 AM,F,
+15,UG,ALS1001,Academic Listening & Speaking I,18,8:00 AM,9:40 AM,TR,
+16,UG,ALS1001,Academic Listening & Speaking I,18,9:00 AM,9:50 AM,F,
+17,UG,ALS1001,Academic Listening and Speaking II,18,3:00 PM,4:40 PM,TR,
+18,UG,ALS1001,Academic Listening and Speaking II,18,4:00 PM,4:50 PM,F,
+19,UG,ALS1002,Academic Listening & Speaking II,18,8:00 AM,9:40 AM,TR,
+20,UG,ALS1002,Academic Listening & Speaking II,18,9:00 AM,9:50 AM,F,
+21,UG,ALS1002,Academic Listening & Speaking II,18,3:00 PM,4:40 PM,TR,
+22,UG,ALS1002,Academic Listening & Speaking II,18,4:00 PM,4:50 PM,F,
+23,UG,ALS1002,Academic Listening & Speaking II,18,3:00 PM,4:40 PM,TR,
+24,UG,ALS1002,Academic Listening & Speaking II,18,4:00 PM,4:50 PM,F,
+25,UG,ALS1002,Academic Listening & Speaking II,18,3:00 PM,4:40 PM,TR,
+26,UG,ALS1002,Academic Listening & Speaking II,18,4:00 PM,4:50 PM,F,
+27,UG,ARA1300,Moroccan Arabic I,20,9:30 AM,10:50 AM,TR,"CHEKAYRI, Abdellah"
+28,UG,ARA1311,Beginning Arabic I,20,11:00 AM,12:20 PM,TR,"CHEKAYRI, Abdellah"
+29,UG,ARA2311,Intermediate Arabic I,20,11:00 AM,12:20 PM,TR,"SAHLI, Meriem"
+30,UG,ARA3311,Advanced Arabic I,20,2:00 PM,3:20 PM,TR,"SAHLI, Meriem"
+31,UG,ARB1304,Basic Standard Arabic Skills II,20,5:10 PM,6:30 PM,MW,"BOUSSOUAB, Brahim"
+32,UG,ARB1309,Arabic For Genaral Purposes,20,12:30 PM,1:50 PM,TR,"BOUSSOUAB, Brahim"
+33,UG,ARB1310,Arabic for Academic Purposes,20,5:00 PM,6:20 PM,TR,"SAHLI, Meriem"
+34,UG,ARB1320,Arabic for Communication Purposes,20,5:00 PM,6:20 PM,TR,"CHEKAYRI, Abdellah"
+35,UG,ARD1001,Academic Reading I,18,8:00 AM,8:50 AM,F,
+36,UG,ARD1001,Academic Reading I,18,8:00 AM,9:40 AM,MW,
+37,UG,ARD1001,Academic Reading I,18,8:00 AM,8:50 AM,F,
+38,UG,ARD1001,Academic Reading I,18,8:00 AM,9:40 AM,MW,
+39,UG,ARD1001,Academic Reading I,18,3:00 PM,3:50 PM,F,
+40,UG,ARD1001,Academic Reading I,18,3:00 PM,4:40 PM,MW,
+41,UG,ARD1001,Academic Reading I,18,3:00 PM,3:50 PM,F,
+42,UG,ARD1001,Academic Reading I,18,3:00 PM,4:40 PM,MW,
+43,UG,ARD1002,Academic Reading II,18,8:00 AM,9:40 AM,MW,
+44,UG,ARD1002,Academic Reading II,18,8:00 AM,8:50 AM,F,
+45,UG,ARD1002,Academic Reading II,18,8:00 AM,8:50 AM,F,
+46,UG,ARD1002,Academic Reading II,18,8:00 AM,9:40 AM,MW,
+47,UG,ARD1002,Academic Reading II,18,8:00 AM,8:50 AM,F,
+48,UG,ARD1002,Academic Reading II,18,3:00 PM,4:40 PM,MW,
+49,UG,ARD1002,Academic Reading II,18,3:00 PM,3:50 PM,F,
+50,UG,ARD1002,Academic Reading II,18,3:00 PM,4:40 PM,MW,
+51,UG,AWG1001,Academic Writing and Grammar I,14,10:00 AM,11:40 AM,MTWRF,
+52,UG,AWG1001,Academic Writing and Grammar I,14,10:00 AM,11:40 AM,MTWRF,
+53,UG,AWG1001,Academic Writing and Grammar I,14,1:00 PM,2:40 PM,MTWRF,
+54,UG,AWG1001,Academic Writing and Grammar I,14,1:00 PM,2:40 PM,MTWRF,
+55,UG,AWG1001,Academic Writing and Grammar I,14,1:00 PM,4:40 PM,MTWRF,
+56,UG,AWG1002,Academic Writing and Grammar II,14,10:00 AM,11:40 AM,MTWRF,
+57,UG,AWG1002,Academic Writing and Grammar II,14,10:00 AM,11:40 AM,MTWRF,
+58,UG,AWG1002,Academic Writing and Grammar II,14,10:00 AM,11:40 AM,MTWRF,
+59,UG,AWG1002,Academic Writing and Grammar II,14,10:00 AM,11:40 AM,MTWRF,
+60,UG,AWG1002,Academic Writing and Grammar II,14,1:00 PM,2:40 PM,MTWRF,
+61,UG,AWG1002,Academic Writing and Grammar II,14,1:00 PM,2:40 PM,MTWRF,
+62,UG,AWG1002,Academic Writing and Grammar II,14,1:00 PM,2:40 PM,MTWRF,
+63,UG,AWG1002,Academic Writing and Grammar II,14,1:00 PM,2:40 PM,MTWRF,
+64,UG,BIO1400,Environmental Biology,24,9:30 AM,10:50 AM,TR,"BERRADA, Fouad"
+65,UG,BIO1400L,Environmental Biology Lab,12,1:00 PM,2:50 PM,T,"BERRADA, Fouad"
+66,UG,BIO1400L,Environmental Biology lab,12,3:00 PM,4:50 PM,T,"BERRADA, Fouad"
+67,UG,CHE1400,Chemistry and the Environment,24,9:30 AM,10:50 AM,TR,"SENDIDE, Khalid"
+68,UG,CHE1400L,Chemistry and the Environment Lab,12,1:00 PM,2:50 PM,T,
+69,UG,CHE1400,Chemistry and the Environment,24,11:00 AM,12:20 PM,TR,"SENDIDE, Khalid"
+70,UG,CHE1400L,Chemistry and the Environment Lab,12,3:00 PM,4:50 PM,T,"EL ASLI, Abdelghani"
+71,UG,CHE1400,Chemistry and the Environment,24,11:00 AM,12:20 PM,TR,"EL ASLI, Abdelghani"
+72,UG,CHE1400L,Chemistry and the Environment Lab,12,5:00 PM,6:50 PM,T,"EL ASLI, Abdelghani"
+73,UG,CHE1400L,Chemistry and the Environment Lab,12,1:00 PM,2:50 PM,R,
+74,UG,CHE1400L,Chemistry and the Environment Lab,12,3:40 PM,5:30 PM,W,
+75,UG,CHE1400L,Chemistry and the Environment Lab,12,3:00 PM,4:50 PM,R,
+76,UG,CHE1401,General Chemistry I,20,10:00 AM,10:50 AM,MWF,"EL HAJJAJI, Samir"
+77,UG,CHE1401L,General Chemistry I Lab,10,1:40 PM,3:30 PM,M,"EL HAJJAJI, Samir"
+78,UG,CHE1401,General Chemistry I,20,3:40 PM,5:00 PM,MW,"EL HAJJAJI, Samir"
+79,UG,CHE1401L,General Chemistry I Lab,10,3:40 PM,5:30 PM,M,
+80,UG,CHE1401L,General Chemistry I Lab,10,5:40 PM,7:30 PM,M,
+81,UG,CHE1401L,General Chemistry I Lab,10,1:00 PM,2:50 PM,T,"EL HAJJAJI, Samir"
+82,UG,CHE1402,General Chemistry II,14,11:00 AM,12:20 PM,TR,"OUARDAOUI, Abdelkrim"
+83,UG,CHE1402L,General Chemistry II lab,14,3:40 PM,5:30 PM,W,"OUARDAOUI, Abdelkrim"
+84,UG,CIP1001,Human Development  in Morocco,45,7:30 PM,9:00 PM,R,"ZEKRI, Salaheddine"
+85,UG,CIP1001,Human Development  in Morocco,45,7:30 PM,9:00 PM,W,"ZEKRI, Salaheddine"
+86,UG,CIP1001,Human Development  in Morocco,45,7:30 PM,9:00 PM,M,"ZEKRI, Salaheddine"
+87,UG,CIP1001,Human Development  in Morocco,45,7:30 PM,9:00 PM,T,"ZEKRI, Salaheddine"
+88,UG,CIP1001,Human Development  in Morocco,45,7:30 PM,9:00 PM,T,"ZEKRI, Salaheddine"
+89,UG,CIP1001,Human Development  in Morocco,45,7:30 PM,9:00 PM,W,"ZEKRI, Salaheddine"
+90,UG,CIP1002,The Role of Civil Soc in Human Dvlp,240,7:00 PM,9:00 PM,T,"ZEKRI, Salaheddine"
+91,UG,CIP2000,Community Involvement Fieldwork,8,10:00 AM,11:30 AM,M,"ZEKRI, Salaheddine"
+92,UG,CIP2000,Community Involvement Fieldwork,8,11:30 AM,1:00 PM,M,"ZEKRI, Salaheddine"
+93,UG,CIP2000,Community Involvement Fieldwork,8,3:00 PM,4:30 PM,M,"ZEKRI, Salaheddine"
+94,UG,CIP2000,Community Involvement Fieldwork,9,4:30 PM,6:00 PM,M,"ZEKRI, Salaheddine"
+95,UG,CIP2000,Community Involvement Fieldwork,8,10:00 AM,11:30 AM,T,"ZEKRI, Salaheddine"
+96,UG,CIP2000,Community Involvement Fieldwork,8,11:30 AM,1:00 PM,T,"ZEKRI, Salaheddine"
+97,UG,CIP2000,Community Involvement Fieldwork,8,3:00 PM,4:30 PM,T,"ZEKRI, Salaheddine"
+98,UG,CIP2000,Community Involvement Fieldwork,8,4:30 PM,6:00 PM,T,"ZEKRI, Salaheddine"
+99,UG,CIP2000,Community Involvement Fieldwork,8,10:00 AM,11:30 AM,W,"ZEKRI, Salaheddine"
+100,UG,CIP2000,Community Involvement Fieldwork,8,11:30 AM,1:00 PM,W,"ZEKRI, Salaheddine"
+101,UG,CIP2000,Community Involvement Fieldwork,8,3:00 PM,4:30 PM,W,"ZEKRI, Salaheddine"
+102,UG,CIP2000,Community Involvement Fieldwork,8,4:30 PM,6:00 PM,W,"ZEKRI, Salaheddine"
+103,UG,CIP2000,Community Involvement Fieldwork,8,10:00 AM,11:30 AM,R,"ZEKRI, Salaheddine"
+104,UG,CIP2000,Community Involvement Fieldwork,8,11:30 AM,1:00 PM,R,"ZEKRI, Salaheddine"
+105,UG,CIP2000,Community Involvement Fieldwork,8,3:00 PM,4:30 PM,R,"ZEKRI, Salaheddine"
+106,UG,CIP2000,Community Involvement Fieldwork,8,4:30 PM,6:00 PM,R,"ZEKRI, Salaheddine"
+107,UG,CIP2000,Community Involvement Fieldwork,8,10:00 AM,11:30 AM,F,"ZEKRI, Salaheddine"
+108,UG,CIP2000,Community Involvement Fieldwork,8,11:30 AM,1:00 PM,F,"ZEKRI, Salaheddine"
+109,UG,CIP2000,Community Involvement Fieldwork,8,3:00 PM,4:30 PM,F,"ZEKRI, Salaheddine"
+110,UG,CIP2000,Community Involvement Fieldwork,8,4:30 PM,6:00 PM,F,"ZEKRI, Salaheddine"
+111,UG,CIP2000,Community Involvement Fieldwork,8,10:00 AM,11:30 AM,M,"ZEKRI, Salaheddine"
+112,UG,CIP2000,Community Involvement Fieldwork,8,11:30 AM,1:00 PM,M,"ZEKRI, Salaheddine"
+113,UG,CIP2000,Community Involvement Fieldwork,8,3:00 PM,4:30 PM,M,"ZEKRI, Salaheddine"
+114,UG,CIP2000,Community Involvement Fieldwork,8,4:30 PM,6:00 PM,M,"ZEKRI, Salaheddine"
+115,UG,CIP2000,Community Involvement Fieldwork,8,10:00 AM,11:30 AM,T,"ZEKRI, Salaheddine"
+116,UG,CIP2000,Community Involvement Fieldwork,8,11:30 AM,1:00 PM,T,"ZEKRI, Salaheddine"
+117,UG,CIP2000,Community Involvement Fieldwork,8,3:00 PM,4:30 PM,T,"ZEKRI, Salaheddine"
+118,UG,CIP2000,Community Involvement Fieldwork,8,4:30 PM,6:00 PM,T,"ZEKRI, Salaheddine"
+119,UG,COM1301,Public Speaking,20,8:00 AM,8:50 AM,MWF,"AZERIAH, Ali"
+120,UG,COM1301,Public Speaking,20,9:00 AM,9:50 AM,MWF,"AZERIAH, Ali"
+121,UG,COM1301,Public Speaking,20,10:00 AM,10:50 AM,MWF,"AZERIAH, Ali"
+122,UG,COM1301,Public Speaking,20,10:00 AM,10:50 AM,MWF,"EL MORTAJI, Latifa"
+123,UG,COM1301,Public Speaking,20,11:00 AM,11:50 AM,MWF,"EL MORTAJI, Latifa"
+124,UG,COM1301,Public Speaking,20,1:40 PM,2:30 PM,MWF,"HOUKI, Naziha"
+125,UG,COM1301,Public Speaking,20,9:30 AM,10:50 AM,TR,"AGNAOU, Abderrahim"
+126,UG,COM1301,Public Speaking,20,5:00 PM,6:20 PM,TR,"HAJJI, Abdelmajid"
+127,UG,COM1301,Public Speaking,20,6:30 PM,7:50 PM,TR,"HAJJI, Abdelmajid"
+128,UG,COM1304,New Media Technology,30,3:40 PM,5:00 PM,MW,"EL BAYED, Afifa"
+129,UG,COM1304,New Media Technology,30,5:10 PM,6:30 PM,MW,"EL BAYED, Afifa"
+130,UG,COM2301,Professional Communication,20,3:40 PM,5:00 PM,MW,"AGNAOU, Abderrahim"
+131,UG,COM2301,Professional Communication,20,3:40 PM,5:00 PM,MW,"AGNAOU, Abderrahim"
+132,UG,COM2403,Photography & Visual Story Telling,15,3:40 PM,5:00 PM,MW,"DRAGOJLOV, Vesna"
+133,UG,COM2403L,Photography & Visual Story Telling,15,10:00 AM,11:50 AM,T,"DRAGOJLOV, Vesna"
+134,UG,COM2403,Photography & Visual Story Telling,15,5:10 PM,6:30 PM,MW,"DRAGOJLOV, Vesna"
+135,UG,COM2403L,Photography & Visual Story TellingL,15,12:00 PM,1:50 PM,T,"DRAGOJLOV, Vesna"
+136,UG,COM2404,Introduction to Film Making,12,12:30 PM,1:50 PM,TR,"SANTOS, Noelia"
+137,UG,COM2404L,Introduction to Film Making Lab,12,2:00 PM,3:50 PM,W,"SANTOS, Noelia"
+138,UG,COM2427,Art and Design Production,20,2:00 PM,3:20 PM,TR,"DRAGOJLOV, Vesna"
+139,UG,COM2427L,Art and Design Production Lab,20,10:00 AM,11:50 AM,W,"DRAGOJLOV, Vesna"
+140,UG,COM3301,Public Relations Communication,30,2:40 PM,3:30 PM,MWF,"HOUKI, Naziha"
+141,UG,COM3303,Global Communication & Media Policy,30,11:00 AM,12:20 PM,TR,"EL BAYED, Afifa"
+142,UG,COM3303HC,Global Communication & Media Policy,10,11:00 AM,12:20 PM,TR,"EL BAYED, Afifa"
+143,UG,COM3304,Alternative Media,30,11:00 AM,12:20 PM,TR,"OUMLIL, Kenza"
+144,UG,COM3311,Marketing Communications,30,6:30 PM,7:50 PM,TR,"HOUKI, Naziha"
+145,UG,COM3315,Media and Gender,30,2:00 PM,3:20 PM,TR,"OUMLIL, Kenza"
+146,UG,COM3320,Communication Theories,30,3:30 PM,4:50 PM,TR,"OUMLIL, Kenza"
+147,UG,COM3402,Advanced Film Production,12,2:00 PM,3:20 PM,TR,"SANTOS, Noelia"
+148,UG,COM3402L,Advanced Film Production Lab,12,4:00 PM,5:50 PM,W,"SANTOS, Noelia"
+149,UG,COM4304,Communication and Development,20,12:30 PM,1:50 PM,TR,"EL BAYED, Afifa"
+150,UG,COM4401,Digital Advertising Production,15,3:30 PM,4:50 PM,TR,"DRAGOJLOV, Vesna"
+151,UG,COM4401L,Digital Advertising Production Lab,15,12:00 PM,1:50 PM,W,"DRAGOJLOV, Vesna"
+152,UG,COM4405,Media Production Project Seminar,12,3:30 PM,4:50 PM,TR,"SANTOS, Noelia"
+153,UG,COM4405L,Media Production Project Semin Lab,12,2:00 PM,3:50 PM,M,"SANTOS, Noelia"
+154,UG,CSC1400,Introduction to Computers,20,9:30 AM,10:50 AM,TR,"CHTOUKI, Yousra"
+155,UG,CSC1400,Introduction to Computers,20,11:00 AM,12:20 PM,TR,"TALEI, Hanaa"
+156,UG,CSC1400,Introduction to Computers,20,12:30 PM,1:50 PM,TR,"CHTOUKI, Yousra"
+157,UG,CSC1400,Introduction to Computers,20,2:00 PM,3:20 PM,TR,"TALEI, Hanaa"
+158,UG,CSC1400,Introduction to Computers,20,6:40 PM,8:00 PM,MW,"CHTOUKI, Yousra"
+159,UG,CSC1400L,Introduction to Computers SBA Lab,20,11:00 AM,12:50 PM,M,
+160,UG,CSC1400L,Introduction to Computers SBA Lab,20,1:40 PM,3:30 PM,M,
+161,UG,CSC1400L,Introduction to Computers SBA Lab,20,3:40 PM,5:30 PM,M,
+162,UG,CSC1400L,Introduction to Computers SBA Lab,20,5:40 PM,7:30 PM,M,
+163,UG,CSC1400L,Introduction to Computers SHSS Lab,20,1:40 PM,3:30 PM,W,
+164,UG,CSC1400L,Introduction to Computers SHSS Lab,20,5:40 PM,7:30 PM,W,
+165,UG,CSC1401,Computer Programming,25,9:00 AM,9:50 AM,MWF,"CHRAIBI, M'hammed"
+166,UG,CSC1401L,Computer Programming  Lab,20,1:00 PM,2:50 PM,T,
+167,UG,CSC1401,Computer Programming,25,10:00 AM,10:50 AM,MWF,"CHRAIBI, M'hammed"
+168,UG,CSC1401L,Computer Programming Lab,20,3:00 PM,4:50 PM,T,
+169,UG,CSC1401,Computer Programming,25,11:00 AM,11:50 AM,MWF,"RACHIDI, Tajjeedine"
+170,UG,CSC1401L,Computer Programming Lab,20,5:00 PM,6:50 PM,T,
+171,UG,CSC1401L,Computer Programming Lab,20,5:00 PM,6:50 PM,R,
+172,UG,CSC2302,Data Structures,20,9:30 AM,10:50 AM,TR,"TALEI, Hanaa"
+173,UG,CSC2302,Data Structures,20,11:00 AM,12:20 PM,TR,FALAHBouchaib
+174,UG,CSC2303,Advanced Programming/Object,20,9:30 AM,10:50 AM,TR,"MOURHIR, Asmaa"
+175,UG,CSC2303,Advanced Programming/Object,20,12:30 PM,1:50 PM,TR,"MOURHIR, Asmaa"
+176,UG,CSC2304,Computer Architecture,25,5:00 PM,6:20 PM,TR,"MOURHIR, Asmaa"
+177,UG,CSC3315,Languages and Compilers,25,11:00 AM,12:20 PM,TR,"HARROUD, Hamid"
+178,UG,CSC3323,Analysis of Algorithms,25,11:00 AM,11:50 AM,MWF,"NISAR SHEIKH, Naeem"
+179,UG,CSC3323HC,Analysis of Algorithms,10,11:00 AM,11:50 AM,MWF,"NISAR SHEIKH, Naeem"
+180,UG,CSC3324,Software Engineering I,15,2:00 PM,3:20 PM,TR,FALAHBouchaib
+181,UG,CSC3324,Software Engineering I,15,5:10 PM,6:30 PM,MW,"KETTANI, Driss"
+182,UG,CSC3325,Software Engineering II,25,3:40 PM,5:00 PM,MW,"KETTANI, Driss"
+183,UG,CSC3326,Database Systems,15,2:00 PM,3:20 PM,TR,"ASSEM, Nasser"
+184,UG,CSC3326L,Database Systems Lab,15,3:40 PM,5:30 PM,W,"ASSEM, Nasser"
+185,UG,CSC3327,Internet Technologies,20,10:00 AM,10:50 AM,MWF,"IRAQI HOUSSAINI, Omar"
+186,UG,CSC3351,Operating Systems,25,12:30 PM,1:50 PM,TR,"ABID, Mohamed Riduan"
+187,UG,CSC3352,Computer Communications,20,3:30 PM,4:50 PM,TR,"ABBOU, Fouad Mohammed"
+188,UG,CSC3352L,Computer Communication Lab,20,,,,"ABBOU, Fouad Mohammed"
+189,UG,CSC3353,Computer Networks,25,12:00 PM,12:50 PM,MWF,"IRAQI HOUSSAINI, Omar"
+190,UG,CSC3355,Cryptography,25,5:10 PM,6:30 PM,MW,"RACHIDI, Tajjeedine"
+191,UG,CSC3361,Programming Challenges,15,6:00 PM,8:40 PM,W,"ABID, Mohamed Riduan"
+192,UG,CSC4399,Internet Technologies II,20,3:40 PM,5:00 PM,MW,"IRAQI HOUSSAINI, Omar"
+193,UG,CSC4399,Sp. Top. CSC: Data Mining,10,5:00 PM,6:20 PM,TR,"ASSEM, Nasser"
+194,UG,CSC4399,Sp. Top. CSC:Cloud Computing,10,9:30 AM,10:50 AM,TR,"ABID, Mohamed Riduan"
+195,UG,CSC4399,Adv.Top. in Computer Science,25,3:30 PM,4:50 PM,TR,FALAHBouchaib
+196,GR,CSC5333,Master Thesis,10,,,,
+197,GR,CSC5343,Final Project,10,,,,
+198,GR,CSC5345,Data Mining,10,5:00 PM,6:20 PM,TR,"ASSEM, Nasser"
+199,GR,CSC5361,Software Architecture and Design,10,12:30 PM,1:50 PM,TR,"SMITH, Kevin Scott"
+200,GR,CSC5368,Wireless Digital Communication and,10,,,,"ABBOU, Fouad Mohammed"
+201,GR,CSC5372,Software Testing,10,3:30 PM,4:50 PM,TR,FALAHBouchaib
+202,GR,CSC5373,Cloud Computing,10,9:30 AM,10:50 AM,TR,"ABID, Mohamed Riduan"
+203,UG,ECO1300,Introduction to Economics,30,9:30 AM,10:50 AM,TR,"HAMMOUD, Rhizlane"
+204,UG,ECO2301,Microeconomics,30,10:00 AM,10:50 AM,MWF,"SATT, Harit"
+205,UG,ECO2301,Microeconomics,30,11:00 AM,11:50 AM,MWF,"KONOU, Martin"
+206,UG,ECO2301,Microeconomics,30,12:00 PM,12:50 PM,MWF,"SATT, Harit"
+207,UG,ECO2301,Microeconomics,30,1:40 PM,2:30 PM,MWF,"KONOU, Martin"
+208,UG,ECO2302,Macroeconomics,30,3:40 PM,5:00 PM,MW,"BAIJOU, Ahmad"
+209,UG,ECO2302,Macroeconomics,30,9:30 AM,10:50 AM,TR,"FAKHAR, Ahlam"
+210,UG,ECO2302,Macroeconomics,30,11:00 AM,12:20 PM,TR,"FAKHAR, Ahlam"
+211,UG,ECO2302,Macroeconomics,30,3:30 PM,4:50 PM,TR,"FAKHAR, Ahlam"
+212,UG,ECO3301,International Trade,25,5:10 PM,6:30 PM,MW,"BAIJOU, Ahmad"
+213,UG,EGR1201,Introduction to Engineering,20,3:20 PM,5:00 PM,T,"ALJ, Yassine Salih"
+214,UG,EGR1210,Computer Aided Engineering,20,8:00 AM,9:20 AM,TR,"LGHOUL, Rachid"
+215,UG,EGR2301,Statics,28,5:00 PM,6:20 PM,TR,"LOUDIYI, Khalid"
+216,UG,EGR2302,Engineering Economics,20,9:00 AM,9:50 AM,MWF,"KISSANI, Ilham"
+217,UG,EGR2302,Engineering Economics,20,10:00 AM,10:50 AM,MWF,"KISSANI, Ilham"
+218,UG,EGR2311,Dynamics,28,11:00 AM,11:50 AM,MWF,"BENTAMY, Anas"
+219,UG,EGR2312,Mechanics of Materials,28,5:10 PM,6:30 PM,MW,"BENTAMY, Anas"
+220,UG,EGR2391,Acc.for Engineering Management,25,10:00 AM,10:50 AM,MWF,
+221,UG,EGR2391,Acc.for Engineering Management,30,12:00 PM,12:50 PM,MWF,"JABBOURI, Imad"
+222,UG,EGR2391,Acc.for Engineering Management,30,11:00 AM,11:50 AM,MWF,
+223,UG,EGR2391,Acc.for Engineering Management,30,2:40 PM,3:30 PM,MWF,
+224,UG,EGR2391,Acc.for Engineering Management,30,11:00 AM,12:20 PM,TR,"HAMMOUD, Rhizlane"
+225,UG,EGR2402,Electric Circuits,28,2:00 PM,3:20 PM,TR,"KHALLAAYOUN, Ahmed"
+226,UG,EGR2402L,Electric Circuits  Lab,14,3:40 PM,5:30 PM,W,
+227,UG,EGR2402L,Electric Circuits  Lab,14,5:00 PM,6:50 PM,T,
+228,UG,EGR3301,Fluid Mechanics,28,3:40 PM,5:00 PM,MW,"BENTAMY, Anas"
+229,UG,EGR3302,Thermodynamics,28,3:30 PM,4:50 PM,TR,"DARHMAOUI, Hassane"
+230,UG,EGR3304,Material Sciences,25,2:40 PM,3:30 PM,MWF,"KHALDOUNE, Asmae"
+231,UG,EGR3306,Engineering Instrumentation,20,11:00 AM,12:20 PM,TR,"ALJ, Yassine Salih"
+232,UG,EGR3331,Digital Design,25,9:30 AM,10:50 AM,TR,"ALJ, Yassine Salih"
+233,UG,EGR3331HC,Digital Design,10,9:30 AM,10:50 AM,TR,"ALJ, Yassine Salih"
+234,UG,EGR3391,Principles of Management,30,9:00 AM,9:50 AM,MWF,"RINEHART, Milton Duncan"
+235,UG,EGR3391,Principles of Management,30,10:00 AM,10:50 AM,MWF,"HASSI, Abderrahman"
+236,UG,EGR3391,Principles of Management,30,3:40 PM,5:00 PM,MW,"ABORAMADAN, Mohammed"
+237,UG,EGR3391,Principles of Management,30,9:30 AM,10:50 AM,TR,"EL GARAH, Ouafaa"
+238,UG,EGR3401,Engineering Statistics,28,12:30 PM,1:50 PM,TR,"KISSANI, Ilham"
+239,UG,EGR4391,Quant. Methods for Engineering Mgt,25,2:00 PM,3:20 PM,TR,"ALAOUI HAMIDI, Abdelhamid"
+240,UG,EGR4391,Quant. Methods for Engineering Mgt,25,3:40 PM,5:00 PM,MW,"KONOU, Martin"
+241,UG,EGR4391,Quant. Methods for Engineering Mgt,25,5:00 PM,6:20 PM,TR,
+242,UG,EGR4391,Quant. Methods for Engineering Mgt,25,12:00 PM,1:20 PM,MW,"LEHNERT, Matthew Ryan"
+243,UG,EGR4393,Production and Operations Managemen,30,9:30 AM,10:50 AM,TR,"ABRACHE, Jawad"
+244,UG,EGR4393,Production and Operations Managemen,30,11:00 AM,11:50 AM,MWF,"Akaaboune, Adil"
+245,UG,EGR4393,Production and Operations Managemen,30,12:00 PM,1:20 PM,MW,"Akaaboune, Adil"
+246,UG,EGR4399,Special Topics: Heat Transfer,28,8:00 AM,9:20 AM,TR,"DARHMAOUI, Hassane"
+247,UG,EGR4402,Capstone Design,40,,,,"ALJ, Yassine Salih"
+248,UG,EGR4402HC,Capstone Design,10,,,,"ALJ, Yassine Salih"
+249,UG,EGR4402L,Capstone Design Lab,40,,,,"ALJ, Yassine Salih"
+250,UG,ENG1301,English Composition I,20,12:00 PM,12:50 PM,MWF,"HANSEN, Michelle"
+251,UG,ENG1301,English Composition I,20,1:40 PM,2:30 PM,MWF,"HANSEN, Michelle"
+252,UG,ENG1301,English Composition I,20,9:30 AM,10:50 AM,TR,"ACHIBAT, Karim"
+253,UG,ENG1301,English Composition I,20,9:00 AM,9:50 AM,MWF,"FESTA, Monica"
+254,UG,ENG1301,English Composition I,20,11:00 AM,11:50 AM,MWF,"FESTA, Monica"
+255,UG,ENG1301,English Composition I,20,12:00 PM,12:50 PM,MWF,"FESTA, Monica"
+256,UG,ENG1301,English Composition I,20,5:00 PM,6:20 PM,TR,"SEILSTAD, Brian David"
+257,UG,ENG1301,English Composition I,20,9:00 AM,9:50 AM,MWF,"AMAKHMAKH, Naceur"
+258,UG,ENG1301,English Composition I,20,10:00 AM,10:50 AM,MWF,"AMAKHMAKH, Naceur"
+259,UG,ENG1301,English Composition I,20,3:40 PM,5:00 PM,MW,"HANSEN, Michelle"
+260,UG,ENG2301,Critical Thinking & Written Communi,20,3:40 PM,5:00 PM,MW,"BORKOWSKI, Peter"
+261,UG,ENG2301,Critical Thinking & Written Communi,20,2:00 PM,3:20 PM,TR,"BORKOWSKI, Peter"
+262,UG,ENG2302,Writing for the Business,20,3:30 PM,4:50 PM,TR,"BORKOWSKI, Peter"
+263,UG,ENG2302,Writing for the Business,20,11:00 AM,11:50 AM,MWF,"AMAKHMAKH, Naceur"
+264,UG,ENG2302,Writing for  the Business,20,2:40 PM,3:30 PM,MWF,"EL MORTAJI, Latifa"
+265,UG,ENG2303,Technical Writing,20,11:00 AM,12:20 PM,TR,"ACHIBAT, Karim"
+266,UG,ENG2303,Technical Writing,20,3:30 PM,4:50 PM,TR,"ACHIBAT, Karim"
+267,UG,ENG2320,Creative Writing,15,8:00 AM,9:20 AM,TR,"FESTA, Monica"
+268,UG,FAS0210,Strategic Academic Skills,20,12:00 PM,12:50 PM,MWF,"MARBOUH, Hicham"
+269,UG,FAS0210,Strategic Academic Skills,20,1:40 PM,2:30 PM,MWF,"MARBOUH, Hicham"
+270,UG,FAS0210,Strategic Academic Skills,20,10:00 AM,10:50 AM,MWF,"MARBOUH, Hicham"
+271,UG,FAS0210,Strategic Academic Skills,20,11:00 AM,11:50 AM,MWF,"MARBOUH, Hicham"
+272,UG,FAS0210,Strategic Academic Skills,20,12:00 PM,12:50 PM,MWF,"POPOVA, Biliana"
+273,UG,FAS0210,Strategic Academic Skills,20,1:40 PM,2:30 PM,MWF,"POPOVA, Biliana"
+274,UG,FAS0210,Strategic Academic Skills,20,2:40 PM,3:30 PM,MWF,"POPOVA, Biliana"
+275,UG,FAS0210,Strategic Academic Skills,20,5:00 PM,6:20 PM,TR,"POPOVA, Biliana"
+276,UG,FAS0210,Strategic Academic Skills,20,9:30 AM,10:50 AM,TR,"BOUDIHAJ, Aouatif"
+277,UG,FAS1220,Introduction to Critical Thinking,20,11:00 AM,12:20 PM,TR,"BOUDIHAJ, Aouatif"
+278,UG,FAS1220,Introduction to Critical Thinking,20,12:30 PM,1:50 PM,TR,"BOUDIHAJ, Aouatif"
+279,UG,FAS1220,Introduction to Critical Thinking,20,2:00 PM,3:20 PM,TR,"BOUDIHAJ, Aouatif"
+280,UG,FAS1220,Introduction to Critical Thinking,20,9:30 AM,10:50 AM,TR,"KABEL, Ahmed"
+281,UG,FAS1220,Introduction to Critical Thinking,20,11:00 AM,12:20 PM,TR,"KABEL, Ahmed"
+282,UG,FAS1220,Introduction to Critical Thinking,20,12:30 PM,1:50 PM,TR,"KABEL, Ahmed"
+283,UG,FAS1220,Introduction to Critical Thinking,20,2:00 PM,3:20 PM,TR,"KABEL, Ahmed"
+284,UG,FAS1220,Introduction to Critical Thinking,20,5:00 PM,6:20 PM,TR,"MALKI, Abdellah"
+285,UG,FAS1220,Introduction to Critical Thinking,20,6:30 PM,7:50 PM,TR,"MALKI, Abdellah"
+286,UG,FIN3301,Principles of Finance,30,2:40 PM,3:30 PM,MWF,"JABBOURI, Imad"
+287,UG,FIN3301,Principles of Finance,30,9:30 AM,10:50 AM,TR,"AGUENAOU, Samir"
+288,UG,FIN3301,Principles of Finance,30,11:00 AM,12:20 PM,TR,"ALAOUI HAMIDI, Abdelhamid"
+289,UG,FIN3302,Money and Banking,30,12:00 PM,1:20 PM,MW,"AGUENAOU, Samir"
+290,UG,FIN3302,Money and Banking,30,11:00 AM,12:20 PM,TR,"KOUBIDA, Sallem"
+291,UG,FIN3302,Money and Banking,30,3:40 PM,5:00 PM,MW,"LEBDAOUI, Hind"
+292,UG,FIN3303,Corporate Financial Management,30,12:00 PM,1:20 PM,MW,"BOUARICH, Badre"
+293,UG,FIN3303,Corporate Financial Management,30,1:40 PM,2:30 PM,MWF,"JABBOURI, Imad"
+294,UG,FIN3303,Corporate Financial Management,30,5:10 PM,6:30 PM,MW,"BOUARICH, Badre"
+295,UG,FIN3305,Intro. to Islamic Banking & Finance,25,5:10 PM,6:30 PM,MW,"LEBDAOUI, Hind"
+296,UG,FIN3399,Special Topics in Finance:Auditing,25,12:30 PM,1:50 PM,TR,"BROWN, Zaynab"
+297,UG,FIN4304,International Finance,25,12:30 PM,1:50 PM,TR,"KOUBIDA, Sallem"
+298,UG,FIN4305,Financial Intermediation,25,11:00 AM,12:20 PM,TR,"AGUENAOU, Samir"
+299,UG,FIN4306,Financial Investments & Securities,25,8:00 AM,9:20 AM,TR,"ALAOUI HAMIDI, Abdelhamid"
+300,GR,FIN5309,Financial Risk Management,25,9:30 AM,10:50 AM,TR,"ALAOUI HAMIDI, Abdelhamid"
+301,UG,FRE1301,Beginning French I,10,9:00 AM,9:50 AM,MWF,
+302,UG,FRE1302,Beginning French II,10,10:00 AM,10:50 AM,MWF,
+303,UG,FRE2301,Intermediate French,12,11:00 AM,12:20 PM,TR,
+304,UG,FRN1305,Consolidating French,12,11:00 AM,1:00 PM,MWF,
+305,UG,FRN1308,French for Academic Purposes I,17,9:30 AM,10:50 AM,TR,
+306,UG,FRN1308,French for Academic Purposes I,17,3:40 PM,5:00 PM,MW,
+307,UG,FRN2310,French for Academic Purposes II,17,3:40 PM,5:00 PM,MW,
+308,UG,FRN2310,French for Academic Purposes II,17,9:30 AM,10:50 AM,TR,
+309,UG,FRN2310,French for Academic Purposes II,17,11:00 AM,12:20 PM,TR,
+310,UG,FRN2310,French for Academic Purposes II,17,12:30 PM,1:50 PM,TR,
+311,UG,FRN3310,Advanced French-Writing & Speaking,17,12:00 PM,1:20 PM,MW,
+312,UG,FRN3310,Advanced French-Writing & Speaking,17,9:30 AM,10:50 AM,TR,
+313,UG,FRN3310,Advanced French-Writing & Speaking,17,11:00 AM,12:20 PM,TR,
+314,UG,FRN3310,Advanced French Writing & Speaking,17,12:30 PM,1:50 PM,TR,
+315,UG,FRN3310,Advanced French-Writing & Speaking,17,3:40 PM,5:00 PM,MW,
+316,UG,FYE1102,First Year Experience Seminar II,80,5:00 PM,6:00 PM,M,"BOUGAMZA, Omar"
+317,UG,FYE1102,First Year Experience Seminar II,80,6:00 PM,7:00 PM,T,"BOUGAMZA, Omar"
+318,UG,FYE1102,First Year Experience Seminar II,80,5:00 PM,6:00 PM,W,"BOUGAMZA, Omar"
+319,UG,FYE1102,First Year Experience Seminar II,80,5:00 PM,6:00 PM,R,"BOUGAMZA, Omar"
+320,UG,GBU2301,Business Statistics,30,9:00 AM,9:50 AM,MWF,"LEHNERT, Matthew Ryan"
+321,UG,GBU2301,Business Statistics,30,10:00 AM,10:50 AM,MWF,"LEHNERT, Matthew Ryan"
+322,UG,GBU2301,Business Statistics,30,5:10 PM,6:30 PM,MW,"CHETIOUI, Youssef"
+323,UG,GBU2301,Business Statistics,30,12:30 PM,1:50 PM,TR,
+324,UG,GBU3203,"Enterprises, Markets,",30,5:00 PM,6:40 PM,R,"KASSAL, Hammad"
+325,UG,GBU3203,"Enterprises, Markets,",30,6:50 PM,8:30 PM,R,"KASSAL, Hammad"
+326,UG,GBU3203,"Enterprises, Markets,",30,9:00 AM,10:40 AM,F,"KASSAL, Hammad"
+327,UG,GBU3302,Business Law and Ethics,30,8:00 AM,8:50 AM,F,"BENLAMHIDI, Sidi Abdellah"
+328,UG,GBU3302,Business Law and Ethics,30,4:00 PM,5:50 PM,R,"BENLAMHIDI, Sidi Abdellah"
+329,UG,GBU3302,Business Law and Ethics,20,9:00 AM,9:50 AM,F,"BENLAMHIDI, Sidi Abdellah"
+330,UG,GBU3302,Business Law and Ethics,20,6:00 PM,7:50 PM,R,"BENLAMHIDI, Sidi Abdellah"
+331,UG,GBU3302,Business Law and Ethics,18,9:00 AM,9:50 AM,F,
+332,UG,GBU3302,Business Law and Ethics,18,6:00 PM,7:50 PM,R,
+333,UG,GBU3311,Quantitative Methods in Business,25,2:00 PM,3:20 PM,TR,"ALAOUI HAMIDI, Abdelhamid"
+334,UG,GBU3311,Quant. Methods for Engineering Mgt,25,3:40 PM,5:00 PM,MW,"KONOU, Martin"
+335,UG,GBU3311,Quantitative Methods in Business,25,5:00 PM,6:20 PM,TR,
+336,UG,GBU3311,Quantitative Methods in Business,25,12:00 PM,1:20 PM,MW,"LEHNERT, Matthew Ryan"
+337,UG,GBU4100,Professional Career Development,30,1:40 PM,3:20 PM,F,"QUAISSE, Mohammed"
+338,UG,GBU4100,Professional Career Development,30,3:40 PM,5:20 PM,F,"QUAISSE, Mohammed"
+339,UG,GBU4100,Professional Career Development,30,5:40 PM,7:20 PM,F,"QUAISSE, Mohammed"
+340,GR,GBU5020,Research Methodology Seminar,25,2:00 PM,3:20 PM,TR,"LEBDAOUI, Hind"
+341,GR,GBU5306,Bus. Decision Making & Mgmt Science,25,11:00 AM,12:20 PM,TR,"ABRACHE, Jawad"
+342,GR,GBU5320,MBA Final Project,15,,,,"KOUBIDA, Sallem"
+343,UG,GEO1301,Introduction to Geography,30,9:00 AM,9:50 AM,MWF,"ROSS, Eric Stanley"
+344,UG,GEO1301,Introduction to Geography,30,10:00 AM,10:50 AM,MWF,"ROSS, Eric Stanley"
+345,GR,GEO5311,Environment and Security,20,12:00 PM,12:50 PM,MWF,"KALPAKIAN, Jack Vahram"
+346,UG,HIS1301,History of the Arab World (English),30,12:00 PM,12:50 PM,MWF,"LOVE, Paul"
+347,UG,HIS1301,History of the Arab World (English),30,5:10 PM,6:30 PM,MW,"MAGHRAOUI, Sidi Driss"
+348,UG,HIS1301,History of the Arab World(English),30,12:30 PM,1:50 PM,TR,"MAGHRAOUI, Sidi Driss"
+349,UG,HIS2301,Contemporary World History,30,10:00 AM,10:50 AM,MWF,"ELLIOTT, Derek"
+350,UG,HIS2301,Contemporary World History,30,11:00 AM,11:50 AM,MWF,"ELLIOTT, Derek"
+351,UG,HIS2302,N.Africa & the Middle East in 20th,30,3:40 PM,5:00 PM,MW,"LOVE, Paul"
+352,UG,HIS2371,History & Cultures of Sub-Saharan,30,2:40 PM,3:30 PM,MWF,"ELLIOTT, Derek"
+353,UG,HIS3310,Contemporary Moroccan History,20,3:30 PM,4:50 PM,TR,"MAGHRAOUI, Sidi Driss"
+354,UG,HON2310,Honors Seminar I,10,6:40 PM,9:30 PM,W,"BORKOWSKI, Rossitsa"
+355,UG,HON4310,Honors Seminar II,10,6:40 PM,9:30 PM,W,"BORKOWSKI, Rossitsa"
+356,UG,HRD2300,Intro. to Human Resource Developmen,30,1:40 PM,2:30 PM,MWF,"KUMAR, Smita"
+357,UG,HRD3302,Ethics in Professional Contexts,30,3:40 PM,5:00 PM,MW,"BORKOWSKI, Rossitsa"
+358,UG,HRD3304,Strategic HRD,30,5:00 PM,6:20 PM,TR,"ALANZY, Abdulrhman"
+359,UG,HRD3399,Special Topics in HRD,30,9:00 AM,9:50 AM,MWF,
+360,UG,HRD3401,Human Capital Management,30,9:30 AM,10:50 AM,TR,"MOUSTAGHFIR, Karim"
+361,UG,HRD3401L,Human Capital Management Lab,30,6:30 PM,8:20 PM,R,"JOUIDI, Driss"
+362,UG,HRD4303,Leadership and Management Develpt,30,12:30 PM,1:50 PM,TR,"KUMAR, Smita"
+363,UG,"HRD4303-01HC",Leadership and Management Develpt,10,1:40 PM,2:30 PM,MWF,"KUMAR, Smita"
+364,UG,HRD4304,Consulting for HRD,30,11:00 AM,12:20 PM,TR,"MOUSTAGHFIR, Karim"
+365,UG,HRD4306,Organizational Development & Change,30,5:10 PM,6:30 PM,MW,"KUMAR, Smita"
+366,UG,HRD4307,Career Management & Development,30,11:00 AM,11:50 AM,MWF,
+367,UG,HUM2301,Islamic Art & Architecture,30,5:10 PM,6:30 PM,MW,"ENNAHID, Said"
+368,UG,HUM2301,Islamic Art & Architecture,30,9:30 AM,10:50 AM,TR,"ENNAHID, Said"
+369,UG,HUM2302,Intro.to the Study of Islamic,30,11:00 AM,12:20 PM,TR,"ENNAHID, Said"
+370,UG,HUM2306,Comparative Religion,30,12:30 PM,1:50 PM,TR,"MONETTE, Connell Raymond"
+371,UG,HUM2306,Comparative Religion,30,2:00 PM,3:20 PM,TR,"MONETTE, Connell Raymond"
+372,UG,HUM3398,Honors Seminars,10,6:40 PM,9:30 PM,W,"BORKOWSKI, Rossitsa"
+373,UG,INS2301,Theories of International Relations,30,10:00 AM,10:50 AM,MWF,"LOUNNAS, Djalil"
+374,UG,INS2320,Model United Nations,30,5:10 PM,6:30 PM,MW,"KALPAKIAN, Jack Vahram"
+375,UG,INS3304,International Security,30,11:00 AM,11:50 AM,MWF,"LOUNNAS, Djalil"
+376,UG,INS3371,Africa in World Affairs,30,2:40 PM,3:30 PM,MWF,"KALPAKIAN, Jack Vahram"
+377,UG,INS3396,Special Tps in Int'l Relations,20,5:10 PM,6:30 PM,MW,"EL BERNOUSSI, Zaynab"
+378,GR,INS5304,Moroccan Foreign Policy,20,1:40 PM,2:30 PM,MWF,"KALPAKIAN, Jack Vahram"
+379,GR,INS5315,International Political Economy,20,8:00 AM,9:20 AM,TR,"EL BERNOUSSI, Zaynab"
+380,GR,INS5361,Political Economy of NAME,20,12:30 PM,1:50 PM,TR,"EL BERNOUSSI, Zaynab"
+381,GR,INS5362,Graduate Seminar,20,3:40 PM,5:00 PM,MW,"SHOUP, John Austin"
+382,GR,INS5391,Thesis Seminar,10,9:30 AM,10:50 AM,TR,"ZVAN-ELLIOTT, Katja"
+383,GR,INS5392,Policy Practicum,10,9:30 AM,10:50 AM,TR,"ZVAN-ELLIOTT, Katja"
+384,GR,INS5399,Sp.Tp. in NAMES,10,3:30 PM,4:50 PM,TR,"MAGHRAOUI, Sidi Driss"
+385,UG,LIT2301,Major Works in World Literature,30,3:40 PM,5:00 PM,MW,"MONETTE, Connell Raymond"
+386,UG,LIT2304,Introduction to Arabic Literature,30,5:00 PM,6:20 PM,TR,"BOUSSOUAB, Brahim"
+387,UG,LIT2304,Introduction to Arabic Literature,30,6:30 PM,7:50 PM,TR,"BOUSSOUAB, Brahim"
+388,UG,LIT2304,Introduction to Arabic Literature,30,2:00 PM,3:20 PM,TR,"BOUNAJMA, Mohammed"
+389,UG,LIT2305,Intro to World Literature in Arabic,30,3:30 PM,4:50 PM,TR,"BOUNAJMA, Mohammed"
+390,UG,LIT3310,Literature of The United States,30,11:00 AM,12:20 PM,TR,
+391,UG,MGT3301,Principles of Management,30,9:00 AM,9:50 AM,MWF,"RINEHART, Milton Duncan"
+392,UG,MGT3301,Principles of Management,30,10:00 AM,10:50 AM,MWF,"HASSI, Abderrahman"
+393,UG,MGT3301,Principles of Management,30,3:40 PM,5:00 PM,MW,"ABORAMADAN, Mohammed"
+394,UG,MGT3301,Principles of Management,30,9:30 AM,10:50 AM,TR,"EL GARAH, Ouafaa"
+395,UG,MGT3302,Entrepreneurship,30,10:00 AM,10:50 AM,MWF,"RINEHART, Milton Duncan"
+396,UG,MGT3302,Entrepreneurship,30,12:30 PM,1:50 PM,TR,"MacArthur, Deborah"
+397,UG,MGT3305,Organizational Behavior,25,9:30 AM,10:50 AM,TR,"HASSI, Abderrahman"
+398,UG,MGT3306,Conflict Management,25,1:40 PM,2:30 PM,MWF,"RINEHART, Milton Duncan"
+399,UG,MGT4301,Business Policy and Corpo. Strategy,30,2:00 PM,3:20 PM,TR,"ABORAMADAN, Mohammed"
+400,UG,MGT4301HC,Business Policy and Corpo. Strategy,10,2:00 PM,3:20 PM,TR,"ABORAMADAN, Mohammed"
+401,UG,MGT4301,Business Policy and Corpo. Strategy,30,3:30 PM,4:50 PM,TR,"ABORAMADAN, Mohammed"
+402,UG,MGT4301,Business Policy and Corpo. Strategy,30,3:40 PM,5:00 PM,MW,"Scaini, Luca"
+403,UG,MGT4301,Business Policy and Corpo. Strategy,30,5:10 PM,6:30 PM,MW,"Scaini, Luca"
+404,UG,MGT4303,Operations Management,30,9:30 AM,10:50 AM,TR,"ABRACHE, Jawad"
+405,UG,MGT4303,Operations Management,30,11:00 AM,11:50 AM,MWF,"Akaaboune, Adil"
+406,UG,MGT4303,Operations Management,30,12:00 PM,1:20 PM,MW,"Akaaboune, Adil"
+407,UG,MGT4306,Seminar in International Managemen,25,11:00 AM,12:20 PM,TR,"MacArthur, Deborah"
+408,UG,MGT4311,Quality Management,25,6:40 PM,8:00 PM,MW,"Akaaboune, Adil"
+409,UG,MGT4312,Project Management,25,12:30 PM,1:50 PM,TR,"Bouzekri, Hind"
+410,UG,MGT4314,Cross Cultural Management,25,9:00 AM,9:50 AM,MWF,"HASSI, Abderrahman"
+411,GR,MGT5306,Strategic Management in Global,25,5:10 PM,6:30 PM,MW,"EL GARAH, Ouafaa"
+412,UG,MIS3301,Management Information Systems,30,11:00 AM,12:20 PM,TR,"BENMOUSSA, Chihab"
+413,UG,MIS3301,Management Information Systems,30,3:30 PM,4:50 PM,TR,"BENMOUSSA, Chihab"
+414,UG,MIS3301,Management Information Systems,30,3:40 PM,5:00 PM,MW,"EL GARAH, Ouafaa"
+415,GR,MIS5301,Managing Information Systems,25,12:30 PM,1:50 PM,TR,"BENMOUSSA, Chihab"
+416,UG,MKT3301,Principles of Marketing,30,12:00 PM,12:50 PM,MWF,"CHETIOUI, Youssef"
+417,UG,MKT3301,Principles of Marketing,30,2:40 PM,3:30 PM,MWF,"CHETIOUI, Youssef"
+418,UG,MKT3301,Principles of Marketing,30,2:00 PM,3:20 PM,TR,"BOUHAFRA, Mounsif"
+419,UG,MKT3301,Principles of Marketing,30,5:00 PM,6:20 PM,TR,"BOUHAFRA, Mounsif"
+420,UG,MKT3302,Advertising & Promotion Management,30,9:00 AM,9:50 AM,MWF,"BENNANI BOUCHIBA, Abdelhamid"
+421,UG,MKT3302,Advertising & Promotion Management,30,10:00 AM,10:50 AM,MWF,"BENNANI BOUCHIBA, Abdelhamid"
+422,UG,MKT3303,Consumer Behavior,30,11:00 AM,11:50 AM,MWF,"BENNANI BOUCHIBA, Abdelhamid"
+423,UG,MKT3304,Fundamentals of Services Marketing,25,11:00 AM,11:50 AM,MWF,"Scaini, Luca"
+424,UG,MKT3399,Sp.Tp. in Marketing: Management,25,2:40 PM,3:30 PM,MWF,"Massey, Joseph Eric"
+425,UG,MKT4304,Marketing Research,25,11:00 AM,11:50 AM,MWF,"CHETIOUI, Youssef"
+426,UG,MKT4305,Marketing Management,25,1:40 PM,2:30 PM,MWF,"Massey, Joseph Eric"
+427,UG,MKT4306,International Marketing,25,12:00 PM,2:40 PM,F,"Scaini, Luca"
+428,GR,MKT5305,Advanced Marketing Management,25,6:40 PM,8:00 PM,MW,"Massey, Joseph Eric"
+429,GR,MKT5308,Services Marketing,25,12:00 PM,1:20 PM,MW,"Scaini, Luca"
+430,UG,MTH1304,Discrete Mathematics for Engineers,20,9:00 AM,9:50 AM,MWF,"KHASANOVA, Alina S."
+431,UG,MTH1304,Discrete Mathematics for Engineers,20,11:00 AM,11:50 AM,MWF,"EL BOUKILI, Abderrazzak"
+432,UG,MTH1304,Discrete Mathematics for Engineers,20,3:40 PM,5:00 PM,MW,"EL BOUKILI, Abderrazzak"
+433,UG,MTH1304,Discrete Mathematics for Engineers,20,8:00 AM,9:20 AM,TR,"RHIATI, Nabil"
+434,UG,MTH1305,Mathematics for Business,20,8:00 AM,8:50 AM,MWF,"VAN LIERDE, V_ronique M.M"
+435,UG,MTH1305,Mathematics for Business,20,8:00 AM,8:50 AM,MWF,"HASKOURI, Saleh"
+436,UG,MTH1305,Mathematics for Business,20,10:00 AM,10:50 AM,MWF,"EL BOUKILI, Abderrazzak"
+437,UG,MTH1305,Mathematics for Business,20,11:00 AM,11:50 AM,MWF,"SAMADI, Sedki"
+438,UG,MTH1305,Mathematics for Business,20,12:00 PM,12:50 PM,MWF,"HASKOURI, Saleh"
+439,UG,MTH1305,Mathematics for Business,20,9:30 AM,10:50 AM,TR,"CHAATIT, Fouad"
+440,UG,MTH1311,Calculus I: Differential Calculus,20,1:40 PM,2:30 PM,MWF,"HASKOURI, Saleh"
+441,UG,MTH1311,Calculus I: Differential Calculus,20,5:10 PM,6:30 PM,MW,"HASKOURI, Saleh"
+442,UG,MTH1311,Calculus I: Differential Calculus,20,2:00 PM,3:20 PM,TR,"CHAATIT, Fouad"
+443,UG,MTH1311,Calculus I: Differential Calculus,20,3:30 PM,4:50 PM,TR,"CHAATIT, Fouad"
+444,UG,MTH1312,Integral Calculus,20,3:30 PM,4:50 PM,TR,"LAAYOUNI, Lahcen"
+445,UG,MTH1312,Calculus II: Integral Calculus,20,5:00 PM,6:20 PM,TR,"LAAYOUNI, Lahcen"
+446,UG,MTH1388,Introductory Mathematical Thinking,20,10:00 AM,10:50 AM,MWF,"SAMADI, Sedki"
+447,UG,MTH2301,Multivariable Calculus,20,11:00 AM,12:20 PM,TR,"RHIATI, Nabil"
+448,UG,MTH2301HC,Multivariable Calculus,10,11:00 AM,12:20 PM,TR,"RHIATI, Nabil"
+449,UG,MTH2301,Multivariable Calculus,20,3:30 PM,4:50 PM,TR,"RHIATI, Nabil"
+450,UG,MTH2301,Multivariable Calculus,20,5:00 PM,6:20 PM,TR,"RHIATI, Nabil"
+451,UG,MTH2303,Linear Algebra and Matrix Theory,20,8:00 AM,8:50 AM,MWF,"NISAR SHEIKH, Naeem"
+452,UG,MTH2303HC,Linear Algebra and Matrix Theory,10,8:00 AM,8:50 AM,MWF,"NISAR SHEIKH, Naeem"
+453,UG,MTH2303,Linear Algebra and Matrix Theory,20,2:40 PM,3:30 PM,MWF,"NISAR SHEIKH, Naeem"
+454,UG,MTH2303HC,Linear Algebra and Matrix Theory,10,2:40 PM,3:30 PM,MWF,"NISAR SHEIKH, Naeem"
+455,UG,MTH2304,Differential Equations,20,12:00 PM,12:50 PM,MWF,"SAMADI, Sedki"
+456,UG,MTH2304HC,Differential Equations,10,12:00 PM,12:50 PM,MWF,"SAMADI, Sedki"
+457,UG,MTH2304,Differential Equations,20,8:00 AM,9:20 AM,TR,"LAAYOUNI, Lahcen"
+458,UG,MTH3301,Probability & Statistics for,20,8:00 AM,9:20 AM,TR,"Piston, Cal"
+459,UG,MTH4399,Sp.Tp. in Math: Math. for Engineers,15,9:00 AM,9:50 AM,MWF,"VAN LIERDE, V_ronique M.M"
+460,UG,PHI2301,Philosophical Thought,30,2:00 PM,3:20 PM,TR,"BORKOWSKI, Rossitsa"
+461,UG,PHI2301,Philosophical Thought,30,3:30 PM,4:50 PM,TR,"BORKOWSKI, Rossitsa"
+462,UG,PHI2302,History of Ideas,30,12:00 PM,12:50 PM,MWF,"BIGLIARDI, Stefano"
+463,UG,PHI2302,History of Ideas,30,2:40 PM,3:30 PM,MWF,"BIGLIARDI, Stefano"
+464,UG,PHI2302,History of Ideas,30,3:40 PM,5:00 PM,MW,"BIGLIARDI, Stefano"
+465,UG,PHY1400,Conceptual Physics,28,10:00 AM,10:50 AM,MWF,"KHALDOUNE, Asmae"
+466,UG,PHY1400L,Conceptual Physics Lab,14,3:00 PM,4:50 PM,R,"LGHOUL, Rachid"
+467,UG,PHY1401,Physics I,20,12:30 PM,1:50 PM,TR,"KHALDOUNE, Asmae"
+468,UG,PHY1401L,Physics I Lab,10,1:40 PM,3:30 PM,M,"LGHOUL, Rachid"
+469,UG,PHY1401,Physics I,20,2:00 PM,3:20 PM,TR,"DARHMAOUI, Hassane"
+470,UG,PHY1401L,Physics I Lab,10,3:40 PM,5:30 PM,M,"LGHOUL, Rachid"
+471,UG,PHY1401L,Physics I Lab,10,1:40 PM,3:30 PM,W,"LGHOUL, Rachid"
+472,UG,PHY1401L,Physics I Lab,10,3:40 PM,5:30 PM,W,
+473,UG,PHY1402,Physics II,28,3:30 PM,4:50 PM,TR,"LOUDIYI, Khalid"
+474,UG,PHY1402L,Physics II Lab,14,5:40 PM,7:30 PM,W,
+475,UG,PHY1402L,Physics II Lab,14,1:40 PM,3:30 PM,R,
+476,UG,PSC2301,Comparative Political Systems,30,11:00 AM,12:20 PM,TR,"ZVAN-ELLIOTT, Katja"
+477,UG,PSC2301,Comparative Political Systems,30,2:40 PM,3:30 PM,MWF,"LOUNNAS, Djalil"
+478,UG,PSC3310,North African Government & Politics,20,2:00 PM,3:20 PM,TR,"ZVAN-ELLIOTT, Katja"
+479,GR,PSC5370,North African Government & Politics,10,2:00 PM,3:20 PM,TR,"ZVAN-ELLIOTT, Katja"
+480,UG,PSY1301,Introduction to Psychology,30,9:00 AM,9:50 AM,MWF,"MC DANIEL, Stephen Dale"
+481,UG,PSY1301,Introduction to Psychology,30,10:00 AM,10:50 AM,MWF,"MC DANIEL, Stephen Dale"
+482,UG,PSY1301,Introduction to Psychology,30,11:00 AM,11:50 AM,MWF,"MC DANIEL, Stephen Dale"
+483,UG,PSY1301,Introduction to Psychology,30,5:00 PM,6:20 PM,TR,"VEYSSIERE,  Aure"
+484,UG,PSY2302,Cognitive Sciences & Cognitive Psyc,30,5:00 PM,6:20 PM,TR,"STUBANAS, Kathryn Ember"
+485,UG,PSY2304,Psychology of Health,30,12:30 PM,1:50 PM,TR,"VEYSSIERE,  Aure"
+486,UG,SCI1201,Health Science,30,10:00 AM,10:50 AM,MW,"EL ASLI, Abdelghani"
+487,UG,SCI2199,Special topics in Chemistry,20,8:00 AM,8:50 AM,T,"OUARDAOUI, Abdelkrim"
+488,UG,SCM3301,Introduction to Management Science,25,12:00 PM,1:20 PM,MW,"ABRACHE, Jawad"
+489,UG,SCM4301,Logistics and Supply Chain Mgt,25,3:40 PM,5:00 PM,MW,"BENRQYA, Yassine"
+490,UG,SCM4302,Production and Inventory Management,25,5:10 PM,6:30 PM,MW,"BENRQYA, Yassine"
+491,UG,SCM4303,Management of Transportation,25,9:30 AM,10:50 AM,TR,"BENRQYA, Yassine"
+492,GR,SCM5301,Logistics and Supply Chain Managem,25,3:40 PM,5:00 PM,MW,"Akaaboune, Adil"
+493,GR,SEM5321,Conventional Energy technologies,10,3:40 PM,5:00 PM,MW,"KHALDOUNE, Asmae"
+494,GR,SEM5323,Energy Distribution Systems,10,9:00 AM,9:50 AM,MWF,"KHALLAAYOUN, Ahmed"
+495,GR,SEM5325,Renwable Energy Technologies,10,2:00 PM,3:20 PM,TR,"LOUDIYI, Khalid"
+496,GR,SEM5333,Master Thesis,10,,,,
+497,GR,SEM5399,Special Topics in Sustainable Energ,10,,,,"BERDAI, Mohamed"
+498,UG,SOC1301,Principles of Sociology,30,12:00 PM,12:50 PM,MWF,"MC DANIEL, Stephen Dale"
+499,UG,SPN1301,Beginning Spanish I,17,12:30 PM,1:50 PM,TR,"BOUNOU, Abdelmouneim"
+500,UG,SPN1301,Beginning Spanish I,17,9:30 AM,10:50 AM,TR,"BOUNOU, Abdelmouneim"
+501,UG,SPN1301,Beginning Spanish I,17,10:00 AM,11:20 AM,MW,"BOUSFANJ,  Abdelkader"
+502,UG,SPN1302,Beginning Spanish Ii,17,12:30 PM,1:50 PM,TR,"BOUNOU, Abdelmouneim"
+503,UG,SSC1310,Introduction to Anthropology,30,12:30 PM,1:50 PM,TR,"THERRIEN, Catherine"
+504,UG,SSC1310,Introduction to Anthropology,30,3:30 PM,4:50 PM,TR,"THERRIEN, Catherine"
+505,UG,SSC2310,Development Policy,30,1:40 PM,2:30 PM,MWF,"SHOUP, John Austin"
+506,UG,SSC2315,"Sex, Gender and Power",30,5:10 PM,6:30 PM,MW,"GRAY, Doris"
+507,UG,SSC2330,International Field Seminar (China),10,5:10 PM,6:30 PM,MW,"EL BERNOUSSI, Zaynab"
+508,UG,SSC2342,Anthropology of Development,30,11:00 AM,11:50 AM,MWF,"SHOUP, John Austin"
+509,UG,SSC2371,Ethnography in Africa,20,10:00 AM,10:50 AM,MWF,"SHOUP, John Austin"
+510,UG,SSC2401,Social Statistics,30,9:30 AM,10:50 AM,TR,
+511,UG,SSC2401L,Social Statistics Lab,30,2:00 PM,3:50 PM,W,
+512,UG,SSC3303,Research Methods,30,11:00 AM,12:20 PM,TR,"LOUSTAU WILLIAMS, FrancesDaniell"
+513,UG,SSC3316,"Gender, Politcs & Society",30,5:00 PM,6:20 PM,TR,"GRAY, Doris"
+514,UG,SSC3372,The Political Economy of Developmen,30,3:30 PM,4:50 PM,TR,"LOUSTAU WILLIAMS, FrancesDaniell"
+515,UG,SSC3398,Sp.Topics in Gender Studies,30,6:30 PM,7:50 PM,TR,"GRAY, Doris"
+516,UG,SSC4000,Senior Capstone I for IS,15,3:40 PM,5:00 PM,MW,"ROSS, Eric Stanley"
+517,UG,SSC4000,Senior Capstone I for COM,15,3:40 PM,5:00 PM,MW,"HOUKI, Naziha"
+518,UG,SSC4000,Senior Capstone I for HRD,15,3:30 PM,4:50 PM,TR,"MOUSTAGHFIR, Karim"
+519,UG,SSC4303,Senior Capstone II for IS,15,,,,"ROSS, Eric Stanley"
+520,UG,SSC4303,Senior Capstone II for IS,15,3:40 PM,5:00 PM,MW,"ROSS, Eric Stanley"
+521,UG,SSC4303HC,Senior Capstone II,10,3:40 PM,5:00 PM,MW,"ROSS, Eric Stanley"
+522,UG,SSC4303,Senior Capstone II for COM,15,3:40 PM,5:00 PM,MW,"HOUKI, Naziha"
+523,UG,SSC4303HC,Senior Capstone II,10,3:40 PM,5:00 PM,MW,"HOUKI, Naziha"
+524,UG,SSC4303,Senior Capstone II for HRD,15,3:30 PM,4:50 PM,TR,"MOUSTAGHFIR, Karim"
+525,UG,"SSC4303-03HC",Senior Capstone II,10,3:30 PM,4:50 PM,TR,"MOUSTAGHFIR, Karim"
+526,GR,SSC5401,Social Statistics,5,9:30 AM,10:50 AM,TR,
+527,GR,SSC5401L,Social Statistics,5,2:00 PM,3:50 PM,W,
+528,UG,TMZ1301,Beginning Tamazight I,17,11:00 AM,12:20 PM,TR,"KHEJJOU, Ali"

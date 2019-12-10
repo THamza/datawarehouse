@@ -1,0 +1,77 @@
+studentNaturalKey,studentKey,AUID,firstName,lastName,school,major,email,phoneNumber,isBlocked,role,maxHours,active
+5d764af9a1825c112065f6b3,1,70461,Chaimae,Kachchour El Ghanami,SBA,BBA,70461@aui.ma,693001059,FALSE,serviceprovider,160,TRUE
+5d764c42a1825c112065f6b9,2,77539,Amine,Erriade,SBA,BBA,77539@aui.ma,604941748,FALSE,serviceprovider,160,TRUE
+5d764cd5a1825c112065f6bd,3,68378,Hafsa,Gharradi,SBA,BBA,68378@aui.ma,679900188,FALSE,serviceprovider,160,TRUE
+5d764d95a1825c112065f6bf,4,75983,Zineb,Attaoui,SSE,BSCSC,75983@aui.ma,611752108,FALSE,serviceprovider,160,TRUE
+5d764db4a1825c112065f6c1,5,74283,Nouhaila,Benyahya,SSE,BSCSC,n.benyahya@aui.ma,649713757,FALSE,serviceprovider,160,TRUE
+5d764e23a1825c112065f6c3,6,75450,Oumaima,El Azzouzi,SBA,MBA,o.elazzouzi@aui.ma,662168607,FALSE,serviceprovider,160,TRUE
+5d764e41a1825c112065f6c5,7,76319,El Arbi,Belfarsi,SSE,BSCSC,e.belfarsi@aui.ma,691692309,FALSE,serviceprovider,160,TRUE
+5d764e97a1825c112065f6c7,8,74077,Hiba,ELBASSITI,SSE,BSGE,74077@aui.ma,639541720,FALSE,serviceprovider,160,TRUE
+5d764f58a1825c112065f6cb,9,77206,Oussama,Tlaghi,SHSS,BAIS,o.tlaghi@aui.ma,2.1267E+11,FALSE,serviceprovider,160,TRUE
+5d76519da1825c112065f6ce,10,77627,Rihab,Oudda,SBA,BBA,r.oudda@aui.ma,666760260,FALSE,serviceprovider,160,TRUE
+5d76558fa1825c112065f6d2,11,73619,Kenza,Abdelhaq,SBA,BBA,73619@aui.ma,662653375,FALSE,serviceprovider,160,TRUE
+5d765879a1825c112065f6da,12,69710,Omar,Lahmidi,SBA,BBA,o.lahmidi@aui.ma,691590092,FALSE,serviceprovider,160,TRUE
+5d765993a1825c112065f6dc,13,77325,Yasmine,El Mzabi,SBA,BBA,y.elmzabi@aui.ma,655503060,FALSE,serviceprovider,160,TRUE
+5d7659c9a1825c112065f6de,14,69654,Meriem,Kasby,SBA,BBA,69654@aui.ma,651381614,FALSE,serviceprovider,160,TRUE
+5d765b88a1825c112065f6e0,15,70149,Lamiaa,Zrara,SSE,BSEMS,l.zrara@aui.ma,617205470,FALSE,serviceprovider,160,TRUE
+5d765c86a1825c112065f6e2,16,78253,Mou̢d,Bousalama,SSE,BSCSC,m.bousalama@aui.ma,2.12676E+11,FALSE,serviceprovider,160,TRUE
+5d7660b0a1825c112065f6e5,17,75245,Jaafar,Hana,SBA,BBA,j.hana@aui.ma,658428997,FALSE,serviceprovider,160,TRUE
+5d76628ba1825c112065f6e7,18,73968,Salma,El Ouazzani Touhami,SHSS,BACS,73968@aui.ma,670495274,FALSE,serviceprovider,160,TRUE
+5d7666a3a1825c112065f6f2,19,67228,Maftaha,Benchlikha,SHSS,BAIS,m.benchlikha@aui.ma,641258905,FALSE,serviceprovider,160,TRUE
+5d76688ea1825c112065f6f4,20,76465,Malak,Saadallah,SBA,BBA,76465@aui.ma,663621139,FALSE,serviceprovider,160,TRUE
+5d766966a1825c112065f6f6,21,68715,Imane,Chkoukout,SSE,BSCSC,i.chkoukout@aui.ma,669079196,FALSE,serviceprovider,160,TRUE
+5d766db1a1825c112065f6ff,22,70500,Sara,Bouriaba,SSE,BSEMS,s.bouriaba@aui.ma,638631989,FALSE,serviceprovider,160,TRUE
+5d7679c4a1825c112065f701,23,78566,Abir,Ben Seddik,SBA,BBA,abir.benseddik@aui.ma,658877397,FALSE,serviceprovider,160,TRUE
+5d76813ba1825c112065f707,24,71402,Yousra,El Alaoui,SSE,BSEMS,71402@aui.ma,662128388,FALSE,serviceprovider,160,TRUE
+5d7697eb0a073c107830fdf3,25,74163,Basma,Daoumer,SBA,BBA,b.daoumer@aui.ma,608987880,FALSE,serviceprovider,160,TRUE
+5d76a2d40a073c107830fdf5,26,75664,Wiam,Alami Chehboune,SBA,BBA,w.alamichehboune@aui.ma,674406246,FALSE,serviceprovider,160,TRUE
+5d76b6ff0a073c107830fdf9,27,76055,Yousra,Bensouda,SSE,BSGE,y.bensouda@aui.ma,642185802,FALSE,serviceprovider,160,TRUE
+5d76c3d09b7e5e1228283c9a,28,74723,Kenza,Nassiri,SHSS,BACS,74723@aui.ma,659810096,FALSE,serviceprovider,160,TRUE
+5d76e0c39b7e5e1228283caf,29,74222,Aspen,Barker,SHSS,BACS,74222@aui.ma,623866779,FALSE,serviceprovider,160,TRUE
+5d76e0e19b7e5e1228283cb1,30,73110,Inass,Sabbahi,SSE,BSEMS,i.sabbahi@aui.ma,611454200,FALSE,serviceprovider,160,TRUE
+5d776f2d376baf11ace2716b,31,66927,Fatima Ezzahra,Riakhi,SSE,BSEMS,f.riakhi@aui.ma,610776917,FALSE,serviceprovider,160,TRUE
+5d7772a3376baf11ace2717b,32,70206,Souad,Rahhal,SHSS,BACS,s.rahhal@aui.ma,2.12678E+11,FALSE,serviceprovider,160,TRUE
+5d77774f376baf11ace27194,33,69916,Diae,Lamiri,SBA,BBA,d.lamiri@aui.ma,639506226,FALSE,serviceprovider,160,TRUE
+5d7777d9376baf11ace27198,34,76304,Zineb Salma,Bahri,SSE,BSGE,z.bahri@aui.ma,634382122,FALSE,serviceprovider,160,TRUE
+5d77793d376baf11ace2719c,35,76420,Younes,Messari,SSE,BSCSC,y.messari@aui.ma,624306690,FALSE,serviceprovider,160,TRUE
+5d777958376baf11ace271a0,36,76269,Laila,Haidour,SHSS,BSHRD,76269@aui.ma,667974234,FALSE,serviceprovider,160,TRUE
+5d7779fd376baf11ace271a2,37,78835,Ayah,Isbayene,SHSS,BAIS,a.isbayene@aui.ma,633059916,FALSE,serviceprovider,160,TRUE
+5d777a0e376baf11ace271a4,38,75226,Chaimae,Farhane,SBA,BBA,c.farhane@aui.ma,643909313,FALSE,serviceprovider,160,TRUE
+5d777a47376baf11ace271a8,39,76803,Mohamed Amine,Harrabida,SSE,BSCSC,m.harrabida@aui.ma,628888551,FALSE,serviceprovider,160,TRUE
+5d778034376baf11ace271b8,40,76528,Asmae,Alaoui Mhammedi,SBA,BBA,76528@aui.ma,658734499,FALSE,serviceprovider,160,TRUE
+5d778f12376baf11ace271d3,41,70134,Slimane,El Ouafi,SSE,BSCSC,70134@aui.ma,651999010,FALSE,serviceprovider,160,TRUE
+5d7793de376baf11ace271de,42,75601,Wiam,Stitou,SBA,BBA,w.stitou@aui.ma,675347937,FALSE,serviceprovider,160,TRUE
+5d779c1c376baf11ace271eb,43,67058,Hamza,El Hafdaoui,SSE,MSSEM,h.elhafdaoui@aui.ma,06.05.20.55.94,FALSE,serviceprovider,320,TRUE
+5d77a29fc8e3f3173cada831,44,75934,Nissrine,Ben Hida,SBA,BBA,n.benhida@aui.ma,690968088,FALSE,serviceprovider,160,TRUE
+5d77a46dc8e3f3173cada834,45,78530,Manal,El Kamali,SBA,BBA,m.elkamali@aui.ma,636126125,FALSE,serviceprovider,160,TRUE
+5d77b55ac8e3f3173cada888,46,76761,Nour,Berrada,SBA,BBA,nour.berrada@aui.ma,622232909,FALSE,serviceprovider,160,TRUE
+5d77c905c8e3f3173cada903,47,70773,Ghita,Rochdi,SSE,BSEMS,g.rochdi@aui.ma,649900686,FALSE,serviceprovider,160,TRUE
+5d77c994c8e3f3173cada905,48,75383,Meryem,El Mouhib,SHSS,BAIS,m.elmouhib@aui.ma,663818685,FALSE,serviceprovider,160,TRUE
+5d77cba8c8e3f3173cada90a,49,69779,Oumaima,Bendraoui,SBA,BBA,o.bendraoui@aui.ma,662324946,FALSE,serviceprovider,160,TRUE
+5d77cc95c8e3f3173cada915,50,78356,Mohammed,ES-SAFI,SSE,BSCSC,m.es-safi@aui.ma,687198437,FALSE,serviceprovider,160,TRUE
+5d77de5fc8e3f3173cada972,51,75940,Sahl,El Khamkhami,SBA,BBA,s.elkhamkhami@aui.ma,604904996,FALSE,serviceprovider,160,TRUE
+5d77e184c8e3f3173cada97a,52,77073,Ouissal,Moumou,SSE,BSCSC,o.moumou@aui.ma,2.12707E+11,FALSE,serviceprovider,160,TRUE
+5d77f7b0c8e3f3173cada98c,53,75793,Nada,Benallouch,SBA,BBA,75793@aui.ma,659095061,FALSE,serviceprovider,160,TRUE
+5d77fe84c8e3f3173cada9b1,54,76557,Omar,senhaji,SBA,BA/MA,76557@aui.ma,693354337,FALSE,serviceprovider,160,TRUE
+5d780693376baf11ace270fe,55,77739,Aya,Hanouni,SBA,BBA,a.hanouni@aui.ma,2.12627E+11,FALSE,serviceprovider,160,TRUE
+5d7806b9376baf11ace27104,56,72883,Btissam,Hajjaoui,SSE,BSEMS,b.hajjaoui@aui.ma,682672266,FALSE,serviceprovider,160,TRUE
+5d781118376baf11ace27151,57,73793,Mohamed,Aghzal,SSE,BSCSC,m.aghzal@aui.ma,651704658,FALSE,serviceprovider,160,TRUE
+5d7824b6c8e3f3173cadaa8e,58,77448,Hiba,El Harrak,SSE,BSEMS,hi.elharrak@aui.ma,690620212,FALSE,serviceprovider,160,TRUE
+5d78d168c8e3f3173cadab2d,59,73429,Zainab,Berriane,SBA,BBA,z.berriane@aui.ma,643195848,FALSE,serviceprovider,160,TRUE
+5d78e888c8e3f3173cadab33,60,73283,Firdaouss,Hadri,SSE,BSEMS,f.hadri@aui.ma,636927826,FALSE,serviceprovider,160,TRUE
+5d78e88bc8e3f3173cadab35,61,64810,Abdelhamid,Charif,SBA,BBA,64810@aui.ma,650012488,FALSE,serviceprovider,160,TRUE
+5d791ce6c8e3f3173cadabe2,62,73430,Salma,Zekri,SHSS,BAIS,salma.zekri@aui.ma,611839986,FALSE,serviceprovider,160,TRUE
+5d793a4ac8e3f3173cadac48,63,77379,Jaafar,Amahrit,SBA,BBA,j.amahrit@aui.ma,662080421,FALSE,serviceprovider,160,TRUE
+5d795785de1d4c0f50e542e5,64,70271,Ghita,Satiaa,SBA,BBA,g.satiaa@aui.ma,625085109,FALSE,serviceprovider,160,TRUE
+5d7a421fde1d4c0f50e543af,65,71649,Mouna,Massaoudi,SHSS,MAIS,m.massaoudi@aui.ma,622843439,FALSE,serviceprovider,160,TRUE
+5d7a71c7de1d4c0f50e54410,66,57442,Omar,Sabil,SHSS,MAISD,o.sabil@aui.ma,57442,FALSE,serviceprovider,160,TRUE
+5d7b6e67de1d4c0f50e544de,67,67832,Boutaina,Markazi,SHSS,BSHRD,b.markazi@aui.ma,666267988,FALSE,serviceprovider,160,TRUE
+5d7e377e4959ef12b03fa95c,68,71726,Zakaria,El Asri,SSE,BSCSC,71726@aui.ma,662887667,FALSE,serviceprovider,160,TRUE
+5d7f93e1dd381d17009f7e12,69,63201,Elias,Ghechi,SBA,MBA,e.ghechi@aui.ma,2.1263E+11,FALSE,serviceprovider,160,TRUE
+5d8a656bcf8101017493b808,70,75531,Adam,Mchaouar,SHSS,MAISD,a.mchaouar@aui.ma,+212 6.42.46.24.39,FALSE,serviceprovider,160,TRUE
+5d9083ac4be5840dd444dcba,71,72756,Ali,Elfanidi,SBA,BBA,a.elfanidi@aui.ma,656595071,FALSE,serviceprovider,160,TRUE
+5d91d7c457a7a914bc291477,72,81191,Shelby,Fenn,SHSS,BA/MA,s.fenn@aui.ma,14158454359,FALSE,serviceprovider,160,TRUE
+5d91d7ed57a7a914bc291479,73,81746,Sofia,Jensen,SHSS,BA/MA,s.jensen@aui.ma,15052744857,FALSE,serviceprovider,160,TRUE
+5d921480726dcc11382f5c29,74,59839,Maria,Ala ( group tutoring only),SBA,BBA,m.ala@aui.ma,644079050,FALSE,serviceprovider,160,TRUE
+5d935d5a737fb511e0b3b7b6,75,72072,Sara,Katona,SHSS,NAMES,s.katona@aui.ma,17172754585,FALSE,serviceprovider,160,TRUE
+5daee459aaf73117ac10f9db,76,2616,Gabriella,Moocarme,SHSS,BS/MS,g.moocarme@aui.ma,628965519,FALSE,serviceprovider,160,TRUE
